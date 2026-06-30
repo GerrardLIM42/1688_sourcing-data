@@ -396,7 +396,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 15000,
+      "sell": 9000,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -405,21 +405,21 @@
           "id": "212af355-5d80-4912-bd23-7827e274199c",
           "name": "기본 로고 불포",
           "cny": 6.7,
-          "sell": 15000,
+          "sell": 9000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pVLJ642IFlAfou93G_!!2208394809257-0-cib.jpg"
         },
         {
           "id": "a376ee86-54f0-4a51-bec6-f4865fffe961",
           "name": "로고 포함 양면",
           "cny": 9,
-          "sell": 17000,
+          "sell": 10000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN0195Z4wz2IFlFDeN5iB_!!2208394809257-0-cib.jpg"
         },
         {
           "id": "9e2807de-3cbf-446e-b3a0-3f439ac27644",
           "name": "로고 포함 업그레이",
           "cny": 13.5,
-          "sell": 17000,
+          "sell": 13000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01vWVN6F2IFlVRYdl2s_!!2208394809257-0-cib.jpg"
         }
       ]
