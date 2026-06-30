@@ -566,7 +566,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 27900,
+      "sell": 20000,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -575,14 +575,14 @@
           "id": "03650252-fb9d-4aa8-8b0a-f9bd4a29c142",
           "name": "62cm 1.7kg",
           "cny": 25,
-          "sell": 27900,
+          "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01faluNf2MBPxFCDm6t_!!2212729709789-0-cib.jpg"
         },
         {
           "id": "26e22abe-7b4c-4e94-937a-a110e87451e1",
           "name": "78cm 1.9kg",
           "cny": 27,
-          "sell": 29900,
+          "sell": 22000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01IXgmc52MBPxF4Bpn4_!!2212729709789-0-cib.jpg"
         }
       ]
