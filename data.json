@@ -846,16 +846,16 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 24890,
+      "sell": 20000,
       "ad": 7,
       "ret": 3,
       "memo": "무게: 270g, 접은길이: 36cm",
       "options": [
         {
           "id": "05871cd9-0dcf-414e-bb3b-f47da635b772",
-          "name": "",
+          "name": "옵션 1",
           "cny": 26,
-          "sell": 24890,
+          "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ruOU1e1CmNnFrnif8_!!2349350123-0-cib.jpg"
         }
       ]
