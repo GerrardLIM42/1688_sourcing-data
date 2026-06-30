@@ -488,7 +488,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 15000,
+      "sell": 12500,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -497,7 +497,7 @@
           "id": "73abae0c-ab98-4345-adb8-5658b9c6cf80",
           "name": "옵션 1",
           "cny": 12.8,
-          "sell": 15000,
+          "sell": 12500,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01HbXanp1elI40hqPgA_!!3321513911.jpg"
         }
       ]
