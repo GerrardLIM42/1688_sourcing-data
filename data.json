@@ -1,5 +1,44 @@
 [
   {
+    "id": "0e00b16a-9cee-433c-93a9-31b19b51c54f",
+    "createdAt": 1782814141197,
+    "name": "에어 소파",
+    "folder": "에어 소파",
+    "link": "https://detail.1688.com/offer/916653340351.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=bd177d7d161f4303a90934175c878789&sessionid=b4f1e8fee6aa7575278e7d3502ff30bb",
+    "image": "https://cbu01.alicdn.com/img/ibank/O1CN01iuGF1x1GhZtif0ner_!!2216308170654-0-cib.jpg",
+    "category": "CAMP",
+    "status": "검토중",
+    "isBundle": false,
+    "bundleQty": 2,
+    "cny": 11.2,
+    "rate": 300,
+    "importMode": "simple",
+    "duty": 8,
+    "vatOn": true,
+    "forwarding": 0,
+    "clearance": 0,
+    "coupangCat": "스포츠/레저",
+    "feeManual": 11,
+    "channel": "rocket",
+    "promo": "none",
+    "rocketSize": "소형 (2kg 이하)",
+    "rocketFeeManual": 2500,
+    "marketShip": 0,
+    "sell": 12000,
+    "ad": 7,
+    "ret": 3,
+    "memo": "MOQ : 2",
+    "options": [
+      {
+        "id": "64c7a4ba-f255-4fe7-9a71-1e2a91a96adf",
+        "name": "블루",
+        "cny": 11.2,
+        "sell": 12000,
+        "image": "https://cbu01.alicdn.com/img/ibank/O1CN01iuGF1x1GhZtif0ner_!!2216308170654-0-cib.jpg"
+      }
+    ]
+  },
+  {
     "id": "9839fa5e-1f03-47aa-80fe-5808ab5cc540",
     "createdAt": 1782814019327,
     "name": "에어 소파",
