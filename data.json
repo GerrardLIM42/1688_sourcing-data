@@ -4,9 +4,9 @@
       "id": "d03360cb-eceb-4290-aae1-329a0dbe5425",
       "createdAt": 1782823281072,
       "name": "다리 받침 캠핑 의자",
-      "folder": "캠핑 의자",
       "link": "https://detail.1688.com/offer/1061176552956.html?spm=a26352.13672862.offerlist.60.885b762ad9a2cu&cosite=-&tracelog=p4p&_p_isad=1&clickid=c7ac899b1e2d4eacaa073a96e280ad5f&sessionid=de871ef71f6344959f1c9acd1e487f98",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01WZa3O71p2N5gxr8xZ_!!2222560765302-0-cib.jpg",
+      "folder": "캠핑 의자",
       "category": "CAMP",
       "status": "검토중",
       "isBundle": false,
@@ -651,16 +651,16 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 27900,
+      "sell": 20000,
       "ad": 7,
       "ret": 3,
       "memo": "",
       "options": [
         {
           "id": "4f68c166-373c-468e-8b32-0ff0eae018f7",
-          "name": "",
+          "name": "옵션 1",
           "cny": 26.41,
-          "sell": 27900,
+          "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN011y6SUo1pyXHj0yj55_!!2206824905429-0-cib.jpg"
         }
       ]
