@@ -658,7 +658,6 @@
       <p>MORIVA 소싱 검토용 트래커 · 1688 사입 → 쿠팡 로켓그로스 · 카테고리 자동 수수료 · 묶음상품 · 폴더 비교 · 선택 비교</p>
       <div class="sync-row">
         <div class="sync-status" id="sync-status">동기화 상태 확인 중…</div>
-        <button type="button" class="btn ghost sync-cfg-btn" id="gh-config-btn" title="GitHub 동기화 설정">⚙️ GitHub 설정</button>
       </div>
     </div>
     <div class="stamp-logo"><span>1688<br/>→<br/>COUPANG</span></div>
@@ -1089,23 +1088,11 @@
   const hasClaudeStorage = (typeof window.storage !== 'undefined' && window.storage &&
     typeof window.storage.get === 'function' && typeof window.storage.set === 'function');
   // ⚠️ 이 토큰은 클라이언트 코드에 그대로 노출됩니다. 이 파일을 공개된 곳에 올리지 마세요.
-  const GITHUB_OWNER_KEY = 'moriva_gh_owner';
-  const GITHUB_REPO_KEY  = 'moriva_gh_repo';
-  const GITHUB_PATH_KEY  = 'moriva_gh_path';
-  const GITHUB_TOKEN_KEY = 'moriva_gh_token';
+  // ── Cloudflare Worker 프록시 (토큰 없이 기기 간 동기화)
+  const WORKER_URL = 'https://moriva-github-proxy.moriva-hyeoncl.workers.dev';
 
-  function getGithubConfig(){
-    return {
-      owner: localStorage.getItem(GITHUB_OWNER_KEY) || '',
-      repo:  localStorage.getItem(GITHUB_REPO_KEY)  || '',
-      path:  localStorage.getItem(GITHUB_PATH_KEY)  || 'data.json',
-      token: localStorage.getItem(GITHUB_TOKEN_KEY) || '',
-    };
-  }
-  function getGithubAPI(){
-    const { owner, repo, path } = getGithubConfig();
-    return `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
-  }
+  function getGithubConfig(){ return { owner:'', repo:'', path:'', token:'' }; }
+  function getGithubAPI(){ return WORKER_URL; }
 
   let githubSha = null;
   let syncTimer = null;
@@ -1459,7 +1446,7 @@
 
   async function githubFetchFile(){
     const res = await fetch(getGithubAPI(), {
-      headers: { 'Authorization': `Bearer ${getGithubConfig().token}`, 'Accept': 'application/vnd.github+json' },
+      headers: { 'Accept': 'application/vnd.github+json' },
       cache: 'no-store'
     });
     if(res.status === 404){
@@ -1489,7 +1476,6 @@
       res = await fetch(getGithubAPI(), {
         method: 'PUT',
         headers: {
-          'Authorization': `Bearer ${getGithubConfig().token}`,
           'Accept': 'application/vnd.github+json',
           'Content-Type': 'application/json'
         },
@@ -1532,7 +1518,7 @@
       }
     }
     // GitHub(data.json)에서 우선 불러오기 — 다른 기기/브라우저와 동일한 데이터를 보기 위함
-    if(getGithubConfig().token){
+    if(true){ // Worker 프록시 사용 — 토큰 불필요
       setSyncStatus('syncing');
       try{
         const payload = await githubFetchFile();
@@ -1609,7 +1595,7 @@
       console.error(e);
       showToast('이 브라우저에서는 저장 공간이 부족하거나 차단되어 있습니다.');
     }
-    if(!getGithubConfig().token){
+    if(false){ // Worker 프록시 사용 중 — 항상 동기화
       setSyncStatus('local');
       return;
     }
