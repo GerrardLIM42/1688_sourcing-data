@@ -4,9 +4,9 @@
       "id": "d026080c-9abe-45a0-93b9-0c5285a2c11f",
       "createdAt": 1782895649279,
       "name": "링 햇빛가리개",
-      "folder": "햇빛가리개",
       "link": "",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01urTzho1bfO6GWh8Oe_!!2218397543492-0-cib.jpg",
+      "folder": "햇빛가리개",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -29,6 +29,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "101069cf-a2bf-495d-8bcc-aab0b6734e63",
@@ -50,9 +52,9 @@
       "id": "639cebe2-35af-4711-806f-068d37a2dd11",
       "createdAt": 1782895510685,
       "name": "우산형 햇빛가리",
-      "folder": "햇빛가리개",
       "link": "https://detail.1688.com/offer/639544253848.html?kj_agent_plugin=aliprice&fromkv=xytTrace:2146938717822691828996351e0cc9&token=Wq2TNiac%2BESs0A9MKpM8dFMxTVYa7NQHWiYwSyCg4S9Mby2KumqQ5IVHH19myXvd",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01yaoF1f2KPV6YcJmQQ_!!966119549-0-cib.jpg",
+      "folder": "햇빛가리개",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -75,6 +77,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "1f74d0af-4e92-448f-ac0f-c195d0e9dcd6",
@@ -96,10 +100,10 @@
       "id": "3cf934be-5f9d-417d-87f1-bbcf96ae1914",
       "createdAt": 1782895421497,
       "name": "우산형 햇빛가리개",
-      "folder": "햇빛가리개",
       "link": "https://cbu01.alicdn.com/img/ibank/O1CN01SxTb1k1FJ1Jl3T4AZ_!!2215872240465-0-cib.jpg",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01xPnzyQ20UGyVIZe0J_!!2220324506852-0-cib.jpg",
-      "category": "ACTIVE",
+      "folder": "햇빛가리개",
+      "category": "HOME",
       "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
@@ -110,7 +114,7 @@
       "vatOn": true,
       "forwarding": 0,
       "clearance": 0,
-      "coupangCat": "스포츠/레저",
+      "coupangCat": "생활/주방",
       "feeManual": 11,
       "channel": "rocket",
       "promo": "none",
@@ -121,6 +125,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "5d18304f-b63b-4507-9a39-d13010a2ba83",
@@ -142,9 +148,9 @@
       "id": "55490991-ffd4-4aa2-b6fe-1a929843bcf8",
       "createdAt": 1782895268685,
       "name": "쿨매트",
-      "folder": "반려동물 쿨매트",
       "link": "https://detail.1688.com/offer/1059403041481.html?kj_agent_plugin=aliprice&fromkv=xytTrace:213f867c17822650851763061e0f2b&token=JZ6b2KxtK9czlqxZoEFWCHQjEgosGzl58vdZWvD3Zo2Mksa2Qt8eZEA18mkv5O3D",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SxTb1k1FJ1Jl3T4AZ_!!2215872240465-0-cib.jpg",
+      "folder": "반려동물 쿨매트",
       "category": "PET",
       "status": "검토중",
       "isBundle": false,
@@ -167,6 +173,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": "ff253ffd-9a88-4457-a4b5-8646bf6d7786",
       "options": [
         {
           "id": "ff253ffd-9a88-4457-a4b5-8646bf6d7786",
@@ -189,16 +197,15 @@
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SxTb1k1FJ1Jl3T4AZ_!!2215872240465-0-cib.jpg"
         }
-      ],
-      "repOptionId": "ff253ffd-9a88-4457-a4b5-8646bf6d7786"
+      ]
     },
     {
       "id": "e174f1b9-98d5-495e-a19d-53a09408c608",
       "createdAt": 1782895068484,
       "name": "쿨매트",
-      "folder": "반려동물 쿨매트",
       "link": "https://detail.1688.com/offer/950404529560.html?kj_agent_plugin=aliprice&fromkv=xytTrace:0bf89a7417821892780401606e0d7e&token=4%2FzMJPuBU2T5KbenxUjurBrcomF%2Fdbe0BXvy2gyYv7ELko%2FVRl2jScgKnvMSVgyO",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pC2aNv1Y23FwgkjYv_!!2219779253000-0-cib.jpg",
+      "folder": "반려동물 쿨매트",
       "category": "PET",
       "status": "검토중",
       "isBundle": false,
@@ -221,6 +228,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "8e4ae883-c0ea-4091-8868-590dcca96b31",
@@ -256,9 +265,9 @@
       "id": "99456e74-8f67-47f6-8875-0a94f62d2b81",
       "createdAt": 1782894940737,
       "name": "쿨매트",
-      "folder": "반려동물 쿨매트",
       "link": "https://detail.1688.com/offer/1053552317530.html?kj_agent_plugin=aliprice&fromkv=xytTrace:212b5ecd17821980114517990e0db3&token=tl76CXcILoVvHri3YV1SjgxcVjjgsBAUn4OwJhsqaln9zEB98OlfVbLNpjz751UB",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN012jQlAm1hKDaeGuxEd_!!2206730554258-0-cib.jpg",
+      "folder": "반려동물 쿨매트",
       "category": "PET",
       "status": "검토중",
       "isBundle": false,
@@ -281,6 +290,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": "379e9bbc-a67c-4cb7-9304-135e0760ab3e",
       "options": [
         {
           "id": "379e9bbc-a67c-4cb7-9304-135e0760ab3e",
@@ -303,8 +314,7 @@
           "sell": 25000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN012jQlAm1hKDaeGuxEd_!!2206730554258-0-cib.jpg"
         }
-      ],
-      "repOptionId": "379e9bbc-a67c-4cb7-9304-135e0760ab3e"
+      ]
     },
     {
       "id": "4e7cea5d-df19-4031-8d3c-d4e3c92a0fe1",
@@ -335,6 +345,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": "b3a43d3e-a786-47e2-901c-b2c129460285",
       "options": [
         {
@@ -382,6 +393,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": "69c98a92-e749-4ba2-89e9-abbd466fb383",
       "options": [
         {
@@ -436,6 +448,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": "6db307ca-631c-4182-b07d-4d09c951f87f",
       "options": [
         {
@@ -497,6 +510,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -551,6 +565,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -605,6 +620,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": "b6acffb0-6b36-4585-9ebb-2755cc40d5e0",
       "options": [
         {
@@ -666,6 +682,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": "9580d5af-df9c-47bf-abc4-74af8983bf78",
       "options": [
         {
@@ -720,6 +737,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": "26c2cdd5-7810-4fc3-9213-0d7af5345204",
       "options": [
         {
@@ -767,6 +785,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": "e4b26b24-0381-4957-b24a-854900212cb2",
       "options": [
         {
@@ -821,6 +840,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "MOQ : 2 200*70",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -861,6 +881,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "200*70",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -901,6 +922,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -941,6 +963,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1009,6 +1032,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": "6e1f0e53-4181-4d10-9787-f98039e62735",
       "options": [
         {
@@ -1098,6 +1122,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1145,6 +1170,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1199,6 +1225,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1239,6 +1266,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1279,6 +1307,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1319,6 +1348,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": "03650252-fb9d-4aa8-8b0a-f9bd4a29c142",
       "options": [
         {
@@ -1366,6 +1396,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1406,6 +1437,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1446,6 +1478,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "무게:260g, 접은길이:35cm",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1486,6 +1519,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "무게:230g, 접은길이:34cm",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1526,6 +1560,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "무게:260g, 접은길이: 36cm",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1566,6 +1601,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "무게: 240g, 접은길이: 30cm",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
@@ -1606,6 +1642,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "무게: 270g, 접은길이: 36cm",
+      "starred": false,
       "repOptionId": null,
       "options": [
         {
