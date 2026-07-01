@@ -991,45 +991,6 @@
 
 <div class="toast" id="toast"></div>
 
-<!-- GitHub 동기화 설정 모달 -->
-<div class="modal-backdrop" id="gh-config-modal" hidden>
-  <div class="modal-box">
-    <div class="modal-head">
-      <span>⚙️ GitHub 동기화 설정</span>
-      <button type="button" class="modal-close" id="gh-config-close">✕</button>
-    </div>
-    <p class="modal-desc">
-      입력한 정보는 <b>이 브라우저에만</b> 저장되고, HTML 파일에는 절대 포함되지 않습니다.<br>
-      다른 기기에서도 쓰려면 그 기기에서도 한 번씩 입력하세요.
-    </p>
-    <div class="modal-fields">
-      <div class="field">
-        <label>GitHub 사용자명 (Owner)</label>
-        <input type="text" id="gh-owner-input" placeholder="예: GerrardLIM42" />
-      </div>
-      <div class="field">
-        <label>레포지터리 이름 (Repo)</label>
-        <input type="text" id="gh-repo-input" placeholder="예: 1688_sourcing-data" />
-      </div>
-      <div class="field">
-        <label>데이터 파일 경로 (Path)</label>
-        <input type="text" id="gh-path-input" placeholder="예: data.json" />
-      </div>
-      <div class="field">
-        <label>Personal Access Token (PAT)
-          <a href="https://github.com/settings/tokens/new?description=MORIVA-sync&scopes=repo" target="_blank" rel="noopener" style="font-size:11px;margin-left:6px;color:var(--steel)">새 토큰 발급 →</a>
-        </label>
-        <input type="password" id="gh-token-input" placeholder="ghp_... 또는 github_pat_..." autocomplete="off" />
-        <span class="hint">repo 스코프 권한만 있으면 됩니다. fine-grained PAT 사용을 권장해요.</span>
-      </div>
-    </div>
-    <div class="modal-actions">
-      <button type="button" class="btn ghost" id="gh-config-clear">설정 초기화</button>
-      <button type="button" class="btn amber" id="gh-config-save">저장 후 동기화</button>
-    </div>
-  </div>
-</div>
-
 <script>
 (function(){
   const CATEGORIES = {
@@ -3346,71 +3307,6 @@
   $('#cancel-btn').addEventListener('click', closeForm);
   $('#add-btn').addEventListener('click', () => openForm(null));
 
-  /* ── GitHub config modal ── */
-  (function(){
-    const modal   = $('#gh-config-modal');
-    const openBtn = $('#gh-config-btn');
-    const closeBtn= $('#gh-config-close');
-    const saveBtn = $('#gh-config-save');
-    const clearBtn= $('#gh-config-clear');
-
-    function openModal(){
-      const cfg = getGithubConfig();
-      $('#gh-owner-input').value = cfg.owner;
-      $('#gh-repo-input').value  = cfg.repo;
-      $('#gh-path-input').value  = cfg.path || 'data.json';
-      $('#gh-token-input').value = cfg.token;
-      modal.hidden = false;
-    }
-    function closeModal(){ modal.hidden = true; }
-
-    openBtn.addEventListener('click', openModal);
-    closeBtn.addEventListener('click', closeModal);
-    modal.addEventListener('click', e => { if(e.target === modal) closeModal(); });
-
-    clearBtn.addEventListener('click', () => {
-      if(!confirm('GitHub 동기화 설정을 모두 지우시겠어요? 데이터는 이 브라우저에 그대로 남습니다.')) return;
-      [GITHUB_OWNER_KEY, GITHUB_REPO_KEY, GITHUB_PATH_KEY, GITHUB_TOKEN_KEY].forEach(k => localStorage.removeItem(k));
-      githubSha = null;
-      setSyncStatus('local');
-      closeModal();
-      showToast('GitHub 설정을 초기화했습니다.');
-    });
-
-    saveBtn.addEventListener('click', async () => {
-      const owner = $('#gh-owner-input').value.trim();
-      const repo  = $('#gh-repo-input').value.trim();
-      const path  = $('#gh-path-input').value.trim() || 'data.json';
-      const token = $('#gh-token-input').value.trim();
-      if(!owner || !repo || !token){
-        showToast('사용자명, 레포, 토큰을 모두 입력해주세요.'); return;
-      }
-      localStorage.setItem(GITHUB_OWNER_KEY, owner);
-      localStorage.setItem(GITHUB_REPO_KEY,  repo);
-      localStorage.setItem(GITHUB_PATH_KEY,  path);
-      localStorage.setItem(GITHUB_TOKEN_KEY, token);
-      githubSha = null;
-      closeModal();
-      showToast('저장했습니다. GitHub에 연결 중…');
-      setSyncStatus('syncing');
-      try{
-        const payload = await githubFetchFile();
-        applyFolderKeywords(payload.folderKeywords);
-        items = payload.items.map(normalizeItem);
-        renderAll();
-        setSyncStatus('synced');
-        showToast(`GitHub에서 ${items.length}개 항목을 불러왔습니다.`);
-      }catch(e){
-        setSyncStatus('offline', e.message);
-        showToast(`연결 실패: ${e.message}`);
-      }
-    });
-
-    // 설정이 없으면 첫 로드 시 모달 자동 열기
-    if(!getGithubConfig().token && !hasClaudeStorage){
-      setTimeout(openModal, 800);
-    }
-  })();
   statusFilterSel.addEventListener('change', () => { filterStatus = statusFilterSel.value; renderGrid(); });
   sortSel.addEventListener('change', () => { sortKey = sortSel.value; renderGrid(); });
   const starFilterBtn = $('#star-filter-btn');
