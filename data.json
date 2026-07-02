@@ -1,45 +1,6 @@
 {
   "items": [
     {
-      "id": "38c17e39-f9ef-42e1-8dfc-1fb8adc477d4",
-      "createdAt": 1782948752421,
-      "name": "접이식 침",
-      "folder": "접이식 침대",
-      "link": "https://detail.1688.com/offer/1017857818297.html?offerId=1017857818297&spm=a260k.home2025.recommendpart.43",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01Oos0nm1ctPvg7u5Hq_!!2221559053658-0-cib.jpg",
-      "category": "HOME",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 74.09,
-      "rate": 300,
-      "importMode": "simple",
-      "duty": 8,
-      "vatOn": true,
-      "forwarding": 0,
-      "clearance": 0,
-      "coupangCat": "생활/주방",
-      "feeManual": 11,
-      "channel": "rocket",
-      "promo": "none",
-      "rocketSize": "소형 (2kg 이하)",
-      "rocketFeeManual": 2500,
-      "marketShip": 0,
-      "sell": 45000,
-      "ad": 7,
-      "ret": 3,
-      "memo": "",
-      "options": [
-        {
-          "id": "990fbc8b-7864-4eed-bcc3-be11554eef80",
-          "name": "178*68 블랙",
-          "cny": 74.09,
-          "sell": 45000,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01Oos0nm1ctPvg7u5Hq_!!2221559053658-0-cib.jpg"
-        }
-      ]
-    },
-    {
       "id": "d026080c-9abe-45a0-93b9-0c5285a2c11f",
       "createdAt": 1782895649279,
       "name": "링 햇빛가리개",
