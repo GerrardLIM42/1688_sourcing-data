@@ -4,9 +4,9 @@
       "id": "eb0d89f0-3f59-424e-8ed6-b171d1c06e3c",
       "createdAt": 1783134765445,
       "name": "요가 매트",
-      "folder": "요가매트",
       "link": "https://detail.1688.com/offer/680998930869.html?kj_agent_plugin=aliprice&fromkv=xytTrace:2132815517831346295383448e0e4b&token=s6pMj%2FG5%2FhmKOvbfXstDMoPNCCLdk%2FnBRK7sojrnGBgdt7vdzjo9fbNBRYNxNnT2",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01BaXYfl1j0dt7Lak05_!!2213213054486-0-cib.jpg",
+      "folder": "요가매트",
       "category": "ACTIVE",
       "status": "검토중",
       "isBundle": false,
@@ -29,6 +29,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": "8db673ff-b4af-4a78-b671-0ff9adfb986c",
       "options": [
         {
           "id": "8db673ff-b4af-4a78-b671-0ff9adfb986c",
@@ -44,8 +46,7 @@
           "sell": 13666,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01BaXYfl1j0dt7Lak05_!!2213213054486-0-cib.jpg"
         }
-      ],
-      "repOptionId": "8db673ff-b4af-4a78-b671-0ff9adfb986c"
+      ]
     },
     {
       "id": "d026080c-9abe-45a0-93b9-0c5285a2c11f",
@@ -1555,7 +1556,7 @@
       "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
-      "cny": 24.8,
+      "cny": 23.5,
       "rate": 300,
       "importMode": "simple",
       "duty": 8,
@@ -1579,7 +1580,7 @@
         {
           "id": "3c52fd27-f45f-45ab-8e4b-90d9c97d9917",
           "name": "옵션 1",
-          "cny": 24.8,
+          "cny": 23.5,
           "sell": 18000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01iXKWwy25G8q88mw07_!!2216913747498-0-cib.jpg"
         }
