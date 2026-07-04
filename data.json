@@ -25,20 +25,13 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 10376,
+      "sell": 10900,
       "ad": 7,
       "ret": 3,
       "memo": "50",
       "starred": false,
       "repOptionId": null,
       "options": [
-        {
-          "id": "4220c2cc-b457-42be-8ba5-aca628e4c9b7",
-          "name": "",
-          "cny": 12.8,
-          "sell": 11400,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01fUJM5n1dI9KYQObL9_!!2211248673712-0-cib.jpg"
-        },
         {
           "id": "5b6816f7-9185-4875-b9df-c43bb0325c7b",
           "name": "하늘색",
