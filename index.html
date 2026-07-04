@@ -1183,7 +1183,8 @@
       name: o.name || '',
       cny: o.cny || 0,
       sell: o.sell || 0,
-      image: o.image || ''
+      image: o.image || '',
+      inputMode: o.inputMode || (o.sell > 0 ? 'sell' : 'margin') // 'sell' | 'margin'
     };
   }
 
@@ -2381,15 +2382,26 @@
       const sell = parseInt(row.querySelector('.qe-sell').value) || 0;
       if(optKey === '__single__'){
         it.sell = sell;
-        if(it.options && it.options.length === 1){ it.options[0].sell = sell; }
+        // 옵션 배열이 있으면 동일하게 반영
+        if(it.options && it.options.length === 1){
+          it.options[0].sell = sell;
+        } else if(!it.options || it.options.length === 0){
+          // 옵션 없는 단일 상품은 it.sell만 업데이트
+        }
       } else {
         const opt = it.options && it.options.find(o => o.id === optKey);
-        if(opt){ opt.sell = sell; }
+        if(opt){
+          opt.sell = sell;
+          // 대표 옵션이 이 옵션이면 it.sell도 동기화
+          if(!it.repOptionId || it.repOptionId === opt.id){
+            it.sell = sell;
+          }
+        }
       }
     });
     quickEditId = null;
     saveItems();
-    renderGrid();
+    renderAll(); // 그래프(costBar)까지 완전히 재렌더
     showToast('판매가를 저장했습니다.');
   }
 
@@ -2612,9 +2624,9 @@
     root.querySelectorAll('[data-folder-add]').forEach(btn =>
       btn.addEventListener('click', () => {
         const key = btn.dataset.folderAdd;
-        const label = btn.dataset.folderAddLabel || '';
         const cat = btn.dataset.folderAddCat || 'ACTIVE';
-        openForm(null, { folder: key === '__NONE__' ? '' : label, category: cat });
+        // folder 값은 full path (key 자체). __NONE__이면 빈 문자열
+        openForm(null, { folder: key === '__NONE__' ? '' : key, category: cat });
       }));
     root.querySelectorAll('[data-folder-select-all]').forEach(btn =>
       btn.addEventListener('click', () => {
@@ -3111,12 +3123,11 @@
         const baseForCalc = readFormItem();
         const rawOptions = (it.options && it.options.length ? it.options : [{ id: uid(), name:'', cny: it.cny, sell: it.sell, image: it.image }]);
         draftOptions = rawOptions.map(o => {
-          // 판매가가 저장된 항목은 _mode:'sell' 로 복원 → 판매가 그대로 표시
-          // 판매가가 없는(0원) 항목만 _mode:'margin' 으로 목표 마진율 표시
-          if(o.sell && o.sell > 0){
+          // 저장된 inputMode 우선 복원. 없으면 sell > 0 이면 sell모드, 아니면 margin모드
+          const savedMode = o.inputMode || (o.sell > 0 ? 'sell' : 'margin');
+          if(savedMode === 'sell'){
             return { ...o, _mode: 'sell', _targetMarginPct: '' };
           } else {
-            const c = calc({ ...baseForCalc, cny: o.cny, sell: o.sell });
             return { ...o, _mode: 'margin', _targetMarginPct: '' };
           }
         });
@@ -3253,9 +3264,9 @@
   function buildFinalOptions(){
     const list = draftOptions.map((o, idx) => normalizeOption({
       ...o,
-      name: (o.name || '').trim() || `옵션 ${idx + 1}`
+      name: (o.name || '').trim() || `옵션 ${idx + 1}`,
+      inputMode: o._mode || (o.sell > 0 ? 'sell' : 'margin') // 현재 입력 모드 저장
     }));
-    // 첫 옵션은 항상 유지(대표값), 그 외 완전히 빈 옵션은 정리
     const cleaned = list.filter((o, idx) => idx === 0 || o.cny || o.sell || o.image || !/^옵션 \d+$/.test(o.name));
     return cleaned.length > 0 ? cleaned : [normalizeOption({ name:'옵션 1' })];
   }
