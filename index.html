@@ -577,6 +577,8 @@
   .toast.show{ opacity:1; transform:translateY(0); }
 
   /* sync row */
+  .ledger .tax-row{ color:var(--steel); font-style:italic; }
+  #tax-type-select{ font-weight:700; border-radius:8px; padding:6px 10px; border:1.5px solid var(--amber); color:var(--amber); background:#fff; cursor:pointer; }
   .sync-row{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-top:8px; }
   .sync-cfg-btn{ font-size:11px; padding:3px 10px; }
 
@@ -692,6 +694,11 @@
     <div class="tabs" id="cat-tabs"></div>
     <button class="tab star-filter-btn" id="star-filter-btn" title="별표 항목만 보기">☆ 별표만</button>
     <div class="spacer"></div>
+    <select id="tax-type-select" title="과세 유형">
+      <option value="simplified">🧾 간이과세</option>
+      <option value="general">🧾 일반과세</option>
+      <option value="exempt">🧾 면세사업자</option>
+    </select>
     <select id="status-filter"></select>
     <select id="sort-select">
       <option value="marginDesc" selected>마진율 높은순</option>
@@ -1066,6 +1073,7 @@
   let filterStatus = 'ALL';
   let filterStarred = false;
   let sortKey = 'marginDesc';
+  let taxType = localStorage.getItem('moriva_tax_type') || 'simplified'; // 'simplified'|'general'|'exempt'
   let viewMode = 'group';      // 'group' | 'flat'
   let displayMode = 'card';    // 'card' | 'table'
   let editingId = null;
@@ -1221,7 +1229,7 @@
     const buyKrw = (it.cny || 0) * (it.rate || 0) * qty;
     let customs = 0, vatAmt = 0, forwarding = 0, clearance = 0, impTotal;
     if(it.importMode === 'simple'){
-      impTotal = buyKrw; // 관부가세 등 부가비용은 환율 자체에 이미 포함되어 있다고 가정
+      impTotal = buyKrw;
     } else {
       customs = buyKrw * (it.duty || 0) / 100;
       vatAmt = it.vatOn ? (buyKrw + customs) * 0.1 : 0;
@@ -1231,8 +1239,13 @@
     }
     const importExtra = impTotal - buyKrw;
 
-    // 로켓그로스 비용 제로 프로모션: 첫 90일은 물류비(입출고+배송)와 반품비 전액 무료,
-    // 추가 270일(로켓그로스 세이버 자동적용)은 반품비만 계속 무료 (물류비는 정상 부과)
+    // 판매 부가세: 일반과세자는 판매가의 10/110을 부가세로 납부
+    // 간이과세자(기본) / 면세사업자는 판매 부가세 없음
+    const sellVatAmt = (taxType === 'general') ? Math.round((it.sell || 0) * 10 / 110) : 0;
+    // 일반과세자는 수입 부가세를 매입세액공제로 돌려받음 → vatAmt 차감
+    const vatCredit = (taxType === 'general') ? vatAmt : 0;
+    const netSellVat = sellVatAmt - vatCredit; // 실제 추가 부담 (음수면 환급)
+
     const promo = it.channel === 'rocket' ? (it.promo || 'none') : 'none';
     const promoActive = promo !== 'none';
 
@@ -1244,13 +1257,14 @@
     const retCost = promoActive ? 0 : (it.sell || 0) * (it.ret || 0) / 100 * 0.3;
     const sellTotal = commission + logistic + adCost + retCost;
 
-    const totalCost = impTotal + sellTotal;
+    const totalCost = impTotal + sellTotal + netSellVat;
     const margin = (it.sell || 0) - totalCost;
     const marginPct = it.sell ? (margin / it.sell * 100) : 0;
 
     return { qty, buyKrw, customs, vatAmt, forwarding, clearance, impTotal, importExtra,
-      feePct, commission, baseLogistic, logistic, adCost, retCost, sellTotal, totalCost, margin, marginPct,
-      promo, promoActive };
+      feePct, commission, baseLogistic, logistic, adCost, retCost, sellTotal,
+      sellVatAmt, vatCredit, netSellVat,
+      totalCost, margin, marginPct, promo, promoActive };
   }
 
   function calcOption(it, opt){
@@ -2866,6 +2880,7 @@
         <div class="ledger">
           <div class="row"><span>수입원가 (관부가세·물류 포함)</span><span>${won(c.impTotal)}</span></div>
           <div class="row"><span>판매·운영비 (수수료 ${c.feePct.toFixed(1)}%+물류+광고+반품+포장)</span><span>${won(c.sellTotal)}</span></div>
+          ${taxType === 'general' ? `<div class="row tax-row"><span>부가세 납부 (일반과세·매입공제 반영)</span><span>${won(c.netSellVat)}</span></div>` : ''}
           <div class="row"><span>쿠팡 판매가</span><span>${won(rep.sell)}</span></div>
           <div class="row margin" style="color:${mColor}"><span>예상 마진 (${pct(c.marginPct)})</span><span>${won(c.margin)}</span></div>
           ${targetPriceRowHtml(repMerged, rep.sell)}
@@ -2889,6 +2904,16 @@
           <div class="row"><span>${it.channel === 'rocket' ? '로켓그로스 물류비' : '마켓플레이스 배송비'}${c.promo === '90' ? ' (혜택 0원)' : ''}</span><span>${won(c.logistic)}</span></div>
           <div class="row"><span>광고비 (${it.ad}%)</span><span>${won(c.adCost)}</span></div>
           <div class="row"><span>반품비용 (${it.ret}% × 30%)${c.promoActive ? ' (혜택 0원)' : ''}</span><span>${won(c.retCost)}</span></div>
+          ${taxType === 'general' ? `
+          <div class="grp">🧾 부가세 (일반과세)</div>
+          <div class="row"><span>판매 부가세 (10/110)</span><span>${won(c.sellVatAmt)}</span></div>
+          <div class="row"><span>매입세액공제 (수입부가세 환급)</span><span>-${won(c.vatCredit)}</span></div>
+          <div class="row"><span>순 부가세 부담</span><span>${won(c.netSellVat)}</span></div>
+          ` : taxType === 'simplified' ? `
+          <div class="note">🧾 간이과세 — 연 4,800만원 미만 부가세 면제. 판매 부가세 별도 반영 없음.</div>
+          ` : `
+          <div class="note">🧾 면세사업자 — 부가세 납부 의무 없음.</div>
+          `}
           ${costBarLegendHtml(repMerged)}
         </div>` : ''}
         ${optionsBlockHtml(it)}
@@ -3307,6 +3332,13 @@
   $('#cancel-btn').addEventListener('click', closeForm);
   $('#add-btn').addEventListener('click', () => openForm(null));
 
+  const taxTypeSel = $('#tax-type-select');
+  taxTypeSel.value = taxType;
+  taxTypeSel.addEventListener('change', () => {
+    taxType = taxTypeSel.value;
+    localStorage.setItem('moriva_tax_type', taxType);
+    renderAll();
+  });
   statusFilterSel.addEventListener('change', () => { filterStatus = statusFilterSel.value; renderGrid(); });
   sortSel.addEventListener('change', () => { sortKey = sortSel.value; renderGrid(); });
   const starFilterBtn = $('#star-filter-btn');
