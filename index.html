@@ -1962,7 +1962,12 @@
     }
     let bestId = null;
     if(list.length > 1){
-      bestId = list.reduce((b, it) => repCalc(it).marginPct > repCalc(b).marginPct ? it : b, list[0]).id;
+      bestId = list.reduce((b, it) => {
+        const bc = repCalc(b), ic = repCalc(it);
+        const pctDiff = ic.marginPct - bc.marginPct;
+        if(Math.abs(pctDiff) > 0.05) return pctDiff > 0 ? it : b;
+        return ic.margin > bc.margin ? it : b;
+      }, list[0]).id;
     }
     if(compareTab === 'table') compareBody.innerHTML = tableHtml(sortList(list), true, bestId);
     else if(compareTab === 'bar') compareBody.innerHTML = barCompareHtml(list);
@@ -2162,11 +2167,22 @@
     const subtreeItems = collectSubtreeItems(node);
     let bestId = null;
     if(directItems.length > 1){
-      bestId = directItems.reduce((best, it) => repCalc(it).marginPct > repCalc(best).marginPct ? it : best, directItems[0]).id;
+      bestId = directItems.reduce((best, it) => {
+        const bc = repCalc(best), ic = repCalc(it);
+        const pctDiff = ic.marginPct - bc.marginPct;
+        if(Math.abs(pctDiff) > 0.05) return pctDiff > 0 ? it : best;
+        return ic.margin > bc.margin ? it : best;
+      }, directItems[0]).id;
     }
-    const bestMargin = subtreeItems.length > 1
-      ? Math.max(...subtreeItems.map(it => repCalc(it).marginPct))
-      : (subtreeItems.length === 1 ? repCalc(subtreeItems[0]).marginPct : null);
+    const bestSubtreeItem = subtreeItems.length > 1
+      ? subtreeItems.reduce((best, it) => {
+          const bc = repCalc(best), ic = repCalc(it);
+          const pctDiff = ic.marginPct - bc.marginPct;
+          if(Math.abs(pctDiff) > 0.05) return pctDiff > 0 ? it : best;
+          return ic.margin > bc.margin ? it : best;
+        }, subtreeItems[0])
+      : (subtreeItems.length === 1 ? subtreeItems[0] : null);
+    const bestMargin = bestSubtreeItem ? repCalc(bestSubtreeItem).marginPct : null;
     const settingsOpen = editingFolderKey === key;
     const movingOpen = movingFolderKey === key;
     const keywordEditOpen = editingKeywordFolderKey === key;
