@@ -2081,15 +2081,30 @@
 
   function sortList(list){
     let out = [...list];
-    if(sortKey === 'marginDesc') out.sort((a,b)=>repCalc(b).marginPct - repCalc(a).marginPct);
-    else if(sortKey === 'marginAsc') out.sort((a,b)=>repCalc(a).marginPct - repCalc(b).marginPct);
+    // 마진율 동률 시 마진액으로 2차 정렬하는 비교 헬퍼
+    const byMarginDesc = (a,b) => {
+      const pctDiff = repCalc(b).marginPct - repCalc(a).marginPct;
+      if(Math.abs(pctDiff) > 0.05) return pctDiff; // 0.05% 이상 차이면 마진율 우선
+      return repCalc(b).margin - repCalc(a).margin;  // 동률이면 마진액 높은 순
+    };
+    const byMarginAsc = (a,b) => {
+      const pctDiff = repCalc(a).marginPct - repCalc(b).marginPct;
+      if(Math.abs(pctDiff) > 0.05) return pctDiff;
+      return repCalc(a).margin - repCalc(b).margin;
+    };
+    if(sortKey === 'marginDesc') out.sort(byMarginDesc);
+    else if(sortKey === 'marginAsc') out.sort(byMarginAsc);
     else if(sortKey === 'marginAmtDesc') out.sort((a,b)=>repCalc(b).margin - repCalc(a).margin);
     else if(sortKey === 'marginAmtAsc') out.sort((a,b)=>repCalc(a).margin - repCalc(b).margin);
-    else if(sortKey === 'starred') out.sort((a,b)=> (b.starred ? 1 : 0) - (a.starred ? 1 : 0) || repCalc(b).marginPct - repCalc(a).marginPct);
+    else if(sortKey === 'starred') out.sort((a,b)=> (b.starred ? 1 : 0) - (a.starred ? 1 : 0) || byMarginDesc(a,b));
     else out.sort((a,b)=> (b.createdAt||0) - (a.createdAt||0));
-    // 별표 항목은 어떤 정렬 기준이든 항상 앞으로
+    // 별표 항목은 어떤 정렬 기준이든 항상 앞으로 (별표 내에서도 마진율→마진액 순)
     if(sortKey !== 'starred'){
-      out.sort((a,b) => (b.starred ? 1 : 0) - (a.starred ? 1 : 0));
+      out.sort((a,b) => {
+        const starDiff = (b.starred ? 1 : 0) - (a.starred ? 1 : 0);
+        if(starDiff !== 0) return starDiff;
+        return 0; // 별표 동률이면 기존 정렬 유지
+      });
     }
     return out;
   }
