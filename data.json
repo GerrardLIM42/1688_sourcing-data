@@ -187,7 +187,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 12700,
+      "sell": 12745,
       "ad": 7,
       "ret": 3,
       "memo": "100",
@@ -196,7 +196,7 @@
           "id": "998effa1-0f30-4ca3-ac36-f56acce188fb",
           "name": "화이트 710ml",
           "cny": 15.5,
-          "sell": 12700,
+          "sell": 12745,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01LHUlSC2F7ZakHbFyl_!!2217584968833-0-cib.jpg",
           "inputMode": "margin"
         }
