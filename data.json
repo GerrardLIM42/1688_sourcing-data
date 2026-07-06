@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "6e78aee7-cf8a-4c10-899c-2633686a044e",
+      "createdAt": 1783334247420,
+      "name": "40oz 30oz 텀블",
+      "folder": "텀블러",
+      "link": "https://detail.1688.com/offer/1046659220831.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=8c68eab856614ec39ce01f57e5cf3f73&sessionid=1a77c0aa3b8a4237948def5e5e9ea221",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01tRWYHJ1kVcHuNBC8R_!!2220634484689-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 12,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 10873,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "8fa19e69-893c-4790-9e68-9e757bb84de4",
+          "name": "화이트 40oz",
+          "cny": 12,
+          "sell": 10873,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01tRWYHJ1kVcHuNBC8R_!!2220634484689-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        },
+        {
+          "id": "4d93a78f-76b0-4c4d-b1b6-3b13fa9ed26e",
+          "name": "화이트 30oz",
+          "cny": 11.5,
+          "sell": 10606,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01tRWYHJ1kVcHuNBC8R_!!2220634484689-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "373bf003-cdf6-4075-ae38-bb02b248f675",
       "createdAt": 1783332339674,
       "name": "900ml 1200ml 텀블",
