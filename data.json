@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "7c5e6a0e-9398-40ef-99cf-b87d6ccf79aa",
+      "createdAt": 1783331614681,
+      "name": "빨대 손잡이 텀블러 1.2L",
+      "folder": "텀블러",
+      "link": "https://detail.1688.com/offer/1001839737010.html?spm=a26352.13672862.offerlist.260.68881e62zekt2r&offerId=1001839737010&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6154599054245&trace_log=normal&uuid=5d674c8f28ab4cb3991f6ef579165e0e&forcePC=1783331408427",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pl267p1cNMC5TOaGu_!!2219567873588-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 16,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 13012,
+      "ad": 7,
+      "ret": 3,
+      "memo": "1300",
+      "options": [
+        {
+          "id": "1d68dd2e-dfc0-4fbc-9b4e-2409b6e0d51b",
+          "name": "2세대 화이트 1.2L",
+          "cny": 16,
+          "sell": 13012,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pl267p1cNMC5TOaGu_!!2219567873588-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "985222bc-df0f-4399-bb12-a23723a1f4ce",
       "createdAt": 1783328844392,
       "name": "빨대 손잡이 텀블러 1.2L",
