@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "id": "97b331ea-bfbf-4bbe-a2d2-7cc9e686fe05",
+      "createdAt": 1783328387407,
+      "name": "손잡이 빨대 텀블러 750ml",
+      "folder": "텀블러",
+      "link": "https://detail.1688.com/offer/1013696572921.html?spm=a26352.13672862.offerlist.101.68881e62zekt2r&offerId=1013696572921&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6226678451862&trace_log=normal&uuid=646be339f60d4948be992f142f3eef54&forcePC=1783328254138",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN017KrXoI1fq9xKnfIvR_!!2217506144057-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 17.5,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 13815,
+      "ad": 7,
+      "ret": 3,
+      "memo": "9500",
+      "options": [
+        {
+          "id": "6d0d351b-9d9b-4ab2-8ba5-94464c4975b9",
+          "name": "화이트 블랙 뚜껑 750ml",
+          "cny": 17.5,
+          "sell": 13815,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN017KrXoI1fq9xKnfIvR_!!2217506144057-0-cib.jpg",
+          "inputMode": "margin"
+        }
+      ]
+    },
+    {
       "id": "ba74dd86-f703-4839-b005-cd1f2c6e8071",
       "createdAt": 1783327925592,
       "name": "손잡이 텀블러 1.2 L",
