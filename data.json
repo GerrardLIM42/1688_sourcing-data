@@ -4,9 +4,9 @@
       "id": "6e78aee7-cf8a-4c10-899c-2633686a044e",
       "createdAt": 1783334247420,
       "name": "40oz 30oz 텀블",
-      "folder": "텀블러",
       "link": "https://detail.1688.com/offer/1046659220831.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=8c68eab856614ec39ce01f57e5cf3f73&sessionid=1a77c0aa3b8a4237948def5e5e9ea221",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01tRWYHJ1kVcHuNBC8R_!!2220634484689-0-cib.jpg",
+      "folder": "텀블러",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -29,6 +29,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": true,
+      "repOptionId": null,
       "options": [
         {
           "id": "8fa19e69-893c-4790-9e68-9e757bb84de4",
@@ -48,16 +50,15 @@
           "inputMode": "margin",
           "savedMarginPct": 25
         }
-      ],
-      "starred": true
+      ]
     },
     {
       "id": "373bf003-cdf6-4075-ae38-bb02b248f675",
       "createdAt": 1783332339674,
       "name": "900ml 1200ml 텀블",
-      "folder": "텀블러",
       "link": "https://detail.1688.com/offer/974685482532.html?spm=a26352.13672862.offerlist.86.68881e62zekt2r&offerId=974685482532&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6094538891023&trace_log=normal&uuid=f1e010d22ca84772b5031275e3f550aa&forcePC=1783332235012",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01UDz4Iw1UUDAvmztCC_!!2220629292520-0-cib.jpg",
+      "folder": "텀블러",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -80,6 +81,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "5000",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "688f8845-8a38-4e6d-84cd-7c5df77983f5",
@@ -105,9 +108,9 @@
       "id": "06dd1957-f9a5-46be-877f-97a109516996",
       "createdAt": 1783331802701,
       "name": "나무 손잡이 텀블 900ml",
-      "folder": "텀블러",
       "link": "https://detail.1688.com/offer/961192198444.html?spm=a26352.13672862.offerlist.293.68881e62zekt2r&offerId=961192198444&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6094127011559&trace_log=normal&uuid=5d674c8f28ab4cb3991f6ef579165e0e&forcePC=1783331635394",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN018jm5mX1zPP6KHSGmR_!!2220380186706-0-cib.jpg",
+      "folder": "텀블러",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -130,6 +133,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "3100",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "1ea03bb7-ba56-4a8a-af21-520ce113c04b",
@@ -146,9 +151,9 @@
       "id": "7c5e6a0e-9398-40ef-99cf-b87d6ccf79aa",
       "createdAt": 1783331614681,
       "name": "빨대 손잡이 텀블러 1.2L",
-      "folder": "텀블러",
       "link": "https://detail.1688.com/offer/1001839737010.html?spm=a26352.13672862.offerlist.260.68881e62zekt2r&offerId=1001839737010&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6154599054245&trace_log=normal&uuid=5d674c8f28ab4cb3991f6ef579165e0e&forcePC=1783331408427",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pl267p1cNMC5TOaGu_!!2219567873588-0-cib.jpg",
+      "folder": "텀블러",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -171,6 +176,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "1300",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "1d68dd2e-dfc0-4fbc-9b4e-2409b6e0d51b",
@@ -393,49 +400,6 @@
           "cny": 29.59,
           "sell": 22264,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bEpLJg1IjX4X4nM54_!!2220616750929-0-cib.jpg",
-          "inputMode": "sell",
-          "savedMarginPct": null
-        }
-      ]
-    },
-    {
-      "id": "41cb7de3-fbfe-43b8-8e9b-bd8ebda1341c",
-      "createdAt": 1783209200742,
-      "name": "리클라이너 캠핑의자",
-      "link": "https://detail.1688.com/offer/983260124001.html?kj_agent_plugin=aliprice&fromkv=xytTrace:210702e017832090478508062e0cf2&token=JqY0h3rlI1KH9e9K40TFxGTcBxfCcUkcR%2FU0RAyt1En1JQ%2B%2FV30TxAdW9d7pnvUb",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01vOPRIv1ajgGcSX4Kk_!!2217743613366-0-cib.jpg",
-      "folder": "캠핑 의자 / 리클라이너",
-      "category": "CAMP",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 19.9,
-      "rate": 300,
-      "importMode": "simple",
-      "duty": 8,
-      "vatOn": true,
-      "forwarding": 0,
-      "clearance": 0,
-      "coupangCat": "스포츠/레저",
-      "feeManual": 11,
-      "channel": "rocket",
-      "promo": "none",
-      "rocketSize": "소형 (2kg 이하)",
-      "rocketFeeManual": 2500,
-      "marketShip": 0,
-      "sell": 16575,
-      "ad": 7,
-      "ret": 3,
-      "memo": "2400",
-      "starred": false,
-      "repOptionId": null,
-      "options": [
-        {
-          "id": "69ca7a53-e68f-4f76-ab82-1cc94abd67fc",
-          "name": "4단 조절",
-          "cny": 19.9,
-          "sell": 16575,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01vOPRIv1ajgGcSX4Kk_!!2217743613366-0-cib.jpg",
           "inputMode": "sell",
           "savedMarginPct": null
         }
