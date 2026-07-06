@@ -25,7 +25,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 9001,
+      "sell": 13012,
       "ad": 7,
       "ret": 3,
       "memo": "8300",
@@ -34,7 +34,7 @@
           "id": "6dcf8d47-351a-4509-bff1-422c0df13aee",
           "name": "화이트 1.2L",
           "cny": 16,
-          "sell": 9001,
+          "sell": 13012,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01zZSaGF1yRP5SPXI9W_!!2215946186575-0-cib.jpg",
           "inputMode": "margin"
         }
