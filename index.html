@@ -1184,7 +1184,8 @@
       cny: o.cny || 0,
       sell: o.sell || 0,
       image: o.image || '',
-      inputMode: o.inputMode || (o.sell > 0 ? 'sell' : 'margin') // 'sell' | 'margin'
+      inputMode: o.inputMode || (o.sell > 0 ? 'sell' : 'margin'),
+      savedMarginPct: o.savedMarginPct != null ? o.savedMarginPct : null  // 마진모드로 저장 시 입력한 마진율
     };
   }
 
@@ -3154,12 +3155,19 @@
         const baseForCalc = readFormItem();
         const rawOptions = (it.options && it.options.length ? it.options : [{ id: uid(), name:'', cny: it.cny, sell: it.sell, image: it.image }]);
         draftOptions = rawOptions.map(o => {
-          // 저장된 inputMode 우선 복원. 없으면 sell > 0 이면 sell모드, 아니면 margin모드
           const savedMode = o.inputMode || (o.sell > 0 ? 'sell' : 'margin');
           if(savedMode === 'sell'){
             return { ...o, _mode: 'sell', _targetMarginPct: '' };
           } else {
-            return { ...o, _mode: 'margin', _targetMarginPct: '' };
+            // savedMarginPct에 저장된 값이 있으면 그대로, 없으면 sell에서 역산
+            let pct = '';
+            if(o.savedMarginPct != null){
+              pct = o.savedMarginPct;
+            } else if(o.sell > 0){
+              const c = calc({ ...baseForCalc, cny: o.cny, sell: o.sell });
+              pct = Math.round(c.marginPct * 10) / 10;
+            }
+            return { ...o, _mode: 'margin', _targetMarginPct: pct };
           }
         });
       }
@@ -3296,7 +3304,8 @@
     const list = draftOptions.map((o, idx) => normalizeOption({
       ...o,
       name: (o.name || '').trim() || `옵션 ${idx + 1}`,
-      inputMode: o._mode || (o.sell > 0 ? 'sell' : 'margin') // 현재 입력 모드 저장
+      inputMode: o._mode || (o.sell > 0 ? 'sell' : 'margin'),
+      savedMarginPct: o._mode === 'margin' ? (parseFloat(o._targetMarginPct) || null) : null
     }));
     const cleaned = list.filter((o, idx) => idx === 0 || o.cny || o.sell || o.image || !/^옵션 \d+$/.test(o.name));
     return cleaned.length > 0 ? cleaned : [normalizeOption({ name:'옵션 1' })];
