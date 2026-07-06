@@ -4,9 +4,9 @@
       "id": "985222bc-df0f-4399-bb12-a23723a1f4ce",
       "createdAt": 1783328844392,
       "name": "빨대 손잡이 텀블러 1.2L",
-      "folder": "텀블러",
       "link": "https://detail.1688.com/offer/966545947269.html?spm=a26352.13672862.offerlist.243.68881e62zekt2r&offerId=966545947269&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6080710083470&trace_log=normal&uuid=646be339f60d4948be992f142f3eef54&forcePC=1783328926366",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bw717x1qARchbfzA2_!!2220505305455-0-cib.jpg",
+      "folder": "텀블러",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -29,6 +29,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "15000",
+      "starred": true,
+      "repOptionId": "de4dea26-4c0c-4fb1-9049-66e695672924",
       "options": [
         {
           "id": "de4dea26-4c0c-4fb1-9049-66e695672924",
@@ -36,19 +38,18 @@
           "cny": 14.24,
           "sell": 12071,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bw717x1qARchbfzA2_!!2220505305455-0-cib.jpg",
-          "inputMode": "margin"
+          "inputMode": "margin",
+          "savedMarginPct": null
         }
-      ],
-      "starred": true,
-      "repOptionId": "de4dea26-4c0c-4fb1-9049-66e695672924"
+      ]
     },
     {
       "id": "e3f82c93-0038-4aab-a01c-dd9b07eecaf6",
       "createdAt": 1783328526884,
       "name": "손잡이 빨대 텀블러 1.2L",
-      "folder": "텀블러",
       "link": "https://detail.1688.com/offer/1050020329726.html?spm=a26352.13672862.offerlist.113.68881e62zekt2r&offerId=1050020329726&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6079958421098&trace_log=normal&uuid=646be339f60d4948be992f142f3eef54&forcePC=1783328428888",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN017HH5kX1zsG6mLV3RJ_!!2215698376769-0-cib.jpg",
+      "folder": "텀블러",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -71,6 +72,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "3800",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "b71e8ec0-6557-4453-9132-35afbbed571f",
@@ -78,47 +81,8 @@
           "cny": 15.84,
           "sell": 12927,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN017HH5kX1zsG6mLV3RJ_!!2215698376769-0-cib.jpg",
-          "inputMode": "margin"
-        }
-      ]
-    },
-    {
-      "id": "97b331ea-bfbf-4bbe-a2d2-7cc9e686fe05",
-      "createdAt": 1783328387407,
-      "name": "손잡이 빨대 텀블러 750ml",
-      "folder": "텀블러",
-      "link": "https://detail.1688.com/offer/1013696572921.html?spm=a26352.13672862.offerlist.101.68881e62zekt2r&offerId=1013696572921&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6226678451862&trace_log=normal&uuid=646be339f60d4948be992f142f3eef54&forcePC=1783328254138",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN017KrXoI1fq9xKnfIvR_!!2217506144057-0-cib.jpg",
-      "category": "HOME",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 17.5,
-      "rate": 300,
-      "importMode": "simple",
-      "duty": 8,
-      "vatOn": true,
-      "forwarding": 0,
-      "clearance": 0,
-      "coupangCat": "생활/주방",
-      "feeManual": 11,
-      "channel": "rocket",
-      "promo": "none",
-      "rocketSize": "소형 (2kg 이하)",
-      "rocketFeeManual": 2500,
-      "marketShip": 0,
-      "sell": 13815,
-      "ad": 7,
-      "ret": 3,
-      "memo": "9500",
-      "options": [
-        {
-          "id": "6d0d351b-9d9b-4ab2-8ba5-94464c4975b9",
-          "name": "화이트 블랙 뚜껑 750ml",
-          "cny": 17.5,
-          "sell": 13815,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN017KrXoI1fq9xKnfIvR_!!2217506144057-0-cib.jpg",
-          "inputMode": "margin"
+          "inputMode": "margin",
+          "savedMarginPct": null
         }
       ]
     },
@@ -126,9 +90,9 @@
       "id": "ba74dd86-f703-4839-b005-cd1f2c6e8071",
       "createdAt": 1783327925592,
       "name": "손잡이 텀블러 1.2 L",
-      "folder": "텀블러",
       "link": "",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01zZSaGF1yRP5SPXI9W_!!2215946186575-0-cib.jpg",
+      "folder": "텀블러",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -151,6 +115,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "8300",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "6dcf8d47-351a-4509-bff1-422c0df13aee",
@@ -158,7 +124,8 @@
           "cny": 16,
           "sell": 13012,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01zZSaGF1yRP5SPXI9W_!!2215946186575-0-cib.jpg",
-          "inputMode": "margin"
+          "inputMode": "margin",
+          "savedMarginPct": null
         }
       ]
     },
@@ -166,9 +133,9 @@
       "id": "f922626d-9443-4eb4-817d-0a80473ad23f",
       "createdAt": 1783327518815,
       "name": "텀블러 710ml",
-      "folder": "텀블러",
       "link": "https://detail.1688.com/offer/1053561118030.html?spm=a26352.13672862.offerlist.47.68881e62zekt2r&offerId=1053561118030&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=646be339f60d4948be992f142f3eef54&skuId=6258671822305&forcePC=1783327387362",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01LHUlSC2F7ZakHbFyl_!!2217584968833-0-cib.jpg",
+      "folder": "텀블러",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -191,6 +158,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "100",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "998effa1-0f30-4ca3-ac36-f56acce188fb",
@@ -198,7 +167,8 @@
           "cny": 15.5,
           "sell": 12745,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01LHUlSC2F7ZakHbFyl_!!2217584968833-0-cib.jpg",
-          "inputMode": "margin"
+          "inputMode": "margin",
+          "savedMarginPct": null
         }
       ]
     },
@@ -240,7 +210,8 @@
           "cny": 26,
           "sell": 20157,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01I5wLPR1r2wjYdUg4l_!!2219920485574-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -282,7 +253,8 @@
           "cny": 29.59,
           "sell": 22264,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bEpLJg1IjX4X4nM54_!!2220616750929-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -324,7 +296,8 @@
           "cny": 19.9,
           "sell": 16575,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01vOPRIv1ajgGcSX4Kk_!!2217743613366-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -366,7 +339,8 @@
           "cny": 12,
           "sell": 9984,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01cpU4bK2E0sA9JkG5J_!!2221331788683-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -408,7 +382,8 @@
           "cny": 12.8,
           "sell": 10900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01fUJM5n1dI9KYQObL9_!!2211248673712-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -450,7 +425,8 @@
           "cny": 11,
           "sell": 9493,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01CXCKWE1ubEzLl3W8H_!!2664216055-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -492,7 +468,8 @@
           "cny": 16,
           "sell": 11948,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01l9VkAb1if7HbDf4gN_!!2000954439-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -534,7 +511,8 @@
           "cny": 13.5,
           "sell": 10720,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01BaXYfl1j0dt7Lak05_!!2213213054486-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "9f9a06c8-e4d4-46b9-8a3a-af8096fd0f68",
@@ -542,7 +520,8 @@
           "cny": 19.5,
           "sell": 13666,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01BaXYfl1j0dt7Lak05_!!2213213054486-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -584,7 +563,8 @@
           "cny": 17.3,
           "sell": 15000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01urTzho1bfO6GWh8Oe_!!2218397543492-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "101069cf-a2bf-495d-8bcc-aab0b6734e63",
@@ -592,7 +572,8 @@
           "cny": 18,
           "sell": 15000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01urTzho1bfO6GWh8Oe_!!2218397543492-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "afcc9151-79fb-4947-adf2-b4e2b8ddb73e",
@@ -600,7 +581,8 @@
           "cny": 19.3,
           "sell": 16000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01Wj19Sx1bfO75exT1A_!!2218397543492-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -642,7 +624,8 @@
           "cny": 14,
           "sell": 13000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01yaoF1f2KPV6YcJmQQ_!!966119549-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "f94a5b47-b302-4777-bb5e-3e77564a3753",
@@ -650,7 +633,8 @@
           "cny": 14,
           "sell": 13000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01GpoxkP2KPV6XOFUzM_!!966119549-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -692,7 +676,8 @@
           "cny": 10.6,
           "sell": 11000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01xPnzyQ20UGyVIZe0J_!!2220324506852-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "d8f541c8-3927-4e3e-b4f5-4a0e2de5bf04",
@@ -700,7 +685,8 @@
           "cny": 10.6,
           "sell": 11000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN013sjH4Q20UGyVx0OxJ_!!2220324506852-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -742,7 +728,8 @@
           "cny": 16.9,
           "sell": 14000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SxTb1k1FJ1Jl3T4AZ_!!2215872240465-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "e0c0aceb-0acf-4a7c-a8a0-1c7050596dc9",
@@ -750,7 +737,8 @@
           "cny": 20.9,
           "sell": 17000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SxTb1k1FJ1Jl3T4AZ_!!2215872240465-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "828e267e-8fd5-4bc5-a260-2f35e3fbf2fe",
@@ -758,7 +746,8 @@
           "cny": 25.9,
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SxTb1k1FJ1Jl3T4AZ_!!2215872240465-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -800,7 +789,8 @@
           "cny": 23.95,
           "sell": 19000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pC2aNv1Y23FwgkjYv_!!2219779253000-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "133353bb-7211-4149-84bc-cc1dc2f3dac6",
@@ -808,7 +798,8 @@
           "cny": 32.5,
           "sell": 24000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pC2aNv1Y23FwgkjYv_!!2219779253000-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "00a8410b-7601-41bc-9113-e0ce30f74d70",
@@ -816,7 +807,8 @@
           "cny": 38.5,
           "sell": 27500,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pC2aNv1Y23FwgkjYv_!!2219779253000-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "21c20811-7652-442e-84d2-5ddea479c553",
@@ -824,7 +816,8 @@
           "cny": 48.5,
           "sell": 33000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pC2aNv1Y23FwgkjYv_!!2219779253000-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -866,7 +859,8 @@
           "cny": 20,
           "sell": 16000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN012jQlAm1hKDaeGuxEd_!!2206730554258-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "e24bffed-ce57-4fd6-88b2-0242034b96a6",
@@ -874,7 +868,8 @@
           "cny": 27,
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN012jQlAm1hKDaeGuxEd_!!2206730554258-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "5e04afa2-716e-44c2-8bd6-5a1efe911258",
@@ -882,7 +877,8 @@
           "cny": 35,
           "sell": 25000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN012jQlAm1hKDaeGuxEd_!!2206730554258-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -924,7 +920,8 @@
           "cny": 22.99,
           "sell": 18000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01y9lc5I1Fp50QN452A_!!2221325030535-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "44a5fe38-4c63-4cc6-a4e6-1c70c53f92ad",
@@ -932,7 +929,8 @@
           "cny": 25.99,
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01nAJvtd1Fp50PLgvmH_!!2221325030535-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -974,7 +972,8 @@
           "cny": 20,
           "sell": 15000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01sMSYwg1dBjijUKPQ8_!!2219990223698-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "f8cea407-dc05-4c11-a378-682d75b7ab63",
@@ -982,7 +981,8 @@
           "cny": 21.5,
           "sell": 16000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01qT2JiV1dBjikN6AO7_!!2219990223698-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "14b08697-c688-4698-9420-b4eb86ffef61",
@@ -990,7 +990,8 @@
           "cny": 55,
           "sell": 35000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01umFNsw1dBjiiMxhVE_!!2219990223698-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1032,7 +1033,8 @@
           "cny": 48,
           "sell": 31000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01rAeM5a1lqVuFn8S1X_!!4245644870-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "10d32575-76df-4afe-be7c-d83cc3e56b0b",
@@ -1040,7 +1042,8 @@
           "cny": 49,
           "sell": 33000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01HrcZ4N1lqVuA4Df68_!!4245644870-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "d589d76a-606d-48be-844c-adc35f50ec59",
@@ -1048,7 +1051,8 @@
           "cny": 90,
           "sell": 55000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN016uwnfO1lqVuFqmdXs_!!4245644870-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "f0e16bc4-5e4d-468d-b24e-1170d95e99c5",
@@ -1056,7 +1060,8 @@
           "cny": 91,
           "sell": 57000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN011gDrqh1lqVuGkIKeY_!!4245644870-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1098,7 +1103,8 @@
           "cny": 26,
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01FSRzYk2HpCSGQTiy8_!!2214737039199-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "d4723156-c873-4b8d-9f5d-e4ea89fe031c",
@@ -1106,7 +1112,8 @@
           "cny": 30,
           "sell": 21989,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01TY3QMY2HpCSgqxnXP_!!2214737039199-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "aaeb3e69-3c62-48af-b2fd-223ec4bd8201",
@@ -1114,7 +1121,8 @@
           "cny": 64,
           "sell": 41973,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN011CzUQn2HpCSIVJnze_!!2214737039199-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1156,7 +1164,8 @@
           "cny": 32.5,
           "sell": 24000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01EqaEoZ1sVApVxrFda_!!2218354135771-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "d041f94d-351a-4f67-ab30-4a8fdfa91bcb",
@@ -1164,7 +1173,8 @@
           "cny": 68.5,
           "sell": 43000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN010dU01z1sVApVpKiA9_!!2218354135771-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "fb26d1ad-fc0e-4b7a-9ad3-51638f0dc497",
@@ -1172,7 +1182,8 @@
           "cny": 70.5,
           "sell": 45000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01qETcpS1sVApVuIhQj_!!2218354135771-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1214,7 +1225,8 @@
           "cny": 30.37,
           "sell": 22000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01tGbEds1IjX4SFzgvo_!!2220616750929-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "222cddbb-fd58-475b-a9d4-43df6ba088f5",
@@ -1222,7 +1234,8 @@
           "cny": 35.4,
           "sell": 25000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01BinSgv1IjX4SFzMGH_!!2220616750929-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "acba9207-f684-473d-a597-3ec992475368",
@@ -1230,7 +1243,8 @@
           "cny": 35.4,
           "sell": 25000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01QJcEdP1IjX4SZWnic_!!2220616750929-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "939f7a36-ace5-4536-a00f-a9d9b00f7bd8",
@@ -1238,7 +1252,8 @@
           "cny": 37.97,
           "sell": 27000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01wF4GQw1IjX4SdhNDd_!!2220616750929-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1280,7 +1295,8 @@
           "cny": 12.8,
           "sell": 12500,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01Guh5YG1r2wjkDIIMd_!!2219920485574-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "22b6e140-2133-4bb6-a1bc-ba08776f836e",
@@ -1288,7 +1304,8 @@
           "cny": 17,
           "sell": 15000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01sjXgBJ1r2wjjyi8bC_!!2219920485574-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "97de61d7-3d87-4748-aa07-fd086f5da7d9",
@@ -1296,7 +1313,8 @@
           "cny": 20,
           "sell": 16700,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN010urYuI1r2wnKrg5hb_!!2219920485574-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1338,7 +1356,8 @@
           "cny": 25,
           "sell": 19500,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01V757mi1Tzz5Di3dzl_!!2222242922454-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "27fd9f00-3fe1-4e48-9448-f655bce591c0",
@@ -1346,7 +1365,8 @@
           "cny": 29,
           "sell": 22000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01rWjYs31Tzz5BrPAtd_!!2222242922454-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1388,7 +1408,8 @@
           "cny": 15,
           "sell": 13000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01WZa3O71p2N5gxr8xZ_!!2222560765302-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "b14a1852-8390-4e0b-98d2-c8ffbbe39687",
@@ -1396,7 +1417,8 @@
           "cny": 26,
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01IDp1ch1p2N5YiaNpM_!!2222560765302-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "d2c226c7-5384-4627-9697-53c7e9f806c5",
@@ -1404,7 +1426,8 @@
           "cny": 35,
           "sell": 22000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01LhGreT1p2N5Yb01mO_!!2222560765302-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1446,7 +1469,8 @@
           "cny": 11.2,
           "sell": 12000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01iuGF1x1GhZtif0ner_!!2216308170654-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1488,7 +1512,8 @@
           "cny": 12.32,
           "sell": 12000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01iuGF1x1GhZtif0ner_!!2216308170654-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1530,7 +1555,8 @@
           "cny": 28.8,
           "sell": 22000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01OvD11p2H6lxpg3ODm_!!2215820059102-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1572,7 +1598,8 @@
           "cny": 29,
           "sell": 22800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01MxeP0X1KwTRjwDc3l_!!2214434711228-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "42476692-8340-44f8-8c14-266a8c519ea2",
@@ -1580,7 +1607,8 @@
           "cny": 33,
           "sell": 23800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01T85j3I1KwTRjr5RzP_!!2214434711228-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "edf37c32-b3f3-42fc-bc8d-cdef7d614f2f",
@@ -1588,7 +1616,8 @@
           "cny": 40,
           "sell": 27800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01hJjPqa1KwTRqXy7Bl_!!2214434711228-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "f34b1fa7-feef-462b-b5e6-4eecd4758208",
@@ -1596,7 +1625,8 @@
           "cny": 35,
           "sell": 25800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01rLWoFZ1KwTHf4VoEg_!!2214434711228-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "02fc927f-a0cf-4909-ae0f-75b9840a63d0",
@@ -1604,7 +1634,8 @@
           "cny": 40,
           "sell": 27800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ft3ZsD1KwTHf3abiU_!!2214434711228-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1646,7 +1677,8 @@
           "cny": 30,
           "sell": 22500,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01vutAtn1dQqm76mfK2_!!2208141623731-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "4b4cfb10-44e6-4c8f-9265-a4f40a1de3ba",
@@ -1654,7 +1686,8 @@
           "cny": 35,
           "sell": 25800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN018teqfZ1dQqm9v89Yu_!!2208141623731-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "4aa1ff3f-8c8c-4377-8faa-a57e7e712510",
@@ -1662,7 +1695,8 @@
           "cny": 33,
           "sell": 25800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01sdrdCb1dQqm9vAu3k_!!2208141623731-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "120a6ae1-e848-44ef-9c73-a2e2a0dc3a16",
@@ -1670,7 +1704,8 @@
           "cny": 40,
           "sell": 28800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01epQaOY1dQqm9Rrluf_!!2208141623731-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "0c54fd31-69d2-4fea-bf1d-fbce8074ff0b",
@@ -1678,7 +1713,8 @@
           "cny": 38,
           "sell": 28800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01epQaOY1dQqm9Rrluf_!!2208141623731-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "a3324919-b432-4e44-8e13-e30eb36cef93",
@@ -1686,7 +1722,8 @@
           "cny": 43,
           "sell": 29800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ms7cq21dQqm804MOd_!!2208141623731-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "1eede54f-3ac3-4cc3-b5d6-91ea1fbc4933",
@@ -1694,7 +1731,8 @@
           "cny": 45,
           "sell": 29800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ms7cq21dQqm804MOd_!!2208141623731-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "c29d24c1-4ecf-4f12-8931-21f1f673f418",
@@ -1702,7 +1740,8 @@
           "cny": 38,
           "sell": 28800,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ms7cq21dQqm804MOd_!!2208141623731-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1744,7 +1783,8 @@
           "cny": 5.8,
           "sell": 8500,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01yUmAQu1if70slaNmx_!!2000954439-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "837b37ba-4cf8-44dc-8f74-30ad4acef375",
@@ -1752,7 +1792,8 @@
           "cny": 12.8,
           "sell": 12407,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01T4Qo941if7DmlpuhW_!!2000954439-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1794,7 +1835,8 @@
           "cny": 6.7,
           "sell": 9000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pVLJ642IFlAfou93G_!!2208394809257-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "a376ee86-54f0-4a51-bec6-f4865fffe961",
@@ -1802,7 +1844,8 @@
           "cny": 9,
           "sell": 10000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN0195Z4wz2IFlFDeN5iB_!!2208394809257-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "9e2807de-3cbf-446e-b3a0-3f439ac27644",
@@ -1810,7 +1853,8 @@
           "cny": 13.5,
           "sell": 13000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01vWVN6F2IFlVRYdl2s_!!2208394809257-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1852,7 +1896,8 @@
           "cny": 27,
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01XnOqmn2I0eOmeGITb_!!2220685699224-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1894,7 +1939,8 @@
           "cny": 12.8,
           "sell": 10376,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01HbXanp1elI40hqPgA_!!3321513911.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1936,7 +1982,8 @@
           "cny": 14.5,
           "sell": 11211,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01RXIE2A2E0s9mkv0sm_!!2221331788683-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -1978,7 +2025,8 @@
           "cny": 25,
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01faluNf2MBPxFCDm6t_!!2212729709789-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         },
         {
           "id": "26e22abe-7b4c-4e94-937a-a110e87451e1",
@@ -1986,7 +2034,8 @@
           "cny": 27,
           "sell": 22000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01IXgmc52MBPxF4Bpn4_!!2212729709789-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -2028,7 +2077,8 @@
           "cny": 20,
           "sell": 15000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ps13VS1r2wjgx4h9X_!!2219920485574-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -2070,7 +2120,8 @@
           "cny": 26.41,
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN011y6SUo1pyXHj0yj55_!!2206824905429-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -2112,7 +2163,8 @@
           "cny": 24.8,
           "sell": 17000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01LJ1ooa2AktQxFpcag_!!2218280368242-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -2154,7 +2206,8 @@
           "cny": 23.5,
           "sell": 18000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01iXKWwy25G8q88mw07_!!2216913747498-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -2196,7 +2249,8 @@
           "cny": 28.35,
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SrSSm41gbKj7upLaA_!!2217923744160-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -2238,7 +2292,8 @@
           "cny": 28,
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01USUF082723iM8XKlD_!!2214185247738-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
@@ -2280,7 +2335,8 @@
           "cny": 26,
           "sell": 20000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ruOU1e1CmNnFrnif8_!!2349350123-0-cib.jpg",
-          "inputMode": "sell"
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     }
