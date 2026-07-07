@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "fea734ee-92e2-47fa-abfd-522b3dffce71",
+      "createdAt": 1783392281046,
+      "name": "100g 75x35",
+      "folder": "수",
+      "link": "https://detail.1688.com/offer/944043026779.html?spm=a26352.b28411319/2508.0.0",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN013R38z21q2CTeGnlOb_!!2218890455437-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 12,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 10873,
+      "ad": 7,
+      "ret": 3,
+      "memo": "73,000",
+      "options": [
+        {
+          "id": "096a94fa-9cfe-4a8d-a8d9-0867882497ca",
+          "name": "그레이 75x35",
+          "cny": 12,
+          "sell": 10873,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN013R38z21q2CTeGnlOb_!!2218890455437-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "55e837ac-7754-4f3c-9530-e62922ba86d7",
       "createdAt": 1783390872042,
       "name": "280g 75x35 수건",
