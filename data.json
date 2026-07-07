@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "55e837ac-7754-4f3c-9530-e62922ba86d7",
+      "createdAt": 1783390872042,
+      "name": "280g 75x35 수건",
+      "folder": "수",
+      "link": "https://detail.1688.com/offer/750966823835.html?spm=a26352.13672862.offerlist.4.d5551e62N68YQV&offerId=750966823835&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5175485360945&trace_log=normal&uuid=ac9478cee351446b8c7dc25d4416e0e7&forcePC=1783390718224",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01kWaW2e2Hq76Pc688b_!!1764919201-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 18,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 14082,
+      "ad": 7,
+      "ret": 3,
+      "memo": "100,000",
+      "options": [
+        {
+          "id": "2254dad6-07e2-42fc-88b6-5c1f55c2cba1",
+          "name": "그레이 35x75",
+          "cny": 18,
+          "sell": 14082,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01kWaW2e2Hq76Pc688b_!!1764919201-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "6e78aee7-cf8a-4c10-899c-2633686a044e",
       "createdAt": 1783334247420,
       "name": "40oz 30oz 텀블",
