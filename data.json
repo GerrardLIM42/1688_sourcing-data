@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "id": "191c001d-0b03-4e90-980a-e83b426eb29b",
-      "createdAt": 1783394856329,
-      "name": "220g 260g 300g",
-      "folder": "수건",
-      "link": "",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01TGkNf41bM9MCgiicg_!!2217466413450-0-cib.jpg",
-      "category": "HOME",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 13,
-      "rate": 300,
-      "importMode": "simple",
-      "duty": 8,
-      "vatOn": true,
-      "forwarding": 0,
-      "clearance": 0,
-      "coupangCat": "생활/주방",
-      "feeManual": 11,
-      "channel": "rocket",
-      "promo": "none",
-      "rocketSize": "소형 (2kg 이하)",
-      "rocketFeeManual": 2500,
-      "marketShip": 0,
-      "sell": 11388,
-      "ad": 7,
-      "ret": 3,
-      "memo": "20,000",
-      "options": [
-        {
-          "id": "3bc64413-dcca-4065-91bc-f128da0d1583",
-          "name": "220g 50x70",
-          "cny": 13,
-          "sell": 11388,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01TGkNf41bM9MCgiicg_!!2217466413450-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 24.9
-        },
-        {
-          "id": "9378e8a4-1951-4e1b-aece-59c94f330b9f",
-          "name": "260g 50x70",
-          "cny": 35,
-          "sell": 23132,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01TGkNf41bM9MCgiicg_!!2217466413450-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 24.9
-        },
-        {
-          "id": "37ad5e12-5ec6-46fb-8a51-ac73cacf2f33",
-          "name": "300g 50x70",
-          "cny": 45,
-          "sell": 28470,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01TGkNf41bM9MCgiicg_!!2217466413450-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 24.9
-        }
-      ],
-      "repOptionId": "3bc64413-dcca-4065-91bc-f128da0d1583"
-    },
-    {
       "id": "fea734ee-92e2-47fa-abfd-522b3dffce71",
       "createdAt": 1783392281046,
       "name": "100g 75x35",
