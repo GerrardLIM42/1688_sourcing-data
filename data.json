@@ -4,9 +4,9 @@
       "id": "ce94739f-6fd3-4e03-8639-852a8147f727",
       "createdAt": 1783478035559,
       "name": "배변패",
-      "folder": "배변패드",
       "link": "https://detail.1688.com/offer/908440238658.html?spm=a26352.13672862.offerlist.84.7abb1e62PzutTZ&offerId=908440238658&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=61945bf5b69640f0b87d31e11e065e84&skuId=5936340126067&forcePC=1783477899519",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01rdinXU1hqHDg66gqx_!!2219538934328-0-cib.jpg",
+      "folder": "배변패드",
       "category": "PET",
       "status": "검토중",
       "isBundle": false,
@@ -29,6 +29,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "7400",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "3dceaa13-d812-434c-8274-b8fe95bbe572",
@@ -2807,6 +2809,25 @@
       "sourceUrl": "https://itemscout.io/keyword/3187",
       "updatedAt": "2026. 06. 30.",
       "memo": "쿠팡 경쟁강도 7.64(나쁨). 쿠팡 상품수 261,346개로 5개 중 가장 많아 경쟁 치열. 평균판매가 23,004원·평균리뷰 522개. 로켓비율 16.67%(아주좋음)·판매자로켓 59.72%(보통). 참고: 네이버 기준 상품수 972,723개·월검색량 34,200회·경쟁강도 28.44(나쁨)."
+    },
+    "러닝벨트 / 벨크로 러닝벨트": {
+      "keyword": "벨크로 러닝벨트",
+      "searchVolumeTotal": "120",
+      "searchVolumePc": "",
+      "searchVolumeMobile": "",
+      "competitionCount": "2574",
+      "competitionScore": "21.45",
+      "competitionLevel": "아주나쁨",
+      "rocketRatio": "26.39%",
+      "rocketRatioLevel": "좋음",
+      "sellerRocketRatio": "54.17%",
+      "sellerRocketRatioLevel": "보통",
+      "avgPrice": "13639",
+      "avgReviewCount": "590",
+      "seasonNote": "봄가을 마라톤 시즌 + 여름철 야외 러닝 수요",
+      "sourceUrl": "https://itemscout.io/keyword/90790638",
+      "updatedAt": "2026. 7. 8.",
+      "memo": ""
     }
   }
 }
