@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "c1bdfbfc-38d0-4bf4-80f7-7091c853326e",
+      "createdAt": 1783504522234,
+      "name": "3단 신발건",
+      "folder": "빨래 건조대",
+      "link": "https://detail.1688.com/offer/1051487716123.html?spm=a26352.b28411319/2508.0.0",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01iI6xtb1UJg7Ecu4c9_!!2221336432497-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 57,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 34938,
+      "ad": 7,
+      "ret": 3,
+      "memo": "50",
+      "options": [
+        {
+          "id": "1b4f3b67-a937-4398-bc95-b2d117381f27",
+          "name": "1.6m 3단 신발건조",
+          "cny": 57,
+          "sell": 34938,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01iI6xtb1UJg7Ecu4c9_!!2221336432497-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "575a07d5-59fb-4298-bed0-cd18ef26db64",
       "createdAt": 1783503243723,
       "name": "3단 신발 건",
