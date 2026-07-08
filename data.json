@@ -1,12 +1,62 @@
 {
   "items": [
     {
+      "id": "ce94739f-6fd3-4e03-8639-852a8147f727",
+      "createdAt": 1783478035559,
+      "name": "배변패",
+      "folder": "배변패드",
+      "link": "https://detail.1688.com/offer/908440238658.html?spm=a26352.13672862.offerlist.84.7abb1e62PzutTZ&offerId=908440238658&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=61945bf5b69640f0b87d31e11e065e84&skuId=5936340126067&forcePC=1783477899519",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01rdinXU1hqHDg66gqx_!!2219538934328-0-cib.jpg",
+      "category": "PET",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 18.62,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "반려동물",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 14414,
+      "ad": 7,
+      "ret": 3,
+      "memo": "7400",
+      "options": [
+        {
+          "id": "3dceaa13-d812-434c-8274-b8fe95bbe572",
+          "name": "45*60 100",
+          "cny": 18.62,
+          "sell": 14414,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01rdinXU1hqHDg66gqx_!!2219538934328-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        },
+        {
+          "id": "b712aa34-1fe5-4211-a7cb-7526f12f8939",
+          "name": "60*60 80",
+          "cny": 18.62,
+          "sell": 14414,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01cmlcKf1hqHDi9KGzR_!!2219538934328-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "b4586af1-6963-46db-9092-c23c801d549f",
       "createdAt": 1783477370508,
       "name": "배변패드",
-      "folder": "배변패드",
       "link": "",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ClsSmp1zj5nEczEqE_!!2200736426749-0-cib.jpg",
+      "folder": "배변패드",
       "category": "PET",
       "status": "검토중",
       "isBundle": false,
@@ -29,6 +79,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "100,000",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "63c02e19-9a7a-41e8-bde9-c01c5431120c",
@@ -72,9 +124,9 @@
       "id": "9381eef6-70e5-40eb-8a2a-5d83e64f946c",
       "createdAt": 1783476415135,
       "name": "배변패",
-      "folder": "배변패드",
       "link": "https://detail.1688.com/offer/898868016033.html?kj_agent_plugin=aliprice&fromkv=xytTrace:21360a2e17834680734201180e0bf0&token=oZMlGxBsncyMxeumFVOuUpqIUk8alDS2PHL5QSIdXxZgg1mI%2FKf6R0tq%2BYWjtDfi",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01nJRwid1dJyoz4l4iy_!!2217864703716-0-cib.jpg",
+      "folder": "배변패드",
       "category": "PET",
       "status": "검토중",
       "isBundle": true,
@@ -97,6 +149,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "6300",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "33845a8a-00d1-4365-b2a3-4345ef4bf1d2",
@@ -131,9 +185,9 @@
       "id": "fea734ee-92e2-47fa-abfd-522b3dffce71",
       "createdAt": 1783392281046,
       "name": "100g 75x35",
-      "folder": "수건",
       "link": "https://detail.1688.com/offer/944043026779.html?spm=a26352.b28411319/2508.0.0",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN013R38z21q2CTeGnlOb_!!2218890455437-0-cib.jpg",
+      "folder": "수건",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -156,6 +210,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "73,000",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "096a94fa-9cfe-4a8d-a8d9-0867882497ca",
@@ -172,9 +228,9 @@
       "id": "55e837ac-7754-4f3c-9530-e62922ba86d7",
       "createdAt": 1783390872042,
       "name": "280g 75x35 수건",
-      "folder": "수건",
       "link": "https://detail.1688.com/offer/750966823835.html?spm=a26352.13672862.offerlist.4.d5551e62N68YQV&offerId=750966823835&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5175485360945&trace_log=normal&uuid=ac9478cee351446b8c7dc25d4416e0e7&forcePC=1783390718224",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01kWaW2e2Hq76Pc688b_!!1764919201-0-cib.jpg",
+      "folder": "수건",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -197,6 +253,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "100,000",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "2254dad6-07e2-42fc-88b6-5c1f55c2cba1",
