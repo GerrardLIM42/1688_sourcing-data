@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "ff930e93-fdcf-4819-a567-9ef7d292bf81",
+      "createdAt": 1783502961634,
+      "name": "빨래건조대 신발 건조",
+      "folder": "빨래 건조대",
+      "link": "https://detail.1688.com/offer/784815160453.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=4d17d24438024ac18cc7e53e769912cf&sessionid=a31e82cfc5094958896d575399129773",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01UFN4oE1OXyhaHPyA4_!!2211844531716-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 65,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "중형 (5kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 40998,
+      "ad": 7,
+      "ret": 3,
+      "memo": "11,000",
+      "options": [
+        {
+          "id": "ad8f5097-6a2f-427c-b0a7-945df0c5b0e4",
+          "name": "1.6m 2단 신발건조",
+          "cny": 65,
+          "sell": 40998,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01UFN4oE1OXyhaHPyA4_!!2211844531716-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        },
+        {
+          "id": "1885f213-9847-43d9-a9ac-11184ae0ce21",
+          "name": "1.8m 2단 신발건조",
+          "cny": 70,
+          "sell": 43672,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN0166YT3D1OXyhb93MAc_!!2211844531716-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "066c6df3-3348-499e-9082-3ba7374e8186",
       "createdAt": 1783502034187,
       "name": "빨래건조대 신발 건",
