@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "6ea92305-8d68-443c-bb5b-f2be8cd5afb6",
+      "createdAt": 1783514722086,
+      "name": "옷걸이 30개",
+      "folder": "옷걸이",
+      "link": "https://detail.1688.com/offer/739750055236.html?kj_agent_plugin=aliprice&fromkv=xytTrace:21360a2e17835145497161749e0e21&token=3GWKaKnh75idsYeZE5Tq24X8Fjy6qj1NGQOLCNLlJlJ4hqD%2FjoHW4P%2BRIbupOH0d",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01tUQSdO1ugjs9AhkkU_!!2216156076067-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 1.38,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5194,
+      "ad": 7,
+      "ret": 3,
+      "memo": "100,000",
+      "options": [
+        {
+          "id": "8e90e940-68be-4064-9003-b3355145d5c4",
+          "name": "30개",
+          "cny": 1.38,
+          "sell": 5194,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01tUQSdO1ugjs9AhkkU_!!2216156076067-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "76090ff5-8128-4371-a1c9-7323ddaaee08",
       "createdAt": 1783513368451,
       "name": "원터치 밀대",
