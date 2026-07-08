@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "1d5ea69b-ca6e-4ef3-8336-e2d18639bac2",
+      "createdAt": 1783513309043,
+      "name": "원터치 밀대",
+      "folder": "원터치 밀대 걸레",
+      "link": "https://detail.1688.com/offer/1043072509324.html?spm=a26352.b28411319/2508.0.0",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01jNjbj52LbhKQjaW37_!!2222118829711-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 4.7,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 6970,
+      "ad": 7,
+      "ret": 3,
+      "memo": "10,000",
+      "options": [
+        {
+          "id": "585f6a71-88b6-4146-b915-3e5723198e60",
+          "name": "걸레 2개",
+          "cny": 4.7,
+          "sell": 6970,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01jNjbj52LbhKQjaW37_!!2222118829711-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "ec051967-c178-48de-a0c2-6f76e1c005fc",
       "createdAt": 1783513248324,
       "name": "원터치 밀대",
