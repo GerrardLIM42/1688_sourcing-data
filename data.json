@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "ef3208d4-059f-4f64-b162-b74718d55f4e",
+      "createdAt": 1783518057934,
+      "name": "옷걸이 30개",
+      "folder": "옷걸이",
+      "link": "https://detail.1688.com/offer/822831873503.html?kj_agent_plugin=aliprice&fromkv=xytTrace%3A21360a2e17835179530632267e0ea6&token=iLSUcijWNFVtgjowFZXhSqDFilnTcY%2FoiuEnSy3%2BZQ700grzzG95xJ8cErvVxFy7&tracelog=cps&clickid=d616572ca3a53f56939feef31dc01388&targetUrl=https%3A%2F%2Fs.click.1688.com%2Ft%3Fe%3DD2DC7A927D55C03D6511A0CCA913FD65D6FA062685DFF8F7D920A558D1D5758C4B369BE324A83E744B8F19128B0D93E33FB8088B45F57B9E47F28FD2CC0E231B4A1826F29D4B1B9460FEF997084D4D5331EB6FC8DBCADED4C6C8CEEEE21320CC4BD39EA2FE12E3B1757F00B5E40EC1BEBE15E7090D53AF26D41D8E866CA0AA39E6F78A972AB08B4E348394BC3CC3C62B9992F8828C4BE89299DC83A3542AF0EC76EA520B40B60CF9053A27984207EA79F618BE581C1BEB70405A59053DBECA125F4C805E484FA19EA854D42BC781E5821E1553F4924A6C622A3DFE5666FF47A1DB247F939F5DB449E084F14E64BB1154%26cbu_cps_trace_flag%3Dwrite",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01LKAlH61ZjqnY3QidB_!!1729763231-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 1.29,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5650,
+      "ad": 7,
+      "ret": 3,
+      "memo": "100,000",
+      "options": [
+        {
+          "id": "cae09eb9-6679-430a-8b08-6ab809231a81",
+          "name": "30개",
+          "cny": 1.29,
+          "sell": 5650,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01LKAlH61ZjqnY3QidB_!!1729763231-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 30
+        }
+      ]
+    },
+    {
       "id": "a458a261-f0b7-4c78-8b4f-7b7337d45a56",
       "createdAt": 1783517735642,
       "name": "옷걸이 30",
