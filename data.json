@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "3f1d957c-42c0-4616-9041-eb402cfc7284",
+      "createdAt": 1783521007380,
+      "name": "이염방지시트",
+      "folder": "이염방지시트",
+      "link": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN018OyUGD1SzEktWhe2E_!!2201249092317-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 3.9,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 7182,
+      "ad": 7,
+      "ret": 3,
+      "memo": "200",
+      "options": [
+        {
+          "id": "66dcfa63-effe-4946-ac39-3689ab916ba9",
+          "name": "영문 100",
+          "cny": 3.9,
+          "sell": 7182,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN018OyUGD1SzEktWhe2E_!!2201249092317-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 30
+        }
+      ]
+    },
+    {
       "id": "94551d72-ec34-4aa2-9f27-b251a9a91fe1",
       "createdAt": 1783520347939,
       "name": "이염방지시트",
