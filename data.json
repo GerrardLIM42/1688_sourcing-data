@@ -46,13 +46,13 @@
       "createdAt": 1783517501552,
       "name": "옷걸이 30",
       "folder": "옷걸이",
-      "link": "https://detail.1688.com/offer/637453346794.html?kj_agent_plugin=aliprice&fromkv=xytTrace:0bf89a7417835173312487318e0cd8&token=g6aq9tOgdIzbXeKR3YdkZk0mTclRZfuU1NljzH8yq5tPPiORVCBMiOTA3EqO1pWT",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01dfL9BL1cWyPjl8lBq_!!2713443609-0-cib.jpg",
+      "link": "https://detail.1688.com/offer/1029167003536.html?kj_agent_plugin=aliprice&fromkv=xytTrace:21360a2e17835176484468492e0bf0&token=1RMmN3UJLK2%2B5N%2Bo9ZHBfo%2BGvlCJtaVT6tPfGaHxA2CFeXjQfPQI2Wy5Eao8Vz5d",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01arFCYe2IAj9S6TDAX_!!2209867729246-0-cib.jpg",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
-      "cny": 1.86,
+      "cny": 1.26,
       "rate": 300,
       "importMode": "simple",
       "duty": 8,
@@ -66,19 +66,19 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 5451,
+      "sell": 5632,
       "ad": 7,
       "ret": 3,
-      "memo": "3,000",
+      "memo": "400",
       "options": [
         {
           "id": "62161a6b-eaef-4ec2-a27a-282d6cfae774",
           "name": "30개",
-          "cny": 1.86,
-          "sell": 5451,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01dfL9BL1cWyPjl8lBq_!!2713443609-0-cib.jpg",
+          "cny": 1.26,
+          "sell": 5632,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01arFCYe2IAj9S6TDAX_!!2209867729246-0-cib.jpg",
           "inputMode": "margin",
-          "savedMarginPct": 25
+          "savedMarginPct": 30
         }
       ]
     },
