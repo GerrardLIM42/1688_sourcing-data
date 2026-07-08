@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "ec051967-c178-48de-a0c2-6f76e1c005fc",
+      "createdAt": 1783513248324,
+      "name": "원터치 밀대",
+      "folder": "원터치 밀대 걸레",
+      "link": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN017sJahg220cYBkirO5_!!2215933737058-0-cib.jpg",
+      "category": "ACTIVE",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 7.35,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 8387,
+      "ad": 7,
+      "ret": 3,
+      "memo": "700",
+      "options": [
+        {
+          "id": "91af6233-018d-4192-bd5c-d80a52a20d4d",
+          "name": "걸레 2개",
+          "cny": 7.35,
+          "sell": 8387,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN017sJahg220cYBkirO5_!!2215933737058-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "ee2e14fe-3805-4f1f-9d40-666045290ac1",
       "createdAt": 1783513183864,
       "name": "원터치 밀",
