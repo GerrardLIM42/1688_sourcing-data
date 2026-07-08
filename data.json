@@ -102,47 +102,6 @@
       ]
     },
     {
-      "id": "aa46050b-e969-4463-9d36-2bc8be1c025d",
-      "createdAt": 1783501873511,
-      "name": "빨래건조대",
-      "folder": "빨래 건조대",
-      "link": "https://detail.1688.com/offer/850547559830.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=e492f5c7edbb4b078e2537f839eec3e8&sessionid=a31e82cfc5094958896d575399129773",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01gydin91OXyelO3rU4_!!2211844531716-0-cib.jpg",
-      "category": "HOME",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 59,
-      "rate": 300,
-      "importMode": "simple",
-      "duty": 8,
-      "vatOn": true,
-      "forwarding": 0,
-      "clearance": 0,
-      "coupangCat": "생활/주방",
-      "feeManual": 11,
-      "channel": "rocket",
-      "promo": "none",
-      "rocketSize": "소형 (2kg 이하)",
-      "rocketFeeManual": 2500,
-      "marketShip": 0,
-      "sell": 36007,
-      "ad": 7,
-      "ret": 3,
-      "memo": "100",
-      "options": [
-        {
-          "id": "d3f9b899-50a2-4f6b-a10f-7ad8fcc40784",
-          "name": "1.6m 3단",
-          "cny": 59,
-          "sell": 36007,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01gydin91OXyelO3rU4_!!2211844531716-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 25
-        }
-      ]
-    },
-    {
       "id": "a30c3aed-6b88-4748-be65-53b08c140317",
       "createdAt": 1783489980962,
       "name": "배변패",
