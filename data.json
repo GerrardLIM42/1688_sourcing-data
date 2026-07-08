@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "2963e90d-117a-42ff-8091-f1ecc47cd00c",
+      "createdAt": 1783478504132,
+      "name": "배변패",
+      "folder": "배변패드",
+      "link": "https://detail.1688.com/offer/826874335636.html?spm=a26352.13672862.offerlist.89.7abb1e62PzutTZ&cosite=-&tracelog=p4p&_p_isad=1&clickid=8d9e7e2ebe8041538e0b346c3c2d029d&sessionid=18e515d6fec095f1874077069a530b86",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01hv90uw2271wWT2bA2_!!2213272007072-0-cib.jpg",
+      "category": "PET",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 21,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "반려동물",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 15686,
+      "ad": 7,
+      "ret": 3,
+      "memo": "96,000",
+      "options": [
+        {
+          "id": "d147496b-6931-4f5a-8b6c-7df0783f1574",
+          "name": "기본형 45*60 100",
+          "cny": 21,
+          "sell": 15686,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01hv90uw2271wWT2bA2_!!2213272007072-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        },
+        {
+          "id": "fe819c70-cf48-4659-a0cc-e1126e574a3f",
+          "name": "중간 두께 45*60 100",
+          "cny": 25,
+          "sell": 17825,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01VUBF9r2271wW8A6ge_!!2213272007072-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        },
+        {
+          "id": "520bcf30-1396-4345-b298-b605a3660dc2",
+          "name": "두꺼운 45*60 100",
+          "cny": 35,
+          "sell": 23173,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN011xaPwr2271wW881oW_!!2213272007072-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        },
+        {
+          "id": "8ad9ae96-9747-4dc0-bbc6-4d2f5268b7b1",
+          "name": "대나무 숯 45*60 100",
+          "cny": 27.6,
+          "sell": 19216,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01JWnpQg2271wb1ukx4_!!2213272007072-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "ce94739f-6fd3-4e03-8639-852a8147f727",
       "createdAt": 1783478035559,
       "name": "배변패",
@@ -2809,25 +2877,6 @@
       "sourceUrl": "https://itemscout.io/keyword/3187",
       "updatedAt": "2026. 06. 30.",
       "memo": "쿠팡 경쟁강도 7.64(나쁨). 쿠팡 상품수 261,346개로 5개 중 가장 많아 경쟁 치열. 평균판매가 23,004원·평균리뷰 522개. 로켓비율 16.67%(아주좋음)·판매자로켓 59.72%(보통). 참고: 네이버 기준 상품수 972,723개·월검색량 34,200회·경쟁강도 28.44(나쁨)."
-    },
-    "러닝벨트 / 벨크로 러닝벨트": {
-      "keyword": "벨크로 러닝벨트",
-      "searchVolumeTotal": "120",
-      "searchVolumePc": "",
-      "searchVolumeMobile": "",
-      "competitionCount": "2574",
-      "competitionScore": "21.45",
-      "competitionLevel": "아주나쁨",
-      "rocketRatio": "26.39%",
-      "rocketRatioLevel": "좋음",
-      "sellerRocketRatio": "54.17%",
-      "sellerRocketRatioLevel": "보통",
-      "avgPrice": "13639",
-      "avgReviewCount": "590",
-      "seasonNote": "봄가을 마라톤 시즌 + 여름철 야외 러닝 수요",
-      "sourceUrl": "https://itemscout.io/keyword/90790638",
-      "updatedAt": "2026. 7. 8.",
-      "memo": ""
     }
   }
 }
