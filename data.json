@@ -2904,6 +2904,25 @@
       "sourceUrl": "https://itemscout.io/keyword/336",
       "updatedAt": "2026. 7. 8.",
       "memo": ""
+    },
+    "요가매트": {
+      "keyword": "요가매트",
+      "searchVolumeTotal": "45970",
+      "searchVolumePc": "",
+      "searchVolumeMobile": "",
+      "competitionCount": "89187",
+      "competitionScore": "1.94",
+      "competitionLevel": "좋음",
+      "rocketRatio": "41.67%",
+      "rocketRatioLevel": "보통",
+      "sellerRocketRatio": "33.33%",
+      "sellerRocketRatioLevel": "좋음",
+      "avgPrice": "18294",
+      "avgReviewCount": "2934",
+      "seasonNote": "연중 꾸준한 홈트레이닝 수요",
+      "sourceUrl": "https://itemscout.io/keyword/6797",
+      "updatedAt": "2026. 7. 8.",
+      "memo": ""
     }
   }
 }
