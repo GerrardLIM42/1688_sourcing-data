@@ -28,7 +28,7 @@
       "sell": 37077,
       "ad": 7,
       "ret": 3,
-      "memo": "",
+      "memo": "2300",
       "options": [
         {
           "id": "a90d4308-6f9a-48b2-b717-163b593fdc82",
@@ -41,10 +41,10 @@
         },
         {
           "id": "b72bcd00-b571-4f48-87fb-e46196173adc",
-          "name": "1",
-          "cny": 61,
-          "sell": 37077,
-          "image": "",
+          "name": "1.8m",
+          "cny": 66,
+          "sell": 39750,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01xV0WbK1XBNiJu0MSK_!!2219822232885-0-cib.jpg",
           "inputMode": "margin",
           "savedMarginPct": 25
         }
