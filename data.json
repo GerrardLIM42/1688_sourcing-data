@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "62fb06f9-a07f-48ac-99e7-0ee779ccda3f",
+      "createdAt": 1783658195919,
+      "name": "요가매트",
+      "folder": "요가매트",
+      "link": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01eUjOv91GJJ6LWcH9E_!!2219713230601-0-cib.jpg",
+      "category": "ACTIVE",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 26,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 18327,
+      "ad": 7,
+      "ret": 3,
+      "memo": "15,000",
+      "options": [
+        {
+          "id": "f2919aab-c782-4dc8-988a-db7055e8177d",
+          "name": "1850*800*15 스트랩",
+          "cny": 26,
+          "sell": 18327,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01eUjOv91GJJ6LWcH9E_!!2219713230601-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 24.9
+        }
+      ]
+    },
+    {
       "id": "5cfbebb2-4c85-405f-8aaf-0cfb7ad7eacc",
       "createdAt": 1783658112664,
       "name": "요가매트",
