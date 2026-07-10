@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "3df75420-533d-4096-94cd-925eede9e97d",
+      "createdAt": 1783661503269,
+      "name": "롤 테이블",
+      "folder": "캠핑 테이블 / 롤 테이블",
+      "link": "https://detail.1688.com/offer/781625138814.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=0787006b370e48668d31cfdf8dbc78fe&sessionid=69d7054fd56d6c6f94cf2406fe8686e6",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN017zfSYV1MGukUMhNfS_!!2217677251408-0-cib.jpg",
+      "category": "CAMP",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 28,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 19430,
+      "ad": 7,
+      "ret": 3,
+      "memo": "7,700",
+      "options": [
+        {
+          "id": "217462ff-527a-44c7-a450-f6aa7568aef5",
+          "name": "95*56*50",
+          "cny": 28,
+          "sell": 19430,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN017zfSYV1MGukUMhNfS_!!2217677251408-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        },
+        {
+          "id": "211a52c8-dd1d-4811-ba07-95efd9c0a74c",
+          "name": "120*55*50",
+          "cny": 33,
+          "sell": 22103,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01cfUWzE1MGukNtFIIc_!!2217677251408-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "a21b4811-046e-4bc0-a371-eef779017e2f",
       "createdAt": 1783661329344,
       "name": "롤 테이블",
