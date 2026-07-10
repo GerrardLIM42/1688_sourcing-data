@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "a21b4811-046e-4bc0-a371-eef779017e2f",
+      "createdAt": 1783661329344,
+      "name": "롤 테이블",
+      "folder": "캠핑 테이블 / 롤 테이블",
+      "link": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01vy9LNm1TPLNnw2J24_!!2215536882374-0-cib.jpg",
+      "category": "CAMP",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 28.5,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 19697,
+      "ad": 7,
+      "ret": 3,
+      "memo": "13,000",
+      "options": [
+        {
+          "id": "594b33b7-c98e-456b-a97c-214fa4b7e8bb",
+          "name": "95*56*50",
+          "cny": 28.5,
+          "sell": 19697,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01vy9LNm1TPLNnw2J24_!!2215536882374-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        },
+        {
+          "id": "17d6d3ad-7d26-43ae-b6c8-c3bfe2c0b5ea",
+          "name": "120*56*50",
+          "cny": 32,
+          "sell": 21569,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN0197xkYp1TPLJgpy5ya_!!2215536882374-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "62fb06f9-a07f-48ac-99e7-0ee779ccda3f",
       "createdAt": 1783658195919,
       "name": "요가매트",
