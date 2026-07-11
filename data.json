@@ -1643,67 +1643,6 @@
       ]
     },
     {
-      "id": "9381eef6-70e5-40eb-8a2a-5d83e64f946c",
-      "createdAt": 1783476415135,
-      "name": "배변패",
-      "link": "https://detail.1688.com/offer/898868016033.html?kj_agent_plugin=aliprice&fromkv=xytTrace:21360a2e17834680734201180e0bf0&token=oZMlGxBsncyMxeumFVOuUpqIUk8alDS2PHL5QSIdXxZgg1mI%2FKf6R0tq%2BYWjtDfi",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01nJRwid1dJyoz4l4iy_!!2217864703716-0-cib.jpg",
-      "folder": "배변패드",
-      "category": "PET",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 9,
-      "rate": 300,
-      "importMode": "simple",
-      "duty": 8,
-      "vatOn": true,
-      "forwarding": 0,
-      "clearance": 0,
-      "coupangCat": "반려동물",
-      "feeManual": 11,
-      "channel": "rocket",
-      "promo": "none",
-      "rocketSize": "소형 (2kg 이하)",
-      "rocketFeeManual": 2500,
-      "marketShip": 0,
-      "sell": 9269,
-      "ad": 7,
-      "ret": 3,
-      "memo": "6300",
-      "starred": false,
-      "repOptionId": null,
-      "options": [
-        {
-          "id": "33845a8a-00d1-4365-b2a3-4345ef4bf1d2",
-          "name": "100장 45*60",
-          "cny": 9,
-          "sell": 9269,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01nJRwid1dJyoz4l4iy_!!2217864703716-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 25
-        },
-        {
-          "id": "785e1cea-37f6-4b26-87fa-560a1b67d73a",
-          "name": "80장 60*60",
-          "cny": 9,
-          "sell": 9269,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01nJRwid1dJyoz4l4iy_!!2217864703716-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 25
-        },
-        {
-          "id": "5056bc35-9f5b-43ee-ba5a-32a1e7d5d414",
-          "name": "40장 60*90",
-          "cny": 9,
-          "sell": 9269,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01nJRwid1dJyoz4l4iy_!!2217864703716-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 25
-        }
-      ]
-    },
-    {
       "id": "fea734ee-92e2-47fa-abfd-522b3dffce71",
       "createdAt": 1783392281046,
       "name": "100g 75x35",
