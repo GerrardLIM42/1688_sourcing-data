@@ -2148,7 +2148,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "1400",
-      "starred": false,
+      "starred": true,
       "repOptionId": null,
       "options": [
         {
@@ -2234,7 +2234,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "1100",
-      "starred": false,
+      "starred": true,
       "repOptionId": null,
       "options": [
         {
