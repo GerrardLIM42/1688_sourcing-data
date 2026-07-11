@@ -1591,58 +1591,6 @@
       ]
     },
     {
-      "id": "ce94739f-6fd3-4e03-8639-852a8147f727",
-      "createdAt": 1783478035559,
-      "name": "배변패",
-      "link": "https://detail.1688.com/offer/908440238658.html?spm=a26352.13672862.offerlist.84.7abb1e62PzutTZ&offerId=908440238658&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=61945bf5b69640f0b87d31e11e065e84&skuId=5936340126067&forcePC=1783477899519",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01rdinXU1hqHDg66gqx_!!2219538934328-0-cib.jpg",
-      "folder": "배변패드",
-      "category": "PET",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 18.62,
-      "rate": 300,
-      "importMode": "simple",
-      "duty": 8,
-      "vatOn": true,
-      "forwarding": 0,
-      "clearance": 0,
-      "coupangCat": "반려동물",
-      "feeManual": 11,
-      "channel": "rocket",
-      "promo": "none",
-      "rocketSize": "소형 (2kg 이하)",
-      "rocketFeeManual": 2500,
-      "marketShip": 0,
-      "sell": 14414,
-      "ad": 7,
-      "ret": 3,
-      "memo": "7400",
-      "starred": false,
-      "repOptionId": null,
-      "options": [
-        {
-          "id": "3dceaa13-d812-434c-8274-b8fe95bbe572",
-          "name": "45*60 100",
-          "cny": 18.62,
-          "sell": 14414,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01rdinXU1hqHDg66gqx_!!2219538934328-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 25
-        },
-        {
-          "id": "b712aa34-1fe5-4211-a7cb-7526f12f8939",
-          "name": "60*60 80",
-          "cny": 18.62,
-          "sell": 14414,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01cmlcKf1hqHDi9KGzR_!!2219538934328-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 25
-        }
-      ]
-    },
-    {
       "id": "fea734ee-92e2-47fa-abfd-522b3dffce71",
       "createdAt": 1783392281046,
       "name": "100g 75x35",
