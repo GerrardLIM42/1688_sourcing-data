@@ -4,9 +4,9 @@
       "id": "a71efa32-4e37-4191-8da7-eb69dcee8605",
       "createdAt": 1783738739676,
       "name": "배변패드",
-      "folder": "배변패드",
       "link": "https://detail.1688.com/offer/677442502491.html?spm=a26352.13672862.offerlist.28.7f2259bcwXjzBl&cosite=-&tracelog=p4p&_p_isad=1&clickid=e3d44551a8a045d0be2d356d63eab2e8&sessionid=f942d581c6ba54aeca425f4ce59af878",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01IkcvFr1FsHe976Nsj_!!2214272310542-0-cib.jpg",
+      "folder": "배변패드",
       "category": "PET",
       "status": "검토중",
       "isBundle": false,
@@ -29,6 +29,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "100,000",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "ee86ce95-1e8b-462a-b313-23ebd7037707",
@@ -45,9 +47,9 @@
       "id": "0300f4a1-7ba0-4096-8dfb-e5b3b93ff4d4",
       "createdAt": 1783737604374,
       "name": "배변패드",
-      "folder": "배변패드",
       "link": "https://detail.1688.com/offer/673585451041.html?kj_agent_plugin=aliprice&fromkv=xytTrace:210702e017837369079456366e0c00&token=XU1tqQ7hoAcoFI%2Blj%2FmzlwiwiieDQu04ODobYfQ%2BMLHhGCh94Jc%2FcFX%2FPS6RJ3eX",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01HJ5qRA2HU8AqYWhcl_!!2208507209153-0-cib.jpg",
+      "folder": "배변패드",
       "category": "PET",
       "status": "검토중",
       "isBundle": false,
@@ -70,6 +72,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "100,000",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "fe6edc1b-242d-4a45-970b-7b550f2892d6",
@@ -86,9 +90,9 @@
       "id": "6b0dfb50-3548-4944-9542-7d28d6e74631",
       "createdAt": 1783737363488,
       "name": "배변패드",
-      "folder": "배변패드",
       "link": "https://detail.1688.com/offer/1058659015039.html?kj_agent_plugin=aliprice&fromkv=xytTrace:0b5681be17837370001877517e0ecf&token=chgTtByu5HWEhgNP69rtQNFTceAwvtvqFNgfzeKDEu0Wu2LEqNpp8uHqQdKW6zbf",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01CIktTb1zj6AIYdu5X_!!2200736426749-0-cib.jpg",
+      "folder": "배변패드",
       "category": "PET",
       "status": "검토중",
       "isBundle": false,
@@ -111,6 +115,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "200",
+      "starred": false,
+      "repOptionId": "9e8662ee-f886-40e6-a0f4-5aa392dbe897",
       "options": [
         {
           "id": "2e9671c3-9510-4682-9b3a-61b1797bb528",
@@ -139,16 +145,15 @@
           "inputMode": "margin",
           "savedMarginPct": 25
         }
-      ],
-      "repOptionId": "9e8662ee-f886-40e6-a0f4-5aa392dbe897"
+      ]
     },
     {
       "id": "c18ec8c9-fe48-43c5-b306-a5e1bdc418d4",
       "createdAt": 1783736739002,
       "name": "배변패드",
-      "folder": "배변패드",
       "link": "https://detail.1688.com/offer/629305461138.html?spm=a261y.7663282.shopProductRecommend.1.e73b2cacpWP5OZ&traceId=0b52090217837363036521665e0c06&spm-url=a262eq.41125097.screenedOfferCard.0&spm-auction=906578051391",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01HJ5qRA2HU8AqYWhcl_!!2208507209153-0-cib.jpg",
+      "folder": "배변패드",
       "category": "PET",
       "status": "검토중",
       "isBundle": false,
@@ -171,6 +176,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "50",
+      "starred": true,
+      "repOptionId": "399a778e-e461-497e-a943-3a2b96b91027",
       "options": [
         {
           "id": "399a778e-e461-497e-a943-3a2b96b91027",
@@ -199,17 +206,15 @@
           "inputMode": "margin",
           "savedMarginPct": 25
         }
-      ],
-      "starred": true,
-      "repOptionId": "399a778e-e461-497e-a943-3a2b96b91027"
+      ]
     },
     {
       "id": "342bcfcf-94ee-40b8-880b-14233d77bd53",
       "createdAt": 1783734566680,
       "name": "러닝벨트",
-      "folder": "러닝벨트 / 벨크로 러닝벨트",
       "link": "https://detail.1688.com/offer/769537771182.html?kj_agent_plugin=aliprice&fromkv=xytTrace:0b5681be17837343146792862e0d63&token=ERbuBT0dozUIo%2F%2FuPaMrqVUmagQy24%2Bgc1qPIsB1m%2BY1f2Iumh%2BsT%2FgeWavTAf9N",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01WaskC71DoV5jO5AkQ_!!2215841470263-0-cib.jpg",
+      "folder": "러닝벨트 / 벨크로 러닝벨트",
       "category": "ACTIVE",
       "status": "검토중",
       "isBundle": false,
@@ -232,6 +237,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "32,000 다양한 색상 M, L",
+      "starred": true,
+      "repOptionId": null,
       "options": [
         {
           "id": "816e6d3d-cdcd-4292-be2b-c90ba861addd",
@@ -242,16 +249,15 @@
           "inputMode": "margin",
           "savedMarginPct": 25
         }
-      ],
-      "starred": true
+      ]
     },
     {
       "id": "5ed86c0d-9ee6-4b85-8ec2-1e931a1c2916",
       "createdAt": 1783733520067,
       "name": "러닝 벨트",
-      "folder": "러닝벨트 / 벨크로 러닝벨트",
       "link": "https://detail.1688.com/offer/968555489173.html?kj_agent_plugin=aliprice&fromkv=xytTrace:21080f7717837332392825975e0c33&token=Y606zGoF4WsPFTWnk94lRoduA691Y0sIOSc0hbtMKP0JRcVvI%2Fb0TyOhBfVxkRLr",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01kTFCSU1j2vof8B1cn_!!2220531174491-0-cib.jpg",
+      "folder": "러닝벨트 / 벨크로 러닝벨트",
       "category": "ACTIVE",
       "status": "검토중",
       "isBundle": false,
@@ -274,6 +280,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "25,000 블랙, 핑크, 블루, 네이비, L, M",
+      "starred": true,
+      "repOptionId": null,
       "options": [
         {
           "id": "fe842183-d9a9-4b99-ab44-4382f04d89e8",
@@ -284,8 +292,7 @@
           "inputMode": "margin",
           "savedMarginPct": 25
         }
-      ],
-      "starred": true
+      ]
     },
     {
       "id": "3df75420-533d-4096-94cd-925eede9e97d",
@@ -4317,5 +4324,8 @@
       "updatedAt": "2026. 7. 8.",
       "memo": ""
     }
-  }
+  },
+  "hiddenFolders": [
+    "러닝벨트"
+  ]
 }
