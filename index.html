@@ -186,6 +186,51 @@
   .view-toggle-row{ display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px; }
   .view-toggle{ display:flex; gap:6px; flex-wrap:wrap; }
 
+  /* ---------- Hidden folders panel ---------- */
+  .hidden-folders-panel{
+    background:var(--paper-dim); border:1px dashed var(--line); border-radius:12px;
+    padding:14px 16px; margin-bottom:16px;
+  }
+  .hidden-folders-panel .hf-title{ font-size:12px; font-weight:800; color:var(--mist); letter-spacing:.04em; margin-bottom:10px; text-transform:uppercase; }
+  .hidden-folders-list{ display:flex; flex-wrap:wrap; gap:8px; }
+  .hidden-folder-chip{
+    display:flex; align-items:center; gap:8px; background:var(--card); border:1px solid var(--line);
+    border-radius:999px; padding:6px 6px 6px 12px; font-size:12.5px; font-weight:600;
+  }
+  .hidden-folder-chip .hf-count{ color:var(--mist); font-weight:600; }
+  .hidden-folder-chip button{
+    border:none; background:var(--steel); color:#fff; border-radius:999px; padding:5px 11px;
+    font-size:11px; font-weight:700; cursor:pointer; white-space:nowrap;
+  }
+  .hidden-folder-chip button:hover{ opacity:.85; }
+  .hidden-folders-empty{ font-size:12.5px; color:var(--mist); }
+
+  /* ---------- Folder card view (폴더를 카드식으로 나열) ---------- */
+  .folder-card-grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(216px,1fr)); gap:14px; }
+  .folder-card-tile{
+    position:relative; background:var(--card); border:1px solid var(--line); border-radius:14px;
+    padding:14px; cursor:pointer; display:flex; flex-direction:column; gap:10px;
+    box-shadow:0 1px 2px rgba(27,42,61,0.05); transition:box-shadow .15s ease, transform .15s ease;
+  }
+  .folder-card-tile:hover{ box-shadow:0 6px 16px rgba(27,42,61,0.14); transform:translateY(-2px); border-color:var(--steel); }
+  .folder-card-hide{
+    position:absolute; top:10px; right:10px; z-index:1;
+    background:var(--card); border:1px solid var(--line); border-radius:999px;
+    width:26px; height:26px; font-size:12px; line-height:1; cursor:pointer;
+  }
+  .folder-card-hide:hover{ background:var(--paper-dim); border-color:var(--steel); }
+  .fc-thumb{
+    width:100%; height:96px; border-radius:10px; background-color:var(--paper-dim);
+    background-position:center; background-size:cover; background-repeat:no-repeat;
+    display:flex; align-items:center; justify-content:center; font-size:26px; color:var(--mist);
+  }
+  .fc-body{ display:flex; flex-direction:column; gap:5px; }
+  .fc-name{ font-weight:800; font-size:14px; display:flex; align-items:center; gap:6px; }
+  .fc-name::before{ content:'📁'; font-size:13px; }
+  .fc-meta{ display:flex; align-items:center; gap:8px; flex-wrap:wrap; font-size:11.5px; color:var(--mist); }
+  .fc-meta .fc-best{ color:var(--jade); font-weight:700; font-family:'JetBrains Mono',monospace; }
+  .fc-cat{ font-size:11px; font-weight:800; }
+
   /* ---------- Form panel ---------- */
   .panel{
     background:var(--card); border:1px solid var(--line); border-radius:12px;
@@ -719,6 +764,7 @@
     <div class="view-toggle">
       <button class="tab active" id="view-group-btn">📁 폴더별 비교 보기</button>
       <button class="tab" id="view-flat-btn">전체 목록</button>
+      <button class="tab" id="view-folders-btn">🗃 폴더 카드 보기</button>
     </div>
     <div class="view-toggle">
       <button class="tab active" id="display-card-btn">🗂 카드 보기</button>
@@ -727,8 +773,10 @@
     <div class="view-toggle">
       <button class="tab" id="select-all-btn">☐ 전체 선택</button>
       <button class="tab" id="collapse-all-btn">▾ 전체 폴더 접기</button>
+      <button class="tab" id="hidden-folders-btn">🙈 숨긴 폴더</button>
     </div>
   </div>
+  <div class="hidden-folders-panel" id="hidden-folders-panel" hidden></div>
 
   <section class="panel" id="form-panel" hidden>
     <h2 id="panel-title">신규 소싱 항목 추가</h2>
@@ -1074,7 +1122,7 @@
   let filterStarred = false;
   let sortKey = 'marginDesc';
   let taxType = localStorage.getItem('moriva_tax_type') || 'simplified'; // 'simplified'|'general'|'exempt'
-  let viewMode = 'group';      // 'group' | 'flat'
+  let viewMode = 'group';      // 'group' | 'flat' | 'folders'
   let displayMode = 'card';    // 'card' | 'table'
   let editingId = null;
   let editingFolderKey = null;
@@ -1085,6 +1133,8 @@
   const expandedIds = new Set();
   const expandedOptionIds = new Set();
   const collapsedFolders = new Set();
+  const hiddenFolderKeys = new Set();  // 숨긴 폴더 key 목록 (하위폴더 포함 함께 숨김)
+  let hiddenFoldersPanelOpen = false;
   let draftOptions = [];
   const selectedIds = new Set();
   let compareTab = 'table';    // 'table' | 'bar' | 'pie'
@@ -1403,22 +1453,27 @@
     return `HTTP ${status}`;
   }
   function buildPayload(){
-    return { items, folderKeywords };
+    return { items, folderKeywords, hiddenFolders: Array.from(hiddenFolderKeys) };
   }
   function parseStoredPayload(raw){
-    if(Array.isArray(raw)) return { items: raw, folderKeywords: {} };
+    if(Array.isArray(raw)) return { items: raw, folderKeywords: {}, hiddenFolders: [] };
     if(raw && typeof raw === 'object'){
       return {
         items: Array.isArray(raw.items) ? raw.items : [],
-        folderKeywords: (raw.folderKeywords && typeof raw.folderKeywords === 'object') ? raw.folderKeywords : {}
+        folderKeywords: (raw.folderKeywords && typeof raw.folderKeywords === 'object') ? raw.folderKeywords : {},
+        hiddenFolders: Array.isArray(raw.hiddenFolders) ? raw.hiddenFolders : []
       };
     }
-    return { items: [], folderKeywords: {} };
+    return { items: [], folderKeywords: {}, hiddenFolders: [] };
   }
   function applyFolderKeywords(rawMap){
     const out = {};
     Object.entries(rawMap || {}).forEach(([k, v]) => { out[k] = normalizeFolderKeyword(v); });
     folderKeywords = out;
+  }
+  function applyHiddenFolders(rawArr){
+    hiddenFolderKeys.clear();
+    (rawArr || []).forEach(k => { if(typeof k === 'string' && k.trim()) hiddenFolderKeys.add(k); });
   }
 
   async function githubFetchFile(){
@@ -1429,7 +1484,7 @@
     if(res.status === 404){
       // data.json이 아직 저장소에 없는 경우 — 빈 상태로 보고, 다음 저장 시 자동 생성한다
       githubSha = null;
-      return { items: [], folderKeywords: {} };
+      return { items: [], folderKeywords: {}, hiddenFolders: [] };
     }
     if(!res.ok) throw new Error(githubErrorDetail(res.status));
     const data = await res.json();
@@ -1486,6 +1541,7 @@
         if(res && res.value){
           const parsed = parseStoredPayload(JSON.parse(res.value));
           applyFolderKeywords(parsed.folderKeywords);
+          applyHiddenFolders(parsed.hiddenFolders);
           return parsed.items.map(normalizeItem);
         }
         return [];
@@ -1501,7 +1557,7 @@
         const payload = await githubFetchFile();
         if(payload.items.length === 0 && Object.keys(payload.folderKeywords).length === 0){
           // GitHub가 비어있는 경우, 이 브라우저에 이미 저장된 데이터가 있다면 잃지 않도록 GitHub로 올려준다
-          let localPayload = { items: [], folderKeywords: {} };
+          let localPayload = { items: [], folderKeywords: {}, hiddenFolders: [] };
           try{
             const raw = localStorage.getItem(STORE_KEY);
             if(raw) localPayload = parseStoredPayload(JSON.parse(raw));
@@ -1517,11 +1573,13 @@
               showToast(`GitHub 업로드 실패: ${result.detail}`);
             }
             applyFolderKeywords(localPayload.folderKeywords);
+            applyHiddenFolders(localPayload.hiddenFolders);
             return localPayload.items.map(normalizeItem);
           }
         }
         localStorage.setItem(STORE_KEY, JSON.stringify(payload));
         applyFolderKeywords(payload.folderKeywords);
+        applyHiddenFolders(payload.hiddenFolders);
         setSyncStatus('synced');
         return payload.items.map(normalizeItem);
       }catch(e){
@@ -1532,6 +1590,7 @@
           if(raw){
             const parsed = parseStoredPayload(JSON.parse(raw));
             applyFolderKeywords(parsed.folderKeywords);
+            applyHiddenFolders(parsed.hiddenFolders);
             return parsed.items.map(normalizeItem);
           }
         }catch(e2){ console.error(e2); }
@@ -1544,6 +1603,7 @@
       if(raw){
         const parsed = parseStoredPayload(JSON.parse(raw));
         applyFolderKeywords(parsed.folderKeywords);
+        applyHiddenFolders(parsed.hiddenFolders);
         return parsed.items.map(normalizeItem);
       }
       return [];
@@ -1664,6 +1724,81 @@
     Object.keys(node.children).forEach(k => { all = all.concat(collectSubtreeItems(node.children[k])); });
     return all;
   }
+
+  /* ---------------- folder hide/unhide ---------------- */
+  function folderKeyOf(it){
+    return (it.folder || '').trim() || '__NONE__';
+  }
+  function isFolderHidden(key){
+    // 상위 폴더가 숨겨져 있으면 모든 하위폴더도 함께 숨겨진다
+    if(key === '__NONE__') return hiddenFolderKeys.has('__NONE__');
+    const segs = key.split(FOLDER_SEP);
+    let path = '';
+    for(let i = 0; i < segs.length; i++){
+      path = path ? `${path}${FOLDER_SEP}${segs[i]}` : segs[i];
+      if(hiddenFolderKeys.has(path)) return true;
+    }
+    return false;
+  }
+  function hiddenFolderSummaries(){
+    return Array.from(hiddenFolderKeys).map(key => {
+      const label = key === '__NONE__' ? '미분류' : key;
+      const count = items.filter(it => {
+        const k = folderKeyOf(it);
+        return k === key || (key !== '__NONE__' && k.startsWith(key + FOLDER_SEP));
+      }).length;
+      return { key, label, count };
+    }).sort((a, b) => a.label.localeCompare(b.label, 'ko'));
+  }
+  function toggleFolderHidden(key){
+    const label = key === '__NONE__' ? '미분류' : key;
+    if(hiddenFolderKeys.has(key)){
+      hiddenFolderKeys.delete(key);
+      showToast(`"${label}" 폴더를 다시 표시합니다.`);
+    } else {
+      hiddenFolderKeys.add(key);
+      collapsedFolders.delete(key);
+      items.forEach(it => {
+        const k = folderKeyOf(it);
+        if(k === key || (key !== '__NONE__' && k.startsWith(key + FOLDER_SEP))) selectedIds.delete(it.id);
+      });
+      showToast(`"${label}" 폴더를 숨겼습니다. 상단 "🙈 숨긴 폴더"에서 다시 볼 수 있어요.`);
+    }
+    saveItems();
+    updateSelectionBar();
+    renderAll();
+  }
+  function updateHiddenFoldersBtn(){
+    const btn = $('#hidden-folders-btn');
+    if(!btn) return;
+    const n = hiddenFolderKeys.size;
+    btn.textContent = n > 0 ? `🙈 숨긴 폴더 (${n})` : '🙈 숨긴 폴더';
+    btn.classList.toggle('active', hiddenFoldersPanelOpen);
+  }
+  function renderHiddenFoldersPanel(){
+    const panelEl = $('#hidden-folders-panel');
+    if(!panelEl) return;
+    panelEl.hidden = !hiddenFoldersPanelOpen;
+    if(!hiddenFoldersPanelOpen) return;
+    const summaries = hiddenFolderSummaries();
+    panelEl.innerHTML = `
+      <div class="hf-title">🙈 숨긴 폴더${summaries.length ? ` (${summaries.length}개)` : ''}</div>
+      ${summaries.length ? `<div class="hidden-folders-list">${summaries.map(s => `
+        <div class="hidden-folder-chip">
+          <span>📁 ${escapeHtml(s.label)}</span>
+          <span class="hf-count">${s.count}개</span>
+          <button type="button" data-unhide="${escapeHtml(s.key)}">👁 다시 보이기</button>
+        </div>
+      `).join('')}</div>` : `<div class="hidden-folders-empty">숨긴 폴더가 없습니다. 폴더 상단의 "🙈 숨기기" 버튼을 누르면 이 목록으로 옮겨져요.</div>`}
+    `;
+    panelEl.querySelectorAll('[data-unhide]').forEach(btn =>
+      btn.addEventListener('click', () => toggleFolderHidden(btn.dataset.unhide)));
+  }
+  $('#hidden-folders-btn').addEventListener('click', () => {
+    hiddenFoldersPanelOpen = !hiddenFoldersPanelOpen;
+    renderHiddenFoldersPanel();
+    updateHiddenFoldersBtn();
+  });
 
   function getFolderList(){
     const set = new Set();
@@ -1800,6 +1935,7 @@
   function updateSelectAllBtn(){
     const btn = $('#select-all-btn');
     if(!btn) return;
+    btn.style.display = (viewMode === 'folders') ? 'none' : '';
     const filteredIds = getFiltered().map(it => it.id);
     const allSelected = filteredIds.length > 0 && filteredIds.every(id => selectedIds.has(id));
     btn.textContent = allSelected ? '☑ 전체 해제' : '☐ 전체 선택';
@@ -2081,7 +2217,8 @@
       const catOk = filterCategory === 'ALL' || it.category === filterCategory;
       const statusOk = filterStatus === 'ALL' || it.status === filterStatus;
       const starOk = !filterStarred || it.starred;
-      return catOk && statusOk && starOk;
+      const hideOk = !isFolderHidden(folderKeyOf(it));
+      return catOk && statusOk && starOk && hideOk;
     });
   }
 
@@ -2143,6 +2280,8 @@
       gridArea.innerHTML = displayMode === 'table'
         ? tableHtml(list, true, null)
         : `<div class="grid">${list.map(it => cardHtml(it, false)).join('')}</div>`;
+    } else if(viewMode === 'folders'){
+      gridArea.innerHTML = renderFolderCardsView(filtered);
     } else {
       const noneItems = sortList(filtered.filter(it => !((it.folder || '').trim())));
       const treeSourceItems = filtered.filter(it => (it.folder || '').trim());
@@ -2158,6 +2297,91 @@
     bindInteractiveEvents(gridArea);
     updateSelectAllBtn();
     updateCollapseAllBtn();
+  }
+
+  /* ---------------- render: folder card view (폴더 자체를 카드로 나열) ---------------- */
+
+  function getTopLevelFolderTree(filtered){
+    const noneItems = sortList(filtered.filter(it => !((it.folder || '').trim())));
+    const treeSourceItems = filtered.filter(it => (it.folder || '').trim());
+    const tree = buildFolderTree(treeSourceItems);
+    return { tree, noneItems };
+  }
+
+  function renderFolderCardsView(filtered){
+    const { tree, noneItems } = getTopLevelFolderTree(filtered);
+    const topKeys = Object.keys(tree).sort((a, b) => a.localeCompare(b, 'ko'));
+    const cards = topKeys.map(k => folderCardHtml(tree[k]));
+    if(noneItems.length){
+      cards.push(folderCardHtml({ key: '__NONE__', label: '미분류', items: noneItems, children: {} }));
+    }
+    if(cards.length === 0){
+      return `<div class="empty">
+        <div class="big">표시할 폴더가 없습니다</div>
+        <div>필터를 변경하거나, 상단의 "🙈 숨긴 폴더"에서 숨긴 폴더를 확인해보세요.</div>
+      </div>`;
+    }
+    return `<div class="folder-card-grid">${cards.join('')}</div>`;
+  }
+
+  function folderCardHtml(node){
+    const key = node.key;
+    const label = node.label;
+    const subtreeItems = collectSubtreeItems(node);
+    const childCount = Object.keys(node.children || {}).length;
+    let bestItem = null;
+    if(subtreeItems.length){
+      bestItem = subtreeItems.reduce((best, it) => {
+        const bc = repCalc(best), ic = repCalc(it);
+        const pctDiff = ic.marginPct - bc.marginPct;
+        if(Math.abs(pctDiff) > 0.05) return pctDiff > 0 ? it : best;
+        return ic.margin > bc.margin ? it : best;
+      }, subtreeItems[0]);
+    }
+    const bestMargin = bestItem ? repCalc(bestItem).marginPct : null;
+    const thumbSrc = (() => {
+      const withImg = subtreeItems.find(it => (repOption(it).image || it.image));
+      if(!withImg) return '';
+      return resolveImageSrc(repOption(withImg).image || withImg.image);
+    })();
+    const mainCat = subtreeItems.length ? pickMostCommonCategory(subtreeItems) : 'ETC';
+    const catMeta = CATEGORIES[mainCat] || CATEGORIES.ETC;
+    return `
+      <div class="folder-card-tile" data-folder-open="${escapeHtml(key)}" title="열어서 비교하기">
+        <button type="button" class="folder-card-hide" data-folder-hide="${escapeHtml(key)}" title="이 폴더를 숨깁니다">🙈</button>
+        <div class="fc-thumb" ${thumbSrc ? `style="background-image:url('${escapeHtml(thumbSrc)}')"` : ''}>${thumbSrc ? '' : '📁'}</div>
+        <div class="fc-body">
+          <div class="fc-name">${escapeHtml(label)}</div>
+          <div class="fc-meta">
+            <span>${subtreeItems.length}개${childCount ? ` · 하위폴더 ${childCount}개` : ''}</span>
+            ${bestMargin !== null ? `<span class="fc-best">🏆 ${pct(bestMargin)}</span>` : ''}
+          </div>
+          <span class="fc-cat" style="color:${catMeta.hex}">${catMeta.icon} ${catMeta.label}</span>
+        </div>
+      </div>
+    `;
+  }
+
+  function getTopLevelFolderKeys(){
+    const { tree, noneItems } = getTopLevelFolderTree(getFiltered());
+    const keys = Object.keys(tree);
+    if(noneItems.length) keys.push('__NONE__');
+    return keys;
+  }
+
+  function openFolderFromCard(key){
+    viewMode = 'group';
+    $('#view-group-btn').classList.add('active');
+    $('#view-flat-btn').classList.remove('active');
+    $('#view-folders-btn').classList.remove('active');
+    const topKeys = getTopLevelFolderKeys();
+    topKeys.forEach(k => { if(k === key) collapsedFolders.delete(k); else collapsedFolders.add(k); });
+    renderAll();
+    requestAnimationFrame(() => {
+      const btn = gridArea.querySelector(`[data-folder-collapse="${CSS.escape(key)}"]`);
+      const sectionEl = btn ? btn.closest('.folder-section') : null;
+      if(sectionEl) sectionEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
   }
 
   function renderFolderNode(node){
@@ -2214,6 +2438,7 @@
             <button type="button" class="icon-btn ${movingOpen ? 'active' : ''}" data-folder-move-open="${escapeHtml(key)}" title="선택한 항목을 이 폴더의 하위폴더로 이동합니다">📁 하위폴더로 이동${selectedCountInFolder > 0 ? ` (${selectedCountInFolder})` : ''}</button>
             <button type="button" class="icon-btn ${keywordExpanded ? 'active' : ''}" data-folder-keyword="${escapeHtml(key)}">🔍 키워드 분석</button>
             <button type="button" class="icon-btn" data-folder-settings="${escapeHtml(key)}">⚙️ 폴더 설정</button>
+            <button type="button" class="icon-btn" data-folder-hide="${escapeHtml(key)}" title="이 폴더를 숨깁니다">🙈 숨기기</button>
           </div>
         </div>
         ${(!keywordEditOpen && !keywordExpanded) ? folderKeywordSummaryHtml(key, kw) : ''}
@@ -2731,6 +2956,16 @@
         movingFolderKey = null;
         renderGrid();
       }));
+    root.querySelectorAll('[data-folder-hide]').forEach(btn =>
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        toggleFolderHidden(btn.dataset.folderHide);
+      }));
+    root.querySelectorAll('[data-folder-open]').forEach(tile =>
+      tile.addEventListener('click', (e) => {
+        if(e.target.closest('[data-folder-hide]')) return;
+        openFolderFromCard(tile.dataset.folderOpen);
+      }));
     root.querySelectorAll('[data-kwd-edit]').forEach(btn =>
       btn.addEventListener('click', () => {
         const key = btn.dataset.kwdEdit;
@@ -3090,6 +3325,8 @@
     renderCatTabs();
     renderStats();
     renderGrid();
+    renderHiddenFoldersPanel();
+    updateHiddenFoldersBtn();
   }
 
   /* ---------------- delete with confirm-tap ---------------- */
@@ -3404,12 +3641,21 @@
     viewMode = 'group';
     $('#view-group-btn').classList.add('active');
     $('#view-flat-btn').classList.remove('active');
+    $('#view-folders-btn').classList.remove('active');
     renderGrid();
   });
   $('#view-flat-btn').addEventListener('click', () => {
     viewMode = 'flat';
     $('#view-flat-btn').classList.add('active');
     $('#view-group-btn').classList.remove('active');
+    $('#view-folders-btn').classList.remove('active');
+    renderGrid();
+  });
+  $('#view-folders-btn').addEventListener('click', () => {
+    viewMode = 'folders';
+    $('#view-folders-btn').classList.add('active');
+    $('#view-group-btn').classList.remove('active');
+    $('#view-flat-btn').classList.remove('active');
     renderGrid();
   });
   $('#display-card-btn').addEventListener('click', () => {
