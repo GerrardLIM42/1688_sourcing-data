@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "72250958-a626-4f2a-ad02-ca929d67998f",
+      "createdAt": 1783912577802,
+      "name": "3개 분리수거함",
+      "folder": "분리수거함",
+      "link": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN014gjaWb1uH5rBIhHwd_!!2216322766011-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 17,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 12439,
+      "ad": 7,
+      "ret": 3,
+      "memo": "10",
+      "options": [
+        {
+          "id": "235e4870-a3ef-4934-9ac0-1eb118f28886",
+          "name": "그레이 핑크 연녹",
+          "cny": 17,
+          "sell": 12439,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN014gjaWb1uH5rBIhHwd_!!2216322766011-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "207e8ffc-3bed-4362-b087-7c41c4504eb5",
       "createdAt": 1783912391299,
       "name": "3개 분리수거함",
