@@ -1,12 +1,53 @@
 {
   "items": [
     {
+      "id": "3d2da21b-648f-4f9d-aa50-fd35cd00ebc4",
+      "createdAt": 1784069937770,
+      "name": "우드패턴 회전",
+      "folder": "독서대",
+      "link": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01oYVyS31H8bEPSEs9r_!!1004220713-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 36,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 21768,
+      "ad": 7,
+      "ret": 3,
+      "memo": "400",
+      "options": [
+        {
+          "id": "2ec075c7-3964-49c2-b16f-709b380f58c7",
+          "name": "우드 회전식",
+          "cny": 36,
+          "sell": 21768,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01oYVyS31H8bEPSEs9r_!!1004220713-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "5723b28f-389d-4513-ab41-6e5e38eb441a",
       "createdAt": 1783995173674,
       "name": "320*220*70",
-      "folder": "독서대",
       "link": "https://detail.1688.com/offer/1050861605135.html?spm=a1688g.extenstion&kj_agent_plugin=aibuy&kjSource=pc&lang=ko",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01hEo6fQ1lzDUDahXFz_!!3830744889-0-cib.jpg",
+      "folder": "독서대",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -29,6 +70,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "20",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "61102ca4-f8d6-4f25-acc0-12bb6f609061",
@@ -45,9 +88,9 @@
       "id": "ea2f4525-19a5-4e69-a4c0-19283bbe31f5",
       "createdAt": 1783995122949,
       "name": "320*220*70",
-      "folder": "독서대",
       "link": "https://detail.1688.com/offer/925850815748.html?spm=a1688g.extenstion&kj_agent_plugin=aibuy&kjSource=pc&lang=ko",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01lpR3DX1Yj6ZQ0CWq0_!!2204249223094-0-cib.jpg",
+      "folder": "독서대",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -70,6 +113,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "10",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "e7df2b1c-8e59-439a-9695-d2d70d39ff0b",
@@ -86,9 +131,9 @@
       "id": "0278a28d-e555-497a-b1ee-ea4f553d192a",
       "createdAt": 1783994968497,
       "name": "독서대",
-      "folder": "독서대",
       "link": "https://detail.1688.com/offer/737476401570.html?spm=a1688g.extenstion&kj_agent_plugin=aibuy&kjSource=pc&lang=ko",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01mKviDT1H8bHy1Wvhd_!!1004220713-0-cib.jpg",
+      "folder": "독서대",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -111,6 +156,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "2,000",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "c430c9be-37ae-4327-b577-96d8bb7ff5ed",
