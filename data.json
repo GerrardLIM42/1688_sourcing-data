@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "afbf344b-2c83-415f-8451-dc7d663cb91d",
+      "createdAt": 1784070205344,
+      "name": "우드 회",
+      "folder": "독서대",
+      "link": "https://detail.1688.com/offer/1052618682743.html?spm=a26352.b28411319/2508.0.0",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SEX9ru1eEJcYYMuqn_!!2207714923839-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 38,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 22750,
+      "ad": 7,
+      "ret": 3,
+      "memo": "500",
+      "options": [
+        {
+          "id": "5dcda114-e507-47ee-9996-6c46d1bd7fff",
+          "name": "어두운 우드 회전",
+          "cny": 38,
+          "sell": 22750,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SEX9ru1eEJcYYMuqn_!!2207714923839-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "3d2da21b-648f-4f9d-aa50-fd35cd00ebc4",
       "createdAt": 1784069937770,
       "name": "우드패턴 회전",
