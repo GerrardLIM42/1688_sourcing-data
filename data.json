@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "ea2f4525-19a5-4e69-a4c0-19283bbe31f5",
+      "createdAt": 1783995122949,
+      "name": "320*220*70",
+      "folder": "독서대",
+      "link": "https://detail.1688.com/offer/925850815748.html?spm=a1688g.extenstion&kj_agent_plugin=aibuy&kjSource=pc&lang=ko",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01lpR3DX1Yj6ZQ0CWq0_!!2204249223094-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 38,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 22750,
+      "ad": 7,
+      "ret": 3,
+      "memo": "10",
+      "options": [
+        {
+          "id": "e7df2b1c-8e59-439a-9695-d2d70d39ff0b",
+          "name": "320*220*70",
+          "cny": 38,
+          "sell": 22750,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01lpR3DX1Yj6ZQ0CWq0_!!2204249223094-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "0278a28d-e555-497a-b1ee-ea4f553d192a",
       "createdAt": 1783994968497,
       "name": "독서대",
