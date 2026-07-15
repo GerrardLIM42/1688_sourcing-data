@@ -1,12 +1,53 @@
 {
   "items": [
     {
+      "id": "f17924c6-9743-417f-af63-d9144546f29c",
+      "createdAt": 1784117317037,
+      "name": "이염방지시트",
+      "folder": "이염방지시트",
+      "link": "https://detail.1688.com/offer/831877626830.html?spm=a1688g.extenstion&kj_agent_plugin=aibuy&kjSource=pc&lang=ko",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01l9D97E1XP7WJMMg3A_!!2212906452915-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 2.1,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5123,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "dee1c8bc-f07f-4a59-bc9d-ac53eaf3ada0",
+          "name": "박스 100장",
+          "cny": 2.1,
+          "sell": 5123,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01l9D97E1XP7WJMMg3A_!!2212906452915-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "7cfaf8ea-5750-40e4-8091-c9f739ad5848",
       "createdAt": 1784082359843,
       "name": "원터치 밀대",
-      "folder": "원터치 밀대 걸레",
       "link": "https://detail.1688.com/offer/1035190052964.html?spm=a26352.b28411319/2508.0.0",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01wOEade220cYrH52sf_!!2215933737058-0-cib.jpg",
+      "folder": "원터치 밀대 걸레",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -29,6 +70,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "4900",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "899fa327-d8c8-40aa-bfb6-afda5c5e8fee",
@@ -45,9 +88,9 @@
       "id": "b6f271ba-de4d-45c9-9801-0e17ad8ef12a",
       "createdAt": 1784081548248,
       "name": "원터치 밀대",
-      "folder": "원터치 밀대 걸레",
       "link": "https://detail.1688.com/offer/847342247802.html?spm=a26352.b28411319/2508.0.0",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN014Eg8lB1OZLyeMjg6o_!!2215597381719-0-cib.jpg",
+      "folder": "원터치 밀대 걸레",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -70,6 +113,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "9000",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "c1ade861-ada0-4d91-a9e1-396a31e5c254",
@@ -86,9 +131,9 @@
       "id": "0ca4f339-096c-4cba-86cc-602b69159c33",
       "createdAt": 1784081156745,
       "name": "원터치 밀대",
-      "folder": "원터치 밀대 걸레",
       "link": "https://detail.1688.com/offer/1046689426430.html?spm=a26352.b28411319/2508.0.0",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01TeKIKc1OZLyS6Lf5h_!!2215597381719-0-cib.jpg",
+      "folder": "원터치 밀대 걸레",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -111,6 +156,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "1100",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "00735d45-dd2c-4384-999f-aca83e609d96",
@@ -127,9 +174,9 @@
       "id": "7ba3e3b8-8a2c-4dbe-9950-2607f63e2b1d",
       "createdAt": 1784070469898,
       "name": "우드 회",
-      "folder": "독서대 / 우드 회전",
       "link": "https://detail.1688.com/offer/959763956473.html?spm=a26352.b28411319/2508.0.0",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01Ib8pvF1pjQG5pQqGQ_!!2215144455396-0-cib.jpg",
+      "folder": "독서대 / 우드 회전",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -152,6 +199,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "7100",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "d8a3cba8-4c8c-4d83-806b-6122c9966793",
@@ -168,9 +217,9 @@
       "id": "4f02e562-51b2-48fe-b2b9-dcfc52de9dd8",
       "createdAt": 1784070306766,
       "name": "우드 회전",
-      "folder": "독서대 / 우드 회전",
       "link": "https://detail.1688.com/offer/1014741592022.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=a1040876d0354938a6331d4fc2869507&sessionid=61199fbdf69f4b4e98cd43e27901d5a1",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01qKQy7f1YgM8301w7L_!!2219694143088-0-cib.jpg",
+      "folder": "독서대 / 우드 회전",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -193,6 +242,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "1100",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "dc1f7da3-adc6-487a-aae4-ba6186da325d",
@@ -209,9 +260,9 @@
       "id": "afbf344b-2c83-415f-8451-dc7d663cb91d",
       "createdAt": 1784070205344,
       "name": "우드 회",
-      "folder": "독서대 / 우드 회전",
       "link": "https://detail.1688.com/offer/958369520356.html?spm=a26352.b28411319/2508.0.0",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN0192laHo2BkGWa8ADW8_!!2218019938376-0-cib.jpg",
+      "folder": "독서대 / 우드 회전",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -234,6 +285,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "2700",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "5dcda114-e507-47ee-9996-6c46d1bd7fff",
@@ -250,9 +303,9 @@
       "id": "3d2da21b-648f-4f9d-aa50-fd35cd00ebc4",
       "createdAt": 1784069937770,
       "name": "우드패턴 회전",
-      "folder": "독서대 / 우드 회전",
       "link": "",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01oYVyS31H8bEPSEs9r_!!1004220713-0-cib.jpg",
+      "folder": "독서대 / 우드 회전",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -275,6 +328,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "400",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "2ec075c7-3964-49c2-b16f-709b380f58c7",
