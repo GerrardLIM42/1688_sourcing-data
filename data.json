@@ -38,6 +38,15 @@
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01l9D97E1XP7WJMMg3A_!!2212906452915-0-cib.jpg",
           "inputMode": "margin",
           "savedMarginPct": 20
+        },
+        {
+          "id": "582b9a35-470a-48d5-8f06-66c9519f5289",
+          "name": "비닐 100장",
+          "cny": 1.8,
+          "sell": 5949,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01LLqHIB1XP7WGC4Sjs_!!2212906452915-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 30
         }
       ]
     },
