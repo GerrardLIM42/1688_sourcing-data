@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "1f39e204-9a3e-4ff3-aaba-32962f24bf07",
+      "createdAt": 1784158428443,
+      "name": "이염방지시",
+      "folder": "이염방지시트",
+      "link": "https://detail.1688.com/offer/731505058724.html?spm=a26352.b28411319/2508.0.0",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01hPV3Py1XP7U8jvjTx_!!2212906452915-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 2.1,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5123,
+      "ad": 7,
+      "ret": 3,
+      "memo": "5,700",
+      "options": [
+        {
+          "id": "96013568-82f0-46cc-ac48-53150d13d185",
+          "name": "10*14 100매",
+          "cny": 2.1,
+          "sell": 5123,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01hPV3Py1XP7U8jvjTx_!!2212906452915-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "395c4688-003a-4a51-ae7c-233e29fb5889",
       "createdAt": 1784157881345,
       "name": "지팡이",
