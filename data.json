@@ -1818,7 +1818,7 @@
       "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
-      "cny": 4.7,
+      "cny": 4.9,
       "rate": 300,
       "importMode": "simple",
       "duty": 8,
@@ -1832,7 +1832,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 6970,
+      "sell": 6498,
       "ad": 7,
       "ret": 3,
       "memo": "10,000",
@@ -1841,12 +1841,12 @@
       "options": [
         {
           "id": "585f6a71-88b6-4146-b915-3e5723198e60",
-          "name": "걸레 2개",
-          "cny": 4.7,
-          "sell": 6970,
+          "name": "걸레 3개",
+          "cny": 4.9,
+          "sell": 6498,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01jNjbj52LbhKQjaW37_!!2222118829711-0-cib.jpg",
           "inputMode": "margin",
-          "savedMarginPct": 25
+          "savedMarginPct": 20
         }
       ]
     },
