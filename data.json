@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "7cfaf8ea-5750-40e4-8091-c9f739ad5848",
+      "createdAt": 1784082359843,
+      "name": "원터치 밀대",
+      "folder": "원터치 밀대 걸레",
+      "link": "https://detail.1688.com/offer/1035190052964.html?spm=a26352.b28411319/2508.0.0",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01wOEade220cYrH52sf_!!2215933737058-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 4.41,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 6257,
+      "ad": 7,
+      "ret": 3,
+      "memo": "4900",
+      "options": [
+        {
+          "id": "899fa327-d8c8-40aa-bfb6-afda5c5e8fee",
+          "name": "95cm 걸레 3개",
+          "cny": 4.41,
+          "sell": 6257,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01wOEade220cYrH52sf_!!2215933737058-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "b6f271ba-de4d-45c9-9801-0e17ad8ef12a",
       "createdAt": 1784081548248,
       "name": "원터치 밀대",
