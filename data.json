@@ -1,12 +1,53 @@
 {
   "items": [
     {
+      "id": "733a7109-8466-44bc-bc91-5a7a4f6c6a4c",
+      "createdAt": 1784157781984,
+      "name": "지팡",
+      "folder": "지팡이",
+      "link": "https://detail.1688.com/offer/842441971140.html?kj_agent_plugin=aliprice&fromkv=xytTrace:213f867c17841574417875313e0ca0&token=9lqRg6%2BK0GtIPX6vQkH3aIoO%2BmoSvblbXAWLYyOjYe5uu8Kf%2FnFSphhOYKpLGyPg",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN011V7VpY1JMSkDYULse_!!2218619311014-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 23.8,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 15777,
+      "ad": 7,
+      "ret": 3,
+      "memo": "28,000",
+      "options": [
+        {
+          "id": "b1e3ef7e-f918-4686-8164-4cc2fce3d744",
+          "name": "8*8",
+          "cny": 23.8,
+          "sell": 15777,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN011V7VpY1JMSkDYULse_!!2218619311014-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "f17924c6-9743-417f-af63-d9144546f29c",
       "createdAt": 1784117317037,
       "name": "이염방지시트",
-      "folder": "이염방지시트",
       "link": "https://detail.1688.com/offer/831877626830.html?spm=a1688g.extenstion&kj_agent_plugin=aibuy&kjSource=pc&lang=ko",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01l9D97E1XP7WJMMg3A_!!2212906452915-0-cib.jpg",
+      "folder": "이염방지시트",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -29,6 +70,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "dee1c8bc-f07f-4a59-bc9d-ac53eaf3ada0",
