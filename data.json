@@ -1,12 +1,62 @@
 {
   "items": [
     {
+      "id": "58742e61-78bf-4a61-b945-ae8029197fb0",
+      "createdAt": 1785034162979,
+      "name": "접이식 빨래 바구니",
+      "folder": "빨래바구니",
+      "link": "https://detail.1688.com/offer/1034824978321.html?spm=a360q.7751291.0.0.57e929a8KVTSb8&sk=common",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01p6URn51ZSRacjGQhf_!!3935043193-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 8.08,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 8059,
+      "ad": 7,
+      "ret": 3,
+      "memo": "1000",
+      "options": [
+        {
+          "id": "e28b1a0d-ebdf-4b8c-bcfc-f5f856911daa",
+          "name": "34*46",
+          "cny": 8.08,
+          "sell": 8059,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01p6URn51ZSRacjGQhf_!!3935043193-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        },
+        {
+          "id": "aa591063-db96-4887-bfd5-efd0ac093a77",
+          "name": "45*50",
+          "cny": 12.83,
+          "sell": 10391,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01p6URn51ZSRacjGQhf_!!3935043193-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "1f39e204-9a3e-4ff3-aaba-32962f24bf07",
       "createdAt": 1784158428443,
       "name": "이염방지시트",
-      "folder": "이염방지시트",
       "link": "https://detail.1688.com/offer/731505058724.html?spm=a26352.b28411319/2508.0.0",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01hPV3Py1XP7U8jvjTx_!!2212906452915-0-cib.jpg",
+      "folder": "이염방지시트",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -29,6 +79,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "5,700",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "96013568-82f0-46cc-ac48-53150d13d185",
@@ -45,9 +97,9 @@
       "id": "395c4688-003a-4a51-ae7c-233e29fb5889",
       "createdAt": 1784157881345,
       "name": "지팡이",
-      "folder": "지팡이",
       "link": "https://detail.1688.com/offer/859980570819.html?kj_agent_plugin=aliprice&fromkv=xytTrace:213f867c17841574417875313e0ca0&token=YPg99niVMF3B9%2B%2Bilyma8YoO%2BmoSvblbXAWLYyOjYe5uu8Kf%2FnFSphhOYKpLGyPg",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01AFJjQu2Cho4ktezRt_!!972828506-0-cib.jpg",
+      "folder": "지팡이",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -70,6 +122,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "5,500",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "29eed706-b60e-4756-b9e2-73506cd31c8a",
@@ -86,9 +140,9 @@
       "id": "733a7109-8466-44bc-bc91-5a7a4f6c6a4c",
       "createdAt": 1784157781984,
       "name": "지팡",
-      "folder": "지팡이",
       "link": "https://detail.1688.com/offer/842441971140.html?kj_agent_plugin=aliprice&fromkv=xytTrace:213f867c17841574417875313e0ca0&token=9lqRg6%2BK0GtIPX6vQkH3aIoO%2BmoSvblbXAWLYyOjYe5uu8Kf%2FnFSphhOYKpLGyPg",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN011V7VpY1JMSkDYULse_!!2218619311014-0-cib.jpg",
+      "folder": "지팡이",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -111,6 +165,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "28,000",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "b1e3ef7e-f918-4686-8164-4cc2fce3d744",
