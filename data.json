@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "83a13df9-c686-4a73-bcb2-984373d77cf4",
+      "createdAt": 1785034397528,
+      "name": "접이식 빨래 바구니",
+      "folder": "빨래바구니",
+      "link": "https://detail.1688.com/offer/755447727899.html?spm=a360q.7751291.0.0.57e929a8KVTSb8&sk=common",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01kIH2Ol2MBQ4wmKeib_!!2217023069789-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 5.8,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 6939,
+      "ad": 7,
+      "ret": 3,
+      "memo": "33,000",
+      "options": [
+        {
+          "id": "a5850be5-c0f9-46a5-b5af-1aebd020d229",
+          "name": "36*36*58",
+          "cny": 5.8,
+          "sell": 6939,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01kIH2Ol2MBQ4wmKeib_!!2217023069789-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        },
+        {
+          "id": "b0664f62-f282-4d07-b5d3-a1ba47ab0a1e",
+          "name": "36*58*36 바딕이 긴 타입",
+          "cny": 6.5,
+          "sell": 7283,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01E2TTG22MBQ4ypXkkf_!!2217023069789-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        },
+        {
+          "id": "2d8de7d8-41be-4bba-9b02-0f2adcbaa987",
+          "name": "36*58*36 바딕이 긴 타입 2칸",
+          "cny": 7.5,
+          "sell": 7774,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pTWhyt2MBQ4yJnyQd_!!2217023069789-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        },
+        {
+          "id": "07e3c165-3857-4475-9a18-ddab5fb8fc82",
+          "name": "35*79*33 3칸",
+          "cny": 9.8,
+          "sell": 8903,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01YBJNSV2MBQ6igl0t8_!!2217023069789-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "508851c8-2b02-4cd0-a4e4-0f378e3b608c",
       "createdAt": 1785034222814,
       "name": "접이식 빨래 바구니",
