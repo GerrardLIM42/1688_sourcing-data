@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "508851c8-2b02-4cd0-a4e4-0f378e3b608c",
+      "createdAt": 1785034222814,
+      "name": "접이식 빨래 바구니",
+      "folder": "빨래바구니",
+      "link": "https://detail.1688.com/offer/814674542559.html?spm=a360q.7751291.0.0.57e929a8KVTSb8&sk=common",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01GMSWyA1NIZrf9mWW2_!!967881547-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 10.74,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 9365,
+      "ad": 7,
+      "ret": 3,
+      "memo": "17,000",
+      "options": [
+        {
+          "id": "d9b0f932-0da4-4b9c-9ab8-41ddd50a91ef",
+          "name": "옵션 1",
+          "cny": 10.74,
+          "sell": 9365,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01GMSWyA1NIZrf9mWW2_!!967881547-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "58742e61-78bf-4a61-b945-ae8029197fb0",
       "createdAt": 1785034162979,
       "name": "접이식 빨래 바구니",
