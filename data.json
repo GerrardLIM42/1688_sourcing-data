@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "id": "idms44g82boyc2i9",
-      "createdAt": 1785210855635,
-      "name": "원터치 밀대",
-      "folder": "원터치 밀대",
-      "link": "",
-      "image": "",
-      "category": "ACTIVE",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 0,
-      "sell": 0,
-      "rate": 300,
-      "yearlySales": "",
-      "memo": "",
-      "options": [
-        {
-          "id": "idms44g82bf5wpb8",
-          "name": "",
-          "cny": 0,
-          "sell": 0,
-          "image": "",
-          "inputMode": "margin",
-          "savedMarginPct": null
-        }
-      ]
-    },
-    {
       "id": "83a13df9-c686-4a73-bcb2-984373d77cf4",
       "createdAt": 1785034397528,
       "name": "접이식 빨래 바구니",
