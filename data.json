@@ -1,106 +1,12 @@
 {
   "items": [
     {
-      "id": "a3a0d8d2-c5d4-401c-9820-438b41bb0e96",
-      "createdAt": 1785210795316,
-      "name": "지팡",
-      "folder": "지팡이",
-      "link": "https://detail.1688.com/offer/750478949782.html?spm=a26352.b28411319/2508.0.0",
-      "yearlySales": "",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN017uztOn2ChnppEK2OO_!!972828506-0-cib.jpg",
-      "category": "HOME",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 22,
-      "rate": 300,
-      "importMode": "simple",
-      "duty": 8,
-      "vatOn": true,
-      "forwarding": 0,
-      "clearance": 0,
-      "coupangCat": "생활/주방",
-      "feeManual": 11,
-      "channel": "rocket",
-      "promo": "none",
-      "rocketSize": "소형 (2kg 이하)",
-      "rocketFeeManual": 2500,
-      "marketShip": 0,
-      "sell": 14894,
-      "ad": 7,
-      "ret": 3,
-      "memo": "",
-      "options": [
-        {
-          "id": "2876c1e2-b8a6-404c-8fa3-acf8bfe7b723",
-          "name": "좁은 사각 길이 조절 68~92",
-          "cny": 22,
-          "sell": 14894,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN017uztOn2ChnppEK2OO_!!972828506-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 20
-        }
-      ]
-    },
-    {
-      "id": "466f2211-9f3d-4d42-8b44-127b95188a16",
-      "createdAt": 1785210508422,
-      "name": "지팡",
-      "link": "https://detail.1688.com/offer/660872375848.html?spm=a26352.b28411319/2508.0.0",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bFENpO2ChnymWsSa6_!!972828506-0-cib.jpg",
-      "folder": "지팡이",
-      "category": "HOME",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 21.5,
-      "rate": 300,
-      "importMode": "simple",
-      "duty": 8,
-      "vatOn": true,
-      "forwarding": 0,
-      "clearance": 0,
-      "coupangCat": "생활/주방",
-      "feeManual": 11,
-      "channel": "rocket",
-      "promo": "none",
-      "rocketSize": "소형 (2kg 이하)",
-      "rocketFeeManual": 2500,
-      "marketShip": 0,
-      "sell": 14648,
-      "ad": 7,
-      "ret": 3,
-      "memo": "2,800",
-      "starred": false,
-      "repOptionId": null,
-      "options": [
-        {
-          "id": "82118f7d-68d1-4916-ba91-ce34ccc45560",
-          "name": "외발 + 좁은 네발",
-          "cny": 21.5,
-          "sell": 14648,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bFENpO2ChnymWsSa6_!!972828506-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 20
-        },
-        {
-          "id": "32906d76-b377-4b53-8836-9cf599bd9c14",
-          "name": "외바 ㄹ+ 생체공학 네발",
-          "cny": 20.5,
-          "sell": 14157,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01qIj11g2Cho5dq501r_!!972828506-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 20
-        }
-      ]
-    },
-    {
       "id": "83a13df9-c686-4a73-bcb2-984373d77cf4",
       "createdAt": 1785034397528,
       "name": "접이식 빨래 바구니",
+      "folder": "빨래바구니",
       "link": "https://detail.1688.com/offer/755447727899.html?spm=a360q.7751291.0.0.57e929a8KVTSb8&sk=common",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01kIH2Ol2MBQ4wmKeib_!!2217023069789-0-cib.jpg",
-      "folder": "빨래바구니",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -123,8 +29,6 @@
       "ad": 7,
       "ret": 3,
       "memo": "33,000",
-      "starred": false,
-      "repOptionId": "a5850be5-c0f9-46a5-b5af-1aebd020d229",
       "options": [
         {
           "id": "a5850be5-c0f9-46a5-b5af-1aebd020d229",
@@ -162,15 +66,16 @@
           "inputMode": "margin",
           "savedMarginPct": 20
         }
-      ]
+      ],
+      "repOptionId": "a5850be5-c0f9-46a5-b5af-1aebd020d229"
     },
     {
       "id": "508851c8-2b02-4cd0-a4e4-0f378e3b608c",
       "createdAt": 1785034222814,
       "name": "접이식 빨래 바구니",
+      "folder": "빨래바구니",
       "link": "https://detail.1688.com/offer/814674542559.html?spm=a360q.7751291.0.0.57e929a8KVTSb8&sk=common",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01GMSWyA1NIZrf9mWW2_!!967881547-0-cib.jpg",
-      "folder": "빨래바구니",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -193,8 +98,6 @@
       "ad": 7,
       "ret": 3,
       "memo": "17,000",
-      "starred": false,
-      "repOptionId": null,
       "options": [
         {
           "id": "d9b0f932-0da4-4b9c-9ab8-41ddd50a91ef",
@@ -211,9 +114,9 @@
       "id": "58742e61-78bf-4a61-b945-ae8029197fb0",
       "createdAt": 1785034162979,
       "name": "접이식 빨래 바구니",
+      "folder": "빨래바구니",
       "link": "https://detail.1688.com/offer/1034824978321.html?spm=a360q.7751291.0.0.57e929a8KVTSb8&sk=common",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01p6URn51ZSRacjGQhf_!!3935043193-0-cib.jpg",
-      "folder": "빨래바구니",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -236,8 +139,6 @@
       "ad": 7,
       "ret": 3,
       "memo": "1000",
-      "starred": false,
-      "repOptionId": null,
       "options": [
         {
           "id": "e28b1a0d-ebdf-4b8c-bcfc-f5f856911daa",
@@ -451,7 +352,7 @@
       "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
-      "cny": 4.41,
+      "cny": 7.77,
       "rate": 300,
       "importMode": "simple",
       "duty": 8,
@@ -475,7 +376,7 @@
         {
           "id": "899fa327-d8c8-40aa-bfb6-afda5c5e8fee",
           "name": "95cm 걸레 3개",
-          "cny": 4.41,
+          "cny": 7.77,
           "sell": 6257,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01wOEade220cYrH52sf_!!2215933737058-0-cib.jpg",
           "inputMode": "margin",
