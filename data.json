@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "28a77038-5dc9-4b5a-bebb-5fecc02cd6ba",
+      "createdAt": 1785211392444,
+      "name": "지팡이",
+      "folder": "지팡이",
+      "link": "https://detail.1688.com/offer/562066549424.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=1366205a2eb54cc2a5acabe8952b0e6c&sessionid=01a485fc1f4fbea75f5b5bf7c263e8cc",
+      "yearlySales": "8400",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01p8PPV41fnrr2BaRGo_!!986904052-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 17.5,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 12684,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "a83b5dfc-93d9-4e34-b8b9-b95adc6e0075",
+          "name": "블랙 길이조절",
+          "cny": 17.5,
+          "sell": 12684,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01p8PPV41fnrr2BaRGo_!!986904052-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "93296eca-f680-415c-9dd6-5f9af593cac9",
       "createdAt": 1785211038207,
       "name": "지팡이",
