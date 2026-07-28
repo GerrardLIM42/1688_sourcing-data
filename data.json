@@ -157,7 +157,7 @@
       "sell": 14648,
       "ad": 7,
       "ret": 3,
-      "memo": "2,800",
+      "memo": "",
       "starred": false,
       "repOptionId": null,
       "options": [
@@ -179,7 +179,8 @@
           "inputMode": "margin",
           "savedMarginPct": 20
         }
-      ]
+      ],
+      "yearlySales": "2800"
     },
     {
       "id": "83a13df9-c686-4a73-bcb2-984373d77cf4",
