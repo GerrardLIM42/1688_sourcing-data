@@ -4,10 +4,9 @@
       "id": "28a77038-5dc9-4b5a-bebb-5fecc02cd6ba",
       "createdAt": 1785211392444,
       "name": "지팡이",
-      "folder": "지팡이",
       "link": "https://detail.1688.com/offer/562066549424.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=1366205a2eb54cc2a5acabe8952b0e6c&sessionid=01a485fc1f4fbea75f5b5bf7c263e8cc",
-      "yearlySales": "8400",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01p8PPV41fnrr2BaRGo_!!986904052-0-cib.jpg",
+      "folder": "지팡이",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -30,6 +29,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "a83b5dfc-93d9-4e34-b8b9-b95adc6e0075",
@@ -46,10 +47,9 @@
       "id": "93296eca-f680-415c-9dd6-5f9af593cac9",
       "createdAt": 1785211038207,
       "name": "지팡이",
-      "folder": "지팡이",
       "link": "https://detail.1688.com/offer/861425071561.html?spm=a26352.b28411319/2508.0.0",
-      "yearlySales": "",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bFENpO2ChnymWsSa6_!!972828506-0-cib.jpg",
+      "folder": "지팡이",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -72,6 +72,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "b68c874f-6e4a-42de-a59f-2257641bc092",
@@ -88,10 +90,9 @@
       "id": "a3a0d8d2-c5d4-401c-9820-438b41bb0e96",
       "createdAt": 1785210795316,
       "name": "지팡",
-      "folder": "지팡이",
       "link": "https://detail.1688.com/offer/750478949782.html?spm=a26352.b28411319/2508.0.0",
-      "yearlySales": "",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN017uztOn2ChnppEK2OO_!!972828506-0-cib.jpg",
+      "folder": "지팡이",
       "category": "HOME",
       "status": "검토중",
       "isBundle": false,
@@ -114,6 +115,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "2876c1e2-b8a6-404c-8fa3-acf8bfe7b723",
@@ -427,8 +430,7 @@
           "inputMode": "margin",
           "savedMarginPct": 20
         }
-      ],
-      "yearlySales": "5,500"
+      ]
     },
     {
       "id": "733a7109-8466-44bc-bc91-5a7a4f6c6a4c",
@@ -458,7 +460,7 @@
       "sell": 15777,
       "ad": 7,
       "ret": 3,
-      "memo": "28,000",
+      "memo": "",
       "starred": false,
       "repOptionId": null,
       "options": [
@@ -472,7 +474,7 @@
           "savedMarginPct": 20
         }
       ],
-      "yearlySales": "28,000"
+      "yearlySales": "28000"
     },
     {
       "id": "f17924c6-9743-417f-af63-d9144546f29c",
@@ -567,8 +569,7 @@
           "inputMode": "margin",
           "savedMarginPct": 20
         }
-      ],
-      "yearlySales": ""
+      ]
     },
     {
       "id": "b6f271ba-de4d-45c9-9801-0e17ad8ef12a",
