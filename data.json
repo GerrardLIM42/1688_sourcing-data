@@ -352,7 +352,7 @@
       "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
-      "cny": 7.77,
+      "cny": 4.41,
       "rate": 300,
       "importMode": "simple",
       "duty": 8,
@@ -376,7 +376,7 @@
         {
           "id": "899fa327-d8c8-40aa-bfb6-afda5c5e8fee",
           "name": "95cm 걸레 3개",
-          "cny": 7.77,
+          "cny": 4.41,
           "sell": 6257,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01wOEade220cYrH52sf_!!2215933737058-0-cib.jpg",
           "inputMode": "margin",
