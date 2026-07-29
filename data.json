@@ -4,10 +4,9 @@
       "id": "55b50e9b-ca5b-4982-bcff-a77b07ed1f97",
       "createdAt": 1785325402786,
       "name": "보냉 가방",
-      "folder": "보냉 가방",
       "link": "https://detail.1688.com/offer/693843793458.html?spm=a26352.b28411319/2508.0.0",
-      "yearlySales": "30000",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01P02gAp2LiZBHIvv4W_!!2215027079726-0-cib.jpg",
+      "folder": "보냉 가방",
       "category": "CAMP",
       "status": "검토중",
       "isBundle": false,
@@ -30,6 +29,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "7962c9c2-e0aa-40c7-b081-8c3f3aaf7d43",
@@ -83,8 +84,7 @@
           "inputMode": "margin",
           "savedMarginPct": 20
         }
-      ],
-      "yearlySales": "24000"
+      ]
     },
     {
       "id": "idms5zyyt7cfhegk",
@@ -127,8 +127,7 @@
           "inputMode": "margin",
           "savedMarginPct": 20
         }
-      ],
-      "yearlySales": "260"
+      ]
     },
     {
       "id": "28a77038-5dc9-4b5a-bebb-5fecc02cd6ba",
@@ -5592,6 +5591,7 @@
     "캠핑 의자",
     "캠핑 테이블",
     "텀블러",
-    "햇빛가리개"
+    "햇빛가리개",
+    "독서대"
   ]
 }
