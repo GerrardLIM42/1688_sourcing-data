@@ -4,18 +4,33 @@
       "id": "idms60bo79bcg0sa",
       "createdAt": 1785324857157,
       "name": "보냉 가방",
-      "folder": "보냉 가방",
       "link": "https://detail.1688.com/offer/920908625682.html?spm=a1688g.extenstion&kj_agent_plugin=aibuy&kjSource=pc&lang=ko",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01n6VmuY1JdPJnnxEjf_!!2219522021051-0-cib.jpg",
+      "folder": "보냉 가방",
       "category": "CAMP",
       "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
       "cny": 15,
-      "sell": 0,
       "rate": 300,
-      "yearlySales": "24000",
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 0,
+      "ad": 0,
+      "ret": 0,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "idms60bo79x8822c",
@@ -32,29 +47,45 @@
       "id": "idms5zyyt7cfhegk",
       "createdAt": 1785324264379,
       "name": "보냉 가방",
-      "folder": "보냉 가방",
       "link": "https://detail.1688.com/offer/1055772288836.html?spm=a1688g.extenstion&kj_agent_plugin=aibuy&kjSource=pc&lang=ko",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bMQi6J1ZlE1TraHpL_!!2221292543234-0-cib.jpg",
+      "folder": "보냉 가방",
       "category": "CAMP",
       "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
       "cny": 6.4,
-      "sell": 0,
       "rate": 300,
-      "yearlySales": "260",
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 6406,
+      "ad": 0,
+      "ret": 0,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "idms5zyyt74xblv1",
-          "name": "",
+          "name": "옵션 1",
           "cny": 6.4,
-          "sell": 0,
+          "sell": 6406,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bMQi6J1ZlE1TraHpL_!!2221292543234-0-cib.jpg",
           "inputMode": "margin",
-          "savedMarginPct": null
+          "savedMarginPct": 20
         }
-      ]
+      ],
+      "yearlySales": "260"
     },
     {
       "id": "28a77038-5dc9-4b5a-bebb-5fecc02cd6ba",
@@ -97,8 +128,7 @@
           "inputMode": "margin",
           "savedMarginPct": 20
         }
-      ],
-      "yearlySales": "8,400"
+      ]
     },
     {
       "id": "93296eca-f680-415c-9dd6-5f9af593cac9",
@@ -236,8 +266,7 @@
           "inputMode": "margin",
           "savedMarginPct": 20
         }
-      ],
-      "yearlySales": "2800"
+      ]
     },
     {
       "id": "83a13df9-c686-4a73-bcb2-984373d77cf4",
@@ -488,8 +517,7 @@
           "inputMode": "margin",
           "savedMarginPct": 20
         }
-      ],
-      "yearlySales": "5500"
+      ]
     },
     {
       "id": "733a7109-8466-44bc-bc91-5a7a4f6c6a4c",
@@ -532,8 +560,7 @@
           "inputMode": "margin",
           "savedMarginPct": 20
         }
-      ],
-      "yearlySales": "28000"
+      ]
     },
     {
       "id": "f17924c6-9743-417f-af63-d9144546f29c",
