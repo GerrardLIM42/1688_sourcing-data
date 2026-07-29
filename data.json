@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "id": "idms656hkybd5u8a",
+      "createdAt": 1785333013378,
+      "name": "보냉 가방",
+      "folder": "보냉 가방",
+      "link": "",
+      "image": "",
+      "category": "CAMP",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 0,
+      "sell": 0,
+      "rate": 300,
+      "yearlySales": "",
+      "memo": "",
+      "options": [
+        {
+          "id": "idms656hkyzs8t2t",
+          "name": "",
+          "cny": 0,
+          "sell": 0,
+          "image": "",
+          "inputMode": "margin",
+          "savedMarginPct": null
+        }
+      ]
+    },
+    {
       "id": "205e14fa-9dac-4997-aa5d-38237820db55",
       "createdAt": 1785332241935,
       "name": "보냉 가방",
