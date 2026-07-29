@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "205e14fa-9dac-4997-aa5d-38237820db55",
+      "createdAt": 1785332241935,
+      "name": "보냉 가방",
+      "folder": "보냉 가방",
+      "link": "https://detail.1688.com/offer/646691578987.html?spm=a26352.13672862.offerlist.19.54b71e62WNGflD&offerId=646691578987&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5605613221197&trace_log=normal&uuid=b04999971ea64b98ae677c50cedcee0e&forcePC=1785332150015",
+      "yearlySales": "100000",
+      "sellerYears": "13",
+      "sellerRating": "4",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01WxptM91lp8i6WoiJ9_!!2058964867-0-cib.jpg",
+      "category": "CAMP",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 2.49,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5314,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "4fc6ac3f-6680-489c-add4-0980a0e73659",
+          "name": "네이비 22*11*19",
+          "cny": 2.49,
+          "sell": 5314,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01WxptM91lp8i6WoiJ9_!!2058964867-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "f1fa4f18-a98c-4798-a49d-9d15fa3a9d7f",
       "createdAt": 1785326077596,
       "name": "보냉 가방",
