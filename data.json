@@ -2574,7 +2574,7 @@
       "ad": 7,
       "ret": 3,
       "memo": "5,000",
-      "starred": false,
+      "starred": true,
       "repOptionId": "e822a0c3-31b3-4ca3-adf9-1f80293bcef7",
       "options": [
         {
