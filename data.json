@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "cdcfac57-7b21-4ede-b9b4-90a77626c567",
+      "createdAt": 1785499348501,
+      "name": "발매트",
+      "folder": "발매트",
+      "link": "https://detail.1688.com/offer/782618595198.html?_t=1785499168000&spm=a2615.7691456/2506.co_0_0_wangpu_score_0_0_0_0_1_0_0000_0.0",
+      "yearlySales": "3600",
+      "sellerYears": "3",
+      "sellerRating": "3.5",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN015j8GEP1rJtCoYD1mG_!!2225445611-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 5.5,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 6792,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "eb7e4466-e639-4a2e-8596-2ca603899989",
+          "name": "40*60",
+          "cny": 5.5,
+          "sell": 6792,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN015j8GEP1rJtCoYD1mG_!!2225445611-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "idms6qih6e1rij01",
       "createdAt": 1785368844662,
       "name": "발매트",
