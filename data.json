@@ -4,15 +4,15 @@
       "id": "cc6becdb-7ce2-43d7-a572-8503c3ed5209",
       "createdAt": 1785653879858,
       "name": "돗자리",
-      "folder": "돗자리",
       "link": "https://detail.1688.com/offer/898510411543.html?kj_agent_plugin=aliprice&fromkv=xytTrace:2154647417856504482671319e0e0f&token=i88PdGYgDLqiXWh3EniDoqLeRJtO2i7XM5OuaUaGZayDUCPjAFOvxLPkUUjAqv8t",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ExSeZO1bsDBt7kYdX_!!2210217883520-0-cib.jpg",
+      "folder": "돗자리",
+      "category": "ACTIVE",
+      "status": "검토중",
       "yearlySales": "100000",
       "sellerYears": "6",
       "sellerRating": "4.5",
       "sellerGrade": "실력공급업체",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ExSeZO1bsDBt7kYdX_!!2210217883520-0-cib.jpg",
-      "category": "ACTIVE",
-      "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
       "cny": 5.69,
@@ -33,6 +33,8 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "8d87e5d0-3587-467a-bbfe-47d091b3f067",
@@ -6603,6 +6605,7 @@
     "옷걸이",
     "요가매트",
     "원터치 밀대 걸레",
-    "캠핑 웨건"
+    "캠핑 웨건",
+    "__TEST_임시폴더_삭제예정__"
   ]
 }
