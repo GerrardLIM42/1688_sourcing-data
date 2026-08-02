@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "f580de6a-105b-4a1f-9eae-427ec7e39cad",
+      "createdAt": 1785655633872,
+      "name": "돗자리",
+      "folder": "돗자리",
+      "link": "https://detail.1688.com/offer/1048461913702.html?kj_agent_plugin=aliprice&fromkv=xytTrace:0bb405a417856555289097146e0f2a&token=DUtHL9Q8Oc9afAkqdfpCAwD%2BNFzcqyyPmirD39fZH83Y3p86gHZ4YVMvHSep6HGE",
+      "yearlySales": "900",
+      "sellerYears": "5",
+      "sellerRating": "4",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN0183aPV41Vmovns2l6u_!!2214322992696-0-cib.jpg",
+      "category": "CAMP",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 20,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 13912,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "b25d9b8e-0b9f-4718-95d6-8197dae417e3",
+          "name": "150x200cm",
+          "cny": 20,
+          "sell": 13912,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN0183aPV41Vmovns2l6u_!!2214322992696-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "0b118d5c-4d02-4c66-8f42-bf9890065822",
       "createdAt": 1785655513557,
       "name": "돗자리",
