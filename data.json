@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "9eb3f766-16e8-4435-8f8d-d44e795fac7a",
+      "createdAt": 1785817847810,
+      "name": "양말",
+      "folder": "양말",
+      "link": "https://detail.1688.com/offer/816842839732.html?kj_agent_plugin=aliprice&fromkv=xytTrace:2132815517858093964053905e0c3a&token=pJUxKUAStpOk8kNlneqoE34Js%2FWM1RhJL4rDekVlkUEt0fM8W3J8GVhqxGiQt7WH",
+      "yearlySales": "36000",
+      "sellerYears": "3",
+      "sellerRating": "4.5",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01w2auvA29Vwo7ZlhgW_!!2217629448074-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 10,
+      "cny": 0.53,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 6694,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "b3b50663-cb4e-4444-9fc5-209f70fb12b0",
+          "name": "옵션 1",
+          "cny": 0.53,
+          "sell": 6694,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01w2auvA29Vwo7ZlhgW_!!2217629448074-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "df8be679-bdda-41c8-bd86-5547526365f1",
       "createdAt": 1785817760061,
       "name": "양말",
