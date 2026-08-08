@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "684680c5-144b-4642-a76c-1d002251b33c",
+      "createdAt": 1786229727989,
+      "name": "드로즈 팬티",
+      "folder": "드로즈 팬티",
+      "link": "https://detail.1688.com/offer/983081812968.html?kj_agent_plugin=aliprice&fromkv=xytTrace:0bf8ca8917861741876686587e0f2d&token=do6sA1McVsW9sdSvus0vS0MZZwyymGUPVcFSHJXikAGg04Q9lSxfBInvSY0CNoiq",
+      "yearlySales": "56000",
+      "sellerYears": "1",
+      "sellerRating": "3.5",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01Zjwv0Y1tIBAKfdN8G_!!2220694415878-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 10,
+      "cny": 2.7,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 17349,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "ded19690-0407-4493-b0d3-7156e76821da",
+          "name": "4종 S M L XL XXL",
+          "cny": 2.7,
+          "sell": 17349,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01Zjwv0Y1tIBAKfdN8G_!!2220694415878-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "4d3f1e74-f432-47e0-9f11-df0d56b5d0eb",
       "createdAt": 1785895785021,
       "name": "양말",
