@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "62620593-6b1f-40c3-afc8-64a1d3ff8d3d",
+      "createdAt": 1786234931262,
+      "updatedAt": 1786234931262,
+      "name": "드로즈 팬티",
+      "folder": "드로즈 팬티",
+      "link": "https://detail.1688.com/offer/980067290395.html?spm=a26352.13672862.offerlist.87.1bef1e62z85Mvv&offerId=980067290395&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=4a08b0daa31845e1be677e2e40bafd9d&skuId=6270949063920&forcePC=1786234851407",
+      "yearlySales": "5800",
+      "sellerYears": "8",
+      "sellerRating": "5",
+      "sellerGrade": "실력공급업체",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01FOxSor1aAs9JwMjUZ_!!2200524823290-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 10,
+      "cny": 2.5,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 15129,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "ff55e745-788c-4da3-bacb-16bc6b2f10fc",
+          "name": "6종 L ~ 3XL",
+          "cny": 2.5,
+          "sell": 15129,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01FOxSor1aAs9JwMjUZ_!!2200524823290-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 15
+        }
+      ]
+    },
+    {
       "id": "ddba34d4-9c51-4a43-af76-c437c91815b5",
       "createdAt": 1786234746440,
       "updatedAt": 1786234746440,
