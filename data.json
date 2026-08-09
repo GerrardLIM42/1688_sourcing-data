@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "6979987a-0f4f-4689-a16a-1487a37d54b2",
+      "createdAt": 1786235568480,
+      "updatedAt": 1786235568480,
+      "name": "드로즈 팬티",
+      "folder": "드로즈 팬티",
+      "link": "https://detail.1688.com/offer/746873575947.html?spm=a26352.13672862.offerlist.103.1bef1e62z85Mvv&offerId=746873575947&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5794616916281&trace_log=normal&uuid=4a08b0daa31845e1be677e2e40bafd9d&forcePC=1786235130829",
+      "yearlySales": "100000",
+      "sellerYears": "4",
+      "sellerRating": "5",
+      "sellerGrade": "실력플래그십점",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01YgkYfN2FBEh1A7b0Q_!!2215584128841-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 2,
+      "cny": 10.8,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 13585,
+      "ad": 7,
+      "ret": 3,
+      "memo": "5종 묶음 가격 10.8 1개 가격 2.4",
+      "options": [
+        {
+          "id": "f33d214f-a38f-4072-ba69-66b27c5a86a9",
+          "name": "5종세트가격 L ~ 4XL",
+          "cny": 10.8,
+          "sell": 13585,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01YgkYfN2FBEh1A7b0Q_!!2215584128841-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 15
+        }
+      ]
+    },
+    {
       "id": "62620593-6b1f-40c3-afc8-64a1d3ff8d3d",
       "createdAt": 1786234931262,
       "updatedAt": 1786234931262,
