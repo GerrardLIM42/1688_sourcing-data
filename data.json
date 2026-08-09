@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "d71fd9dd-1b7f-4b30-a03c-f4dadcfad7cd",
+      "createdAt": 1786247592683,
+      "updatedAt": 1786247592683,
+      "name": "드로즈 팬티",
+      "folder": "드로즈 팬티",
+      "link": "https://detail.1688.com/offer/1043761700537.html?_t=1786247477071&spm=a2615.7691456/2506.co_0_0_wangpu_score_0_0_0_0_0_0_0000_0.0",
+      "yearlySales": "600",
+      "sellerYears": "4",
+      "sellerRating": "5",
+      "sellerGrade": "실력플래그십점",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ali2KP2FBEkUJAJFb_!!2215584128841-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 10,
+      "cny": 3,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 17398,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "c60bc4a1-8a9d-4a76-9785-ce52d9cc1813",
+          "name": "5종",
+          "cny": 3,
+          "sell": 17398,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ali2KP2FBEkUJAJFb_!!2215584128841-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 15
+        }
+      ]
+    },
+    {
       "id": "6979987a-0f4f-4689-a16a-1487a37d54b2",
       "createdAt": 1786235568480,
       "updatedAt": 1786235568480,
