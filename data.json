@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "id": "idmstlj72imjfwio",
-      "createdAt": 1786751202186,
-      "name": "다용도채칼",
-      "folder": "다용도채칼",
-      "link": "",
-      "image": "",
-      "category": "ACTIVE",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 0,
-      "sell": 0,
-      "rate": 300,
-      "yearlySales": "",
-      "memo": "",
-      "options": [
-        {
-          "id": "idmstlj72ihg8s4e",
-          "name": "",
-          "cny": 0,
-          "sell": 0,
-          "image": "",
-          "inputMode": "margin",
-          "savedMarginPct": null
-        }
-      ]
-    },
-    {
       "id": "d71fd9dd-1b7f-4b30-a03c-f4dadcfad7cd",
       "createdAt": 1786247592683,
       "updatedAt": 1786247592683,
