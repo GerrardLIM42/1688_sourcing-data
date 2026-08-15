@@ -3,7 +3,7 @@
     {
       "id": "aa06449f-a763-4227-ba71-3394d35643af",
       "createdAt": 1786754608204,
-      "updatedAt": 1786756981742,
+      "updatedAt": 1786757079304,
       "name": "다용도 채칼",
       "link": "https://detail.1688.com/offer/902802758158.html?kj_agent_plugin=aliprice&fromkv=xytTrace:213f867c17867543496861778e0e7c&token=yozh%2BVCg5mtFRBeuSHBtgZkCRDW9z7%2BNGjVjJjr0Kq5sg6pNoNorbo%2FmLdMSDUMv",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN0186kUo028vJIDpft0K_!!2218379667994-0-cib.jpg",
@@ -35,11 +35,11 @@
       "ret": 3,
       "memo": "",
       "starred": false,
-      "repOptionId": "ded4625e-eda8-4d19-9dcd-0ac13e470d65",
+      "repOptionId": null,
       "options": [
         {
           "id": "6eead1ee-2c58-454b-89d9-25bee70e5fb7",
-          "name": "옵션 1",
+          "name": "옵션 119",
           "cny": 5.2,
           "sell": 6645,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN0186kUo028vJIDpft0K_!!2218379667994-0-cib.jpg",
@@ -47,7 +47,7 @@
           "savedMarginPct": 20
         },
         {
-          "id": "ded4625e-eda8-4d19-9dcd-0ac13e470d65",
+          "id": "aeeb5e20-15fa-4220-b264-4cab9d5a81ed",
           "name": "24.3",
           "cny": 5.8,
           "sell": 6939,
