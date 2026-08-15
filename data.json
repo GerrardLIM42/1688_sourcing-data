@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "ee40d8af-dbf4-4493-9ad8-93d4b562b4fc",
+      "createdAt": 1786757946656,
+      "updatedAt": 1786757946656,
+      "name": "다용도 채칼",
+      "folder": "다용도 채칼",
+      "link": "https://detail.1688.com/offer/1053598815501.html?spm=a26352.b28411319/2508.0.0",
+      "yearlySales": "10",
+      "sellerYears": "6",
+      "sellerRating": "4.5",
+      "sellerGrade": "실력플래그십점",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN010El8PD1mfoLLO0c7F_!!2208858974982-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 5.4,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 6743,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "d23a87cc-ca58-4d2e-ac33-fb782240bbdc",
+          "name": "24.3",
+          "cny": 5.4,
+          "sell": 6743,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN010El8PD1mfoLLO0c7F_!!2208858974982-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "aa06449f-a763-4227-ba71-3394d35643af",
       "createdAt": 1786754608204,
       "updatedAt": 1786757079304,
