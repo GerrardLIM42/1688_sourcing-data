@@ -7995,7 +7995,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 0,
+      "sell": 11500,
       "ad": 7,
       "ret": 3,
       "memo": "SJ-0821-08 · 防晒衣男夏季情侣超薄透气皮肤衣防晒服潮户外帅气速干大码薄外套",
@@ -8006,7 +8006,7 @@
           "id": "id-1787304017931-752e46f37f1a48",
           "name": "옵션 1",
           "cny": 15,
-          "sell": 0,
+          "sell": 11500,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01qPixny1bVJNUmLoTE_!!2215431623470-0-cib.jpg_.webp",
           "inputMode": "margin",
           "savedMarginPct": 20
