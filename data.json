@@ -8043,7 +8043,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 0,
+      "sell": 11700,
       "ad": 7,
       "ret": 3,
       "memo": "SJ-0821-09 · 户外防晒衣男女夏季轻薄皮肤衣防晒运动风衣防晒服可印logo",
@@ -8054,7 +8054,7 @@
           "id": "id-1787304017931-4c4129f71eba",
           "name": "옵션 1",
           "cny": 15.5,
-          "sell": 0,
+          "sell": 11700,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ZhxoqX1kjoUS9xbCs_!!979174720-0-cib.jpg_.webp",
           "inputMode": "margin",
           "savedMarginPct": 20
