@@ -8091,7 +8091,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 0,
+      "sell": 11900,
       "ad": 7,
       "ret": 3,
       "memo": "SJ-0821-10 · 新款防晒衣女短款长袖春夏季情侣防晒服外套洋气百搭防晒衫男",
@@ -8102,7 +8102,7 @@
           "id": "id-1787304017931-2faab38b910cc8",
           "name": "옵션 1",
           "cny": 15.9,
-          "sell": 0,
+          "sell": 11900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN017YvqsK1LFhrmTZny4_!!2215835611270-0-cib.jpg_.webp",
           "inputMode": "margin",
           "savedMarginPct": 20
