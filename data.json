@@ -7899,7 +7899,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 0,
+      "sell": 11400,
       "ad": 7,
       "ret": 3,
       "memo": "SJ-0821-06 · 2025新款夏季防晒衣男女防晒轻薄款皮肤衣外套",
@@ -7910,7 +7910,7 @@
           "id": "id-1787304017931-bc30bfd49eb678",
           "name": "옵션 1",
           "cny": 14.9,
-          "sell": 0,
+          "sell": 11400,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ilXG0m29EXp4j7qe4_!!2218911718036-0-cib.jpg_.webp",
           "inputMode": "margin",
           "savedMarginPct": 20
