@@ -8139,7 +8139,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 0,
+      "sell": 11900,
       "ad": 7,
       "ret": 3,
       "memo": "SJ-0821-11 · 夏季防晒衣外套薄款修身韩版潮沙滩爬山透气情侣防晒服男女皮肤衣",
@@ -8150,7 +8150,7 @@
           "id": "id-1787304017931-130d6757ea8578",
           "name": "옵션 1",
           "cny": 15.99,
-          "sell": 0,
+          "sell": 11900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01M1SZ0U2KBlBibJkOf_!!2208467489519-0-cib.jpg_.webp",
           "inputMode": "margin",
           "savedMarginPct": 20
