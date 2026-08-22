@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "3137b1e9-e61c-45c8-a8f7-675cfd8a6d38",
+      "createdAt": 1787366005935,
+      "updatedAt": 1787366005935,
+      "name": "바람막이",
+      "folder": "바람막이",
+      "link": "https://detail.1688.com/offer/977718909328.html?spm=a26352.13672862.offerlist.90.6b63ebaatDmLfB&offerId=977718909328&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=c3b1bab8c518481f972580f0d92aebd8&skuId=6098463203288&forcePC=1787365828692",
+      "yearlySales": "80",
+      "sellerYears": "13",
+      "sellerRating": "4",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ENdWlr22aLPrhYic4_!!2116337136-0-cib.jpg",
+      "category": "ACTIVE",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 9,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 8511,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "723aa1bf-a325-4120-b908-f4f8f081d19d",
+          "name": "5색상 L ~ 4XL",
+          "cny": 9,
+          "sell": 8511,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ENdWlr22aLPrhYic4_!!2116337136-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "7c686f32-537e-4843-944e-7f4266663d8a",
       "createdAt": 1786779722162,
       "updatedAt": 1786779722162,
