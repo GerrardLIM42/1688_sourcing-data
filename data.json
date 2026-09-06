@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "12d79e05-6143-41be-96f2-0ab0baddec3d",
+      "createdAt": 1788663020240,
+      "updatedAt": 1788663020240,
+      "name": "검은옷 회복시트",
+      "folder": "검은옷 회복시트",
+      "link": "https://detail.1688.com/offer/975111689717.html?sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04&spm=a26352.b28411319/2508.0.0",
+      "yearlySales": "900",
+      "sellerYears": "13",
+      "sellerRating": "5",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01taWxO61SzElKKtyFS_!!2201249092317-0-cib.jpg",
+      "category": "CAMP",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 3.9,
+      "rate": 350,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 6326,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "7d0bb9e2-c19c-49cd-890c-7149eb596429",
+          "name": "10ea",
+          "cny": 3.9,
+          "sell": 6326,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01taWxO61SzElKKtyFS_!!2201249092317-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "6b4d0701-323b-4e65-b8bf-1ceaa9d7c8da",
       "createdAt": 1788662785223,
       "updatedAt": 1788662851211,
