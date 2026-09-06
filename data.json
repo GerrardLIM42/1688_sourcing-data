@@ -1,6 +1,61 @@
 {
   "items": [
     {
+      "id": "7e57d8ee-dd23-419b-8e14-4121a61cb008",
+      "createdAt": 1788663777259,
+      "updatedAt": 1788663777259,
+      "name": "검은옷 회복시트",
+      "folder": "검은옷 회복시트",
+      "link": "https://detail.1688.com/offer/1045440898997.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=e964bd64bc8a439d88856ee18053efbd&sessionid=c58b125fa507416dba96cf02fe8f90a1&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04",
+      "yearlySales": "6300",
+      "sellerYears": "6",
+      "sellerRating": "4.5",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01rSgnDm1bYWH6IShb3_!!2211718553477-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 2.66,
+      "rate": 350,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5615,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "3aa86a0b-27b7-4beb-ade9-ea538445be7f",
+          "name": "OUHEY 11x14 / 10ea",
+          "cny": 2.66,
+          "sell": 5615,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01rSgnDm1bYWH6IShb3_!!2211718553477-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        },
+        {
+          "id": "7f6a3b84-e759-4654-87b1-94a50d03ee94",
+          "name": "11x14 / 10ea",
+          "cny": 2.66,
+          "sell": 5615,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01E7R4mU1bYWH68L6Vq_!!2211718553477-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "08225b38-62f3-4e14-890e-0e69d6e86ab0",
       "createdAt": 1788663097986,
       "updatedAt": 1788663097986,
