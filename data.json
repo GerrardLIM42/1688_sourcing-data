@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "08225b38-62f3-4e14-890e-0e69d6e86ab0",
+      "createdAt": 1788663097986,
+      "updatedAt": 1788663097986,
+      "name": "검은옷 회복시트",
+      "folder": "검은옷 회복시트",
+      "link": "https://detail.1688.com/offer/1028260251244.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=4d995897a5e94e8ea0e9de8678635780&sessionid=d123458bb9ba777ef03f236d203ef093",
+      "yearlySales": "1300",
+      "sellerYears": "6",
+      "sellerRating": "4.5",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01P2pMlT1bYWH6WAe7p_!!2211718553477-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 3.04,
+      "rate": 350,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5833,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "3685c059-370f-42fa-bc80-de703935c1cd",
+          "name": "11x14 / 1ea",
+          "cny": 3.04,
+          "sell": 5833,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01P2pMlT1bYWH6WAe7p_!!2211718553477-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "12d79e05-6143-41be-96f2-0ab0baddec3d",
       "createdAt": 1788663020240,
       "updatedAt": 1788663020240,
