@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "id": "idmty4c2k9uase2n",
-      "createdAt": 1789201429497,
-      "name": "휴대 과일",
-      "folder": "휴대 과일",
-      "link": "",
-      "image": "",
-      "category": "ACTIVE",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 0,
-      "sell": 0,
-      "rate": 300,
-      "yearlySales": "",
-      "memo": "",
-      "options": [
-        {
-          "id": "idmty4c2k9j3lty4",
-          "name": "",
-          "cny": 0,
-          "sell": 0,
-          "image": "",
-          "inputMode": "margin",
-          "savedMarginPct": null
-        }
-      ]
-    },
-    {
       "id": "7e57d8ee-dd23-419b-8e14-4121a61cb008",
       "createdAt": 1788663777259,
       "updatedAt": 1788663777259,
