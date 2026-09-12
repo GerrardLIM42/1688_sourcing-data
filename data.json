@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "c0685852-903b-4161-aea8-61803351e4ae",
+      "createdAt": 1789201831090,
+      "updatedAt": 1789201831090,
+      "name": "휴대 과일통",
+      "folder": "휴대 과일통",
+      "link": "https://detail.1688.com/offer/914116743311.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=55b9087f304b40ca803d7a88659f3d57&sessionid=ab4fab1b2bbdab2fc44079757c84cda2&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04",
+      "yearlySales": "3100",
+      "sellerYears": "16",
+      "sellerRating": "4",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01R78IuV1kwBAJai4Bb_!!971624747-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 3.45,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "극소형 (50g 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 4640,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "4b9336d4-69ba-4225-8c8a-8dbd2666f21c",
+          "name": "옵션 1",
+          "cny": 3.45,
+          "sell": 4640,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01R78IuV1kwBAJai4Bb_!!971624747-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "6bd69080-0ef0-4d91-b00c-de2471b3b101",
       "createdAt": 1789201729615,
       "updatedAt": 1789201729615,
