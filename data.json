@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "id": "idmurswrwbak2oz9",
-      "createdAt": 1790996225339,
-      "name": "라바클라바",
-      "folder": "라바클라바",
-      "link": "",
-      "image": "",
-      "category": "ACTIVE",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 0,
-      "sell": 0,
-      "rate": 300,
-      "yearlySales": "",
-      "memo": "",
-      "options": [
-        {
-          "id": "idmurswrwbfjakjq",
-          "name": "",
-          "cny": 0,
-          "sell": 0,
-          "image": "",
-          "inputMode": "margin",
-          "savedMarginPct": null
-        }
-      ]
-    },
-    {
       "id": "7afc2fad-22b7-4262-bbf3-610366c5957c",
       "createdAt": 1789203310323,
       "updatedAt": 1789203310323,
