@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "5714ff32-fb51-45a4-aff0-e3de3e2651aa",
+      "createdAt": 1791121962101,
+      "updatedAt": 1791121962101,
+      "name": "수면양말",
+      "folder": "수면양말",
+      "link": "https://detail.1688.com/offer/987029511213.html?spm=a26352.13672862.offerlist.132.64fc1e625JIdKw&offerId=987029511213&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=5b6847431cd44ac895aef76a3f623b2d&skuId=5952503192690&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S02&forcePC=1791121886345",
+      "yearlySales": "4200",
+      "sellerYears": "1",
+      "sellerRating": "4.5",
+      "sellerGrade": "실력플래그십점",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01sVZFWB26vBumyehWp_!!2220979777723-0-cib.jpg",
+      "category": "ACTIVE",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 4,
+      "cny": 1.89,
+      "rate": 350,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "극소형 (50g 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 7277,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "cef96ab8-27dc-4b97-a402-be60bdb4e090",
+          "name": "옵션 1",
+          "cny": 1.89,
+          "sell": 7277,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01sVZFWB26vBumyehWp_!!2220979777723-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "def44b35-2f82-414c-b255-73bcd8607035",
       "createdAt": 1791121767438,
       "updatedAt": 1791121767438,
