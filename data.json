@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "561db473-ec98-46a9-ae1e-c2b48e8675d7",
+      "createdAt": 1791098561387,
+      "updatedAt": 1791098561387,
+      "name": "겨울 넥워머",
+      "folder": "겨울 넥워머",
+      "link": "https://detail.1688.com/offer/986189675104.html?spm=a26352.13672862.offerlist.103.65f22a7cQjDUer&offerId=986189675104&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=8dd168acf18b4cacab904f9e4e4bdc27&skuId=6116532878769&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S02&forcePC=1791098503741",
+      "yearlySales": "58000",
+      "sellerYears": "4",
+      "sellerRating": "5",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01UUGYz01JjovMOSsY5_!!2215792701065-0-cib.jpg",
+      "category": "ACTIVE",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 2,
+      "cny": 2.1,
+      "rate": 350,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "극소형 (50g 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5352,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "64fc4b71-67f9-4348-9399-ac2e4da0f1ca",
+          "name": "그레이",
+          "cny": 2.1,
+          "sell": 5352,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01UUGYz01JjovMOSsY5_!!2215792701065-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "e2508edf-5d34-42b5-a1da-94748b8f8b81",
       "createdAt": 1791098486260,
       "updatedAt": 1791098486260,
