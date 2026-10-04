@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "8f309e48-5fb3-494f-bc6a-c06b92cd851f",
+      "createdAt": 1791102987431,
+      "updatedAt": 1791102987431,
+      "name": "바라클라바",
+      "folder": "바라클라바",
+      "link": "https://detail.1688.com/offer/898147789680.html?sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04&spm=a26352.b28411319/2508.0.0",
+      "yearlySales": "50000",
+      "sellerYears": "8",
+      "sellerRating": "5",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01UotoAo1PpDCzfFDz4_!!2200616551889-0-cib.jpg",
+      "category": "ACTIVE",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 5,
+      "rate": 350,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "극소형 (50g 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5810,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "0986133f-a5eb-4a99-b657-ea6277b925ca",
+          "name": "블랙",
+          "cny": 5,
+          "sell": 5810,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01UotoAo1PpDCzfFDz4_!!2200616551889-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "88b27324-749f-4bce-9af2-43dabd686ddc",
       "createdAt": 1791102754009,
       "updatedAt": 1791102778076,
