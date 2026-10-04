@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "548dc7a8-eb49-4d9e-8d34-9f9da126057f",
+      "createdAt": 1791102193450,
+      "updatedAt": 1791102193450,
+      "name": "겨울 넥워머 / 길이 조절",
+      "folder": "겨울 넥워머 / 길이 조절",
+      "link": "https://detail.1688.com/offer/1073676907778.html?spm=a261y.7663282.siteRecommend.94.535a4c9dRWR7mf&traceId=0bab14ad17911019443094690e0bc8&spm-url=a26352.b28411319%2F2508.0.0&spm-auction=538793864223",
+      "yearlySales": "300",
+      "sellerYears": "3",
+      "sellerRating": "4.5",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01MHwnenWU8sK2igYK_!!2218520409741-0-cib.jpg",
+      "category": "ACTIVE",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 2,
+      "cny": 2.1,
+      "rate": 350,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "극소형 (50g 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5352,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "79934f97-8055-4d71-b324-8ef2303e78d5",
+          "name": "블랙",
+          "cny": 2.1,
+          "sell": 5352,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01MHwnenWU8sK2igYK_!!2218520409741-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 20
+        }
+      ]
+    },
+    {
       "id": "b8b6e8d1-7a95-4cc0-95af-4fe6482a8f48",
       "createdAt": 1791098766063,
       "updatedAt": 1791098766063,
