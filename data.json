@@ -339,7 +339,7 @@
     {
       "id": "def44b35-2f82-414c-b255-73bcd8607035",
       "createdAt": 1791121767438,
-      "updatedAt": 1791121767438,
+      "updatedAt": 1793505489275,
       "name": "수면양말",
       "link": "https://detail.1688.com/offer/1001315526363.html?spm=a26352.13672862.offerlist.35.64fc1e625JIdKw&offerId=1001315526363&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=5b6847431cd44ac895aef76a3f623b2d&skuId=5990730817370&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S02&forcePC=1791121703786",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01oPaWFY1C7ABFSeFhP_!!3051040033-0-cib.jpg",
@@ -366,7 +366,7 @@
       "rocketSize": "극소형 (50g 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 7758,
+      "sell": 8540,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -377,7 +377,7 @@
           "id": "ced3c587-4267-447b-b83f-86521281e427",
           "name": "옵션 1",
           "cny": 2.1,
-          "sell": 7758,
+          "sell": 8540,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01oPaWFY1C7ABFSeFhP_!!3051040033-0-cib.jpg",
           "inputMode": "margin",
           "savedMarginPct": 20
