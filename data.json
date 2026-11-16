@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "a6e98faf-ae48-436e-855c-48bfe1df36c3",
+      "createdAt": 1794799444407,
+      "updatedAt": 1794799444407,
+      "name": "키친타",
+      "folder": "키친타",
+      "link": "https://detail.1688.com/offer/894202515083.html?kj_agent_plugin=aliprice&fromkv=xytTrace%3A0&tracelog=cps&clickid=c79a184c1c8c8a92c004bd16e52ebc89&targetUrl=https%3A%2F%2Fs.click.1688.com%2Ft%3Fe%3DD2DC7A927D55C03D6511A0CCA913FD65D6FA062685DFF8F7D920A558D1D5758C4B369BE324A83E744B8F19128B0D93E33FB8088B45F57B9E47F28FD2CC0E231B4A1826F29D4B1B94EF9AD2CB72652BFB3BBB7F21A87847FA2F2298161E9E1CDC924FBFD1D122F2C33C3346A422127D9B102F9B06D09DF78006BB145DD6C99FDB7EEF6D6099BA67CE089F770C23C101B7E8889341112B09CFE3EA0DD4E88C15307A646C1A30D034A25956B47D6C3DD7B2DE146EEED071A5D0FF3505DB563FB364787EA66E6F3FDD9C5A17AB89137EEC03A29275A2B93F30E80BE8121292226FF7FEEB8179F5EED311B627F84D25BF69EC%26cbu_cps_trace_flag%3Dwrite",
+      "yearlySales": "400",
+      "sellerYears": "8",
+      "sellerRating": "4.5",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01tHjpBI2FmKjkd5hYY_!!2200778258922-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 20.9,
+      "rate": 319.8,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "중형 (5kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 15842,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "fa962af7-9a8a-4348-b854-5d51b5f33158",
+          "name": "10",
+          "cny": 20.9,
+          "sell": 15842,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01tHjpBI2FmKjkd5hYY_!!2200778258922-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 15
+        }
+      ]
+    },
+    {
       "id": "a55bcb2c-f979-46be-a025-ad859f76142b",
       "createdAt": 1791123207418,
       "updatedAt": 1793505539130,
@@ -4355,6 +4401,15 @@
       "repOptionId": null,
       "options": [
         {
+          "id": "c713d32a-0d25-4308-bff1-ec568da0cadb",
+          "name": "",
+          "cny": 21.5,
+          "sell": 14900,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bFENpO2ChnymWsSa6_!!972828506-0-cib.jpg",
+          "inputMode": "sell",
+          "savedMarginPct": null
+        },
+        {
           "id": "82118f7d-68d1-4916-ba91-ce34ccc45560",
           "name": "외발 + 좁은 네발",
           "cny": 21.5,
@@ -4534,6 +4589,15 @@
       "starred": false,
       "repOptionId": null,
       "options": [
+        {
+          "id": "37e5c523-bebd-403a-b49d-a12047db0b51",
+          "name": "",
+          "cny": 8.08,
+          "sell": 11000,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01p6URn51ZSRacjGQhf_!!3935043193-0-cib.jpg",
+          "inputMode": "sell",
+          "savedMarginPct": null
+        },
         {
           "id": "e28b1a0d-ebdf-4b8c-bcfc-f5f856911daa",
           "name": "34*46",
