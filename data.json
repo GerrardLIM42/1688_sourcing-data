@@ -11050,7 +11050,7 @@
         }
       },
       "notes:custom-1789047386286-209": {
-        "t": 1794810438344,
+        "t": 1794810476753,
         "v": {
           "status": "관심",
           "memo": "",
@@ -11058,7 +11058,7 @@
           "compImgUrls": {},
           "category": null,
           "starred": false,
-          "hidden": false
+          "hidden": true
         }
       },
       "notes:custom-1794803960867-999": {
