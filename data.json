@@ -11430,7 +11430,7 @@
         }
       },
       "edits:이염방지시트": {
-        "t": 1794810490156,
+        "t": 1794818953479,
         "v": {
           "name": "이염방지시트",
           "monthly_search": 7260,
@@ -11462,19 +11462,25 @@
           ],
           "pricing": [
             {
-              "sell_price": 6800,
+              "sell_price": 4900,
               "china_cost": 2.7,
               "purchase_cost": 810,
-              "growth_cost": 2500,
+              "growth_cost": 3250,
               "growth_tier": "s",
-              "coupang_fee": 785
+              "fee_cat": "",
+              "coupang_fee": 566,
+              "sell_auto": false,
+              "fee_auto": true
             },
             {
-              "sell_price": 9400,
+              "sell_price": 10422.5,
               "china_cost": 9,
               "purchase_cost": 2700,
               "growth_cost": 2585,
-              "coupang_fee": 1085.7
+              "fee_cat": "",
+              "coupang_fee": 1204,
+              "sell_auto": true,
+              "fee_auto": true
             }
           ],
           "sourcing_1688": [
