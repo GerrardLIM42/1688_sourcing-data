@@ -12693,7 +12693,7 @@
         }
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794812400098,
+        "t": 1794812405430,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -12742,7 +12742,7 @@
           "pricing": [
             {
               "sell_price": 11610,
-              "china_cost": 11.5,
+              "china_cost": 12.27,
               "purchase_cost": 3680,
               "growth_cost": 2500,
               "growth_tier": "s",
