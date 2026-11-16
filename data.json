@@ -12679,7 +12679,7 @@
         "v": null
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794818574719,
+        "t": 1794833722104,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -12733,6 +12733,7 @@
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "생활/주방",
+              "wing_fee": "",
               "coupang_fee": 1277,
               "vat": 322.5,
               "net_profit": 2902.5,
@@ -12748,6 +12749,7 @@
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "생활/주방",
+              "wing_fee": "생활용품>청소용품|홈 > 욕실용품",
               "coupang_fee": 1460,
               "vat": 368.6,
               "net_profit": 3317.4,
