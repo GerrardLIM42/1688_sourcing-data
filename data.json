@@ -5,15 +5,15 @@
       "createdAt": 1794804484285,
       "updatedAt": 1794804484285,
       "name": "화장실 청소솔",
-      "folder": "화장실 청소솔",
       "link": "https://detail.1688.com/offer/896558972705.html?kj_agent_plugin=aliprice&fromkv=xytTrace:0bb405a417948043509592428e0e09&token=G36MgCM%2BsdSec2ocSWBGXJiRFipj0YNxLVm%2Bjl2uX%2FIo3xQg2%2BscLwr%2BHAygv7%2Bg",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
+      "folder": "화장실 청소솔",
+      "category": "HOME",
+      "status": "검토중",
       "yearlySales": "11000",
       "sellerYears": "3",
       "sellerRating": "4.5",
       "sellerGrade": "",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
-      "category": "HOME",
-      "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
       "cny": 6.9,
@@ -34,7 +34,18 @@
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
+        {
+          "id": "9d546348-bb08-4de0-bf36-e3047c685b8e",
+          "name": "",
+          "cny": 6.9,
+          "sell": 10700,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
+          "inputMode": "sell",
+          "savedMarginPct": null
+        },
         {
           "id": "d0acb1d4-1d0f-46c5-a04e-0176520daf90",
           "name": "청소솔",
@@ -1628,6 +1639,15 @@
       "starred": false,
       "repOptionId": null,
       "options": [
+        {
+          "id": "b3bb7336-6154-445f-8c7b-92c639cf2c8e",
+          "name": "",
+          "cny": 2.5,
+          "sell": 4500,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01YfHVAw1rjXaqmfHDS_!!2219400755667-0-cib.jpg",
+          "inputMode": "sell",
+          "savedMarginPct": null
+        },
         {
           "id": "1c89b218-eca4-4861-8c4f-9b87850dc3d8",
           "name": "L",
@@ -4505,6 +4525,15 @@
       "starred": false,
       "repOptionId": null,
       "options": [
+        {
+          "id": "4327d267-51cd-4a27-9b89-8f1d069579bd",
+          "name": "",
+          "cny": 21.5,
+          "sell": 16300,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bFENpO2ChnymWsSa6_!!972828506-0-cib.jpg",
+          "inputMode": "sell",
+          "savedMarginPct": null
+        },
         {
           "id": "c713d32a-0d25-4308-bff1-ec568da0cadb",
           "name": "",
@@ -10678,6 +10707,7 @@
     "이염방지시트",
     "바람막이",
     "다용도 채칼",
-    "검은옷 회복시트"
+    "검은옷 회복시트",
+    "바라클라바"
   ]
 }
