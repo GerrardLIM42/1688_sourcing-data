@@ -11050,7 +11050,7 @@
         }
       },
       "notes:custom-1789047386286-209": {
-        "t": 1794811633957,
+        "t": 1794811727576,
         "v": {
           "status": "관심",
           "memo": "",
@@ -11058,8 +11058,7 @@
           "compImgUrls": {},
           "category": null,
           "starred": false,
-          "hidden": true,
-          "deleted": true
+          "hidden": false
         }
       },
       "notes:custom-1789987205590-433": {
@@ -12693,11 +12692,11 @@
         }
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794811717544,
+        "t": 1794811724642,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
-          "name": "",
+          "name": "사선컷팅 테이프 클리너",
           "monthly_search": null,
           "competitors": [
             {
@@ -12774,6 +12773,30 @@
           "related_keywords": [],
           "sourcing_note": null,
           "extra_images": []
+        }
+      },
+      "notes:custom-1794811711202-754": {
+        "t": 1794811727576,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": null,
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:custom-1794811712303-914": {
+        "t": 1794811727576,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
         }
       }
     }
