@@ -12795,7 +12795,7 @@
         }
       },
       "edits:수건": {
-        "t": 1794824882626,
+        "t": 1794824891562,
         "v": {
           "name": "수건",
           "monthly_search": 62300,
@@ -12832,7 +12832,7 @@
               "purchase_cost": 7170,
               "growth_cost": 2365,
               "fee_cat": "",
-              "wing_fee": "생활용품>청소용품|홈 > 욕실용품",
+              "wing_fee": "",
               "coupang_fee": 2287,
               "sell_auto": true,
               "fee_auto": true
