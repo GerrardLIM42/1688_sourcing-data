@@ -51,7 +51,7 @@
     {
       "id": "158911fa-2f5d-4c54-8dec-6c4fec03a865",
       "createdAt": 1794814475810,
-      "updatedAt": 1794814475810,
+      "updatedAt": 1794866688506,
       "name": "사선컷팅 테이프 클리너",
       "link": "https://detail.1688.com/offer/709332721418.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=ef80f8f7b0634754a45a1114d677581c&sessionid=0d11e58e30db43c69cd9176fa79b0479&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01j9Fh1q1WC0ZkIBNPn_!!946262751-0-cib.jpg",
@@ -78,9 +78,9 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 12733,
-      "ad": 7,
-      "ret": 3,
+      "sell": 11000,
+      "ad": 0,
+      "ret": 0,
       "memo": "",
       "starred": false,
       "repOptionId": null,
@@ -89,10 +89,10 @@
           "id": "db566534-3586-4a32-83cc-bced79d3ec2a",
           "name": "클리너 거치대 리필4",
           "cny": 14.09,
-          "sell": 12733,
+          "sell": 11000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01j9Fh1q1WC0ZkIBNPn_!!946262751-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 25
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
