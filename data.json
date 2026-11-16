@@ -12672,7 +12672,7 @@
         "v": null
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794816445069,
+        "t": 1794816447907,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -12722,14 +12722,14 @@
             {
               "sell_price": 11610,
               "china_cost": 12.27,
-              "purchase_cost": 3681,
+              "purchase_cost": 3680,
               "growth_cost": 2500,
               "growth_tier": "s",
               "coupang_fee": 1341,
-              "vat": 408.8,
-              "net_profit": 3679.2,
-              "profit_rate": 0.9995110024449877,
-              "margin_rate": 0.31689922480620153,
+              "vat": 408.90000000000003,
+              "net_profit": 3680.1,
+              "profit_rate": 1.0000271739130435,
+              "margin_rate": 0.3169767441860465,
               "sell_auto": true,
               "fee_auto": true
             },
@@ -12769,7 +12769,7 @@
         }
       },
       "notes:custom-1794811712303-914": {
-        "t": 1794816447758,
+        "t": 1794816458842,
         "v": {
           "status": "관심",
           "memo": "",
