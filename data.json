@@ -3,7 +3,7 @@
     {
       "id": "5c316c89-8bb2-4bef-a2b1-2da38f31994c",
       "createdAt": 1794801779029,
-      "updatedAt": 1794802287182,
+      "updatedAt": 1794802298208,
       "name": "화장실 청소솔",
       "folder": "화장실 청소솔",
       "link": "https://detail.1688.com/offer/899531491899.html?kj_agent_plugin=aliprice&fromkv=xytTrace:212b5ecd17948016664702535e0b6d&token=%2BZ%2BoUr%2Fj0a1JrFRrUIkBgP6mqz1oYMpWMAeXemAPr0YTajr1%2FgLTSxkusV5HJKZf",
@@ -30,7 +30,7 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 6953,
+      "sell": 10137,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -39,10 +39,10 @@
           "id": "e648f8b3-fa44-4346-b5e7-cedf8f2a2ada",
           "name": "백색",
           "cny": 8.78,
-          "sell": 6953,
+          "sell": 10137,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN010l0gC9251U4D1qZlP_!!2201194317466-0-cib.jpg",
           "inputMode": "margin",
-          "savedMarginPct": null
+          "savedMarginPct": 25
         }
       ]
     },
