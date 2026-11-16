@@ -12503,6 +12503,107 @@
           "sourcing_note": null,
           "extra_images": []
         }
+      },
+      "notes:custom-1794803960867-999": {
+        "t": 1794810438344,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+          },
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "custom:custom-1794803960867-999": {
+        "t": 1794810438344,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1794803960867-999",
+          "name": "화장실 청소솔",
+          "monthly_search": null,
+          "competitors": [
+            {
+              "name": "집안굿",
+              "sub": "화이트 / 네이",
+              "price": 13900,
+              "views_28d": 50568,
+              "buyers_28d": 3000,
+              "reviews": 2116,
+              "image": null
+            },
+            {
+              "name": "청소종결소 6 in 1",
+              "sub": "",
+              "price": 6900,
+              "views_28d": 19641,
+              "buyers_28d": 1000,
+              "reviews": 430,
+              "image": null
+            },
+            {
+              "name": "디에스토",
+              "sub": "",
+              "price": 7600,
+              "views_28d": 21935,
+              "buyers_28d": 1000,
+              "reviews": 822,
+              "image": null
+            },
+            {
+              "name": "홈리버",
+              "sub": "",
+              "price": 7900,
+              "views_28d": 19843,
+              "buyers_28d": 1000,
+              "reviews": 879,
+              "image": null
+            }
+          ],
+          "lowest_price": 6900,
+          "avg_price": 9075,
+          "pricing": [
+            {
+              "sell_price": 6900,
+              "china_cost": 5.69,
+              "purchase_cost": 1707,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 797,
+              "vat": 189.60000000000002,
+              "net_profit": 1706.4,
+              "profit_rate": 0.9996485061511424,
+              "margin_rate": 0.24730434782608696,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 7900,
+              "china_cost": 7.09,
+              "purchase_cost": 2126,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 912,
+              "vat": 236.20000000000002,
+              "net_profit": 2125.8,
+              "profit_rate": 0.9999059266227659,
+              "margin_rate": 0.26908860759493675,
+              "sell_auto": false,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": []
+        }
       }
     }
   }
