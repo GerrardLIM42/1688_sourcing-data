@@ -3,7 +3,7 @@
     {
       "id": "2c5ba128-de22-49ec-8aa1-870076dc0e77",
       "createdAt": 1794804484285,
-      "updatedAt": 1794804484285,
+      "updatedAt": 1794810201172,
       "name": "화장실 청소솔",
       "link": "https://detail.1688.com/offer/896558972705.html?kj_agent_plugin=aliprice&fromkv=xytTrace:0bb405a417948043509592428e0e09&token=G36MgCM%2BsdSec2ocSWBGXJiRFipj0YNxLVm%2Bjl2uX%2FIo3xQg2%2BscLwr%2BHAygv7%2Bg",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
@@ -30,7 +30,7 @@
       "rocketSize": "중형 (5kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 10700,
+      "sell": 10546,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -38,19 +38,10 @@
       "repOptionId": null,
       "options": [
         {
-          "id": "9d546348-bb08-4de0-bf36-e3047c685b8e",
-          "name": "",
-          "cny": 6.9,
-          "sell": 10700,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
-          "inputMode": "sell",
-          "savedMarginPct": null
-        },
-        {
           "id": "d0acb1d4-1d0f-46c5-a04e-0176520daf90",
           "name": "청소솔",
           "cny": 6.9,
-          "sell": 10500,
+          "sell": 10546,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
           "inputMode": "margin",
           "savedMarginPct": 25
@@ -59,7 +50,7 @@
           "id": "79e68b96-dac8-42f1-b33d-eabe4374b6e0",
           "name": "청소솔 + 걸이대",
           "cny": 7.2,
-          "sell": 10700,
+          "sell": 10722,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01FpGQI41kHPuhokjqN_!!2217818174658-0-cib.jpg",
           "inputMode": "margin",
           "savedMarginPct": 25
@@ -1640,7 +1631,7 @@
       "repOptionId": null,
       "options": [
         {
-          "id": "b3bb7336-6154-445f-8c7b-92c639cf2c8e",
+          "id": "07665e0d-2065-4212-84c7-582e1e7f1624",
           "name": "",
           "cny": 2.5,
           "sell": 4500,
@@ -4526,7 +4517,7 @@
       "repOptionId": null,
       "options": [
         {
-          "id": "4327d267-51cd-4a27-9b89-8f1d069579bd",
+          "id": "c990a82a-70d8-4306-8e90-3db07014e264",
           "name": "",
           "cny": 21.5,
           "sell": 16300,
@@ -10707,8 +10698,6 @@
     "이염방지시트",
     "바람막이",
     "다용도 채칼",
-    "검은옷 회복시트",
-    "바라클라바",
-    "겨울 넥워머"
+    "검은옷 회복시트"
   ]
 }
