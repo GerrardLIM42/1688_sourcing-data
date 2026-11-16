@@ -12608,7 +12608,7 @@
         }
       },
       "custom:custom-1794811711202-754": {
-        "t": 1794811711206,
+        "t": 1794811754854,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811711202-754",
@@ -12662,8 +12662,8 @@
               "growth_cost": null,
               "growth_tier": null,
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
@@ -12676,8 +12676,8 @@
               "growth_cost": null,
               "growth_tier": null,
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
@@ -12688,11 +12688,12 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": []
+          "extra_images": [],
+          "_id": 31
         }
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794811724642,
+        "t": 1794811754854,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -12700,7 +12701,7 @@
           "monthly_search": null,
           "competitors": [
             {
-              "name": "",
+              "name": "3단 핸들 + 거치대 + 리필 7개 (16cm x 12m)",
               "sub": "",
               "price": null,
               "views_28d": null,
@@ -12746,8 +12747,8 @@
               "growth_cost": null,
               "growth_tier": null,
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
@@ -12760,8 +12761,8 @@
               "growth_cost": null,
               "growth_tier": null,
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
