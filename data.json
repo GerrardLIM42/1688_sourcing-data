@@ -11430,7 +11430,7 @@
         }
       },
       "edits:이염방지시트": {
-        "t": 1794819063158,
+        "t": 1794819092235,
         "v": {
           "name": "이염방지시트",
           "monthly_search": 7260,
@@ -11473,13 +11473,13 @@
               "fee_auto": true
             },
             {
-              "sell_price": 10422.5,
+              "sell_price": 6900,
               "china_cost": 9,
               "purchase_cost": 2700,
               "growth_cost": 2585,
               "fee_cat": "",
-              "coupang_fee": 1204,
-              "sell_auto": true,
+              "coupang_fee": 797,
+              "sell_auto": false,
               "fee_auto": true
             }
           ],
