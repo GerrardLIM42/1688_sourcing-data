@@ -3,7 +3,7 @@
     {
       "id": "2299c2a0-2f68-4ad0-bcd3-6d9ec210db51",
       "createdAt": 1794815027605,
-      "updatedAt": 1794815027605,
+      "updatedAt": 1794866832728,
       "name": "사선컷팅 테이프 클리너",
       "link": "https://detail.1688.com/offer/1044719550644.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=6653633ccaa447898c36832fa50a8fc6&sessionid=40ef22660b34423a3c2be558901045c8&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01lypXXqOX32F1chua_!!2216645678485-0-cib.jpg",
@@ -30,9 +30,9 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 9936,
-      "ad": 7,
-      "ret": 3,
+      "sell": 11000,
+      "ad": 0,
+      "ret": 0,
       "memo": "",
       "starred": false,
       "repOptionId": null,
@@ -41,10 +41,10 @@
           "id": "aa9e5a37-3474-4d49-9722-29bf99738f7e",
           "name": "클리너 + 덮개 + 55회 3롤",
           "cny": 9,
-          "sell": 9936,
+          "sell": 11000,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01lypXXqOX32F1chua_!!2216645678485-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 25
+          "inputMode": "sell",
+          "savedMarginPct": null
         }
       ]
     },
