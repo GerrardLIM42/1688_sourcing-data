@@ -12793,6 +12793,95 @@
           "starred": false,
           "hidden": false
         }
+      },
+      "edits:수건": {
+        "t": 1794824882626,
+        "v": {
+          "name": "수건",
+          "monthly_search": 62300,
+          "competitors": [
+            {
+              "name": "연화삼월 40수",
+              "sub": "10개",
+              "price": 19800,
+              "views_28d": 61799
+            },
+            {
+              "name": "SEVOREN",
+              "sub": "10ro",
+              "price": 21900,
+              "views_28d": 13259
+            },
+            {
+              "name": "LUNOO 40수",
+              "sub": "10개",
+              "price": 19900,
+              "views_28d": 59812
+            },
+            {
+              "name": "록신 40수",
+              "sub": "10개",
+              "price": 26700,
+              "views_28d": 17156
+            }
+          ],
+          "pricing": [
+            {
+              "sell_price": 19800,
+              "china_cost": 23.9,
+              "purchase_cost": 7170,
+              "growth_cost": 2365,
+              "fee_cat": "",
+              "wing_fee": "생활용품>청소용품|홈 > 욕실용품",
+              "coupang_fee": 2287,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 22075,
+              "china_cost": 29.7,
+              "purchase_cost": 8910,
+              "growth_cost": 2585,
+              "fee_cat": "",
+              "wing_fee": "",
+              "coupang_fee": 2550,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "sourcing_1688": [
+            {
+              "unit_price": 18,
+              "yearly_sales": 100000,
+              "url": "https://detail.1688.com/offer/750966823835.html?spm=a26352.13672862.offerlist.4.d5551e62N68YQV&offerId=750966823835&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5175485360945&trace_log=normal&uuid=ac9478cee351446b8c7dc25d4416e0e7&forcePC=1783390718224",
+              "options": "280g · 75x35"
+            },
+            {
+              "unit_price": 12,
+              "yearly_sales": 73000,
+              "url": "https://detail.1688.com/offer/944043026779.html?spm=a26352.b28411319/2508.0.0",
+              "options": "100g · 75x35"
+            },
+            {
+              "unit_price": 27.1,
+              "yearly_sales": 1100,
+              "url": "https://detail.1688.com/offer/954614023424.html?spm=a26352.13672862.offerlist.77.2faa1e62YgLtrl&offerId=954614023424&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5880330409507&trace_log=normal&uuid=72bb042677f94441b94c9705754ae6a1&forcePC=1783397903533",
+              "options": "280g · 75x35"
+            }
+          ],
+          "related_keywords": [
+            "수건 10장",
+            "호텔 수건 40수",
+            "송월타월 수건",
+            "송월타월 수건 10장",
+            "먼지없는 수건 10장",
+            "호텔 수건 60수",
+            "수건",
+            "일회용 수건",
+            "수건 5개",
+            "수건 40수"
+          ]
+        }
       }
     },
     "images": {
