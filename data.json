@@ -12672,7 +12672,7 @@
         "v": null
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794818571246,
+        "t": 1794818574719,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -12740,12 +12740,12 @@
               "purchase_cost": 4849,
               "growth_cost": 3275,
               "growth_tier": "s",
-              "fee_cat": "패션잡화",
-              "coupang_fee": 1592,
-              "vat": 355.40000000000003,
-              "net_profit": 3198.6,
-              "profit_rate": 0.6596411631264179,
-              "margin_rate": 0.2410399397136398,
+              "fee_cat": "생활/주방",
+              "coupang_fee": 1460,
+              "vat": 368.6,
+              "net_profit": 3317.4,
+              "profit_rate": 0.6841410600123737,
+              "margin_rate": 0.24999246420497362,
               "sell_auto": true,
               "fee_auto": true
             }
