@@ -12693,7 +12693,7 @@
         }
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794811778788,
+        "t": 1794811920058,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -12703,7 +12703,7 @@
             {
               "name": "3단 핸들 + 거치대 + 리필 7개 (16cm x 12m)",
               "sub": "",
-              "price": null,
+              "price": 11990,
               "views_28d": null,
               "buyers_28d": 6000,
               "reviews": 5683,
@@ -12737,34 +12737,34 @@
               "image": null
             }
           ],
-          "lowest_price": null,
-          "avg_price": null,
+          "lowest_price": 11990,
+          "avg_price": 11990,
           "pricing": [
             {
-              "sell_price": null,
+              "sell_price": 11990,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 1385,
+              "vat": 1060.5,
+              "net_profit": 9544.5,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.7960383653044204,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": null,
+              "sell_price": 11990,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 1385,
+              "vat": 1060.5,
+              "net_profit": 9544.5,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.7960383653044204,
               "sell_auto": true,
               "fee_auto": true
             }
