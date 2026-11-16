@@ -11430,7 +11430,7 @@
         }
       },
       "edits:이염방지시트": {
-        "t": 1794819050542,
+        "t": 1794819052060,
         "v": {
           "name": "이염방지시트",
           "monthly_search": 7260,
@@ -11463,8 +11463,8 @@
           "pricing": [
             {
               "sell_price": 4900,
-              "china_cost": 2.8,
-              "purchase_cost": 840,
+              "china_cost": 3.17,
+              "purchase_cost": 950,
               "growth_cost": 2050,
               "growth_tier": "xs",
               "fee_cat": "생활/주방",
