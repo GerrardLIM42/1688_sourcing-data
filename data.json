@@ -12693,7 +12693,7 @@
         }
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794811955396,
+        "t": 1794811969437,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -12712,7 +12712,7 @@
             {
               "name": "핸들+거치대+리필6개",
               "sub": "",
-              "price": null,
+              "price": 11610,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -12737,34 +12737,34 @@
               "image": null
             }
           ],
-          "lowest_price": 11990,
-          "avg_price": 11990,
+          "lowest_price": 11610,
+          "avg_price": 11800,
           "pricing": [
             {
-              "sell_price": 11990,
+              "sell_price": 11610,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
-              "coupang_fee": 1385,
-              "vat": 1060.5,
-              "net_profit": 9544.5,
+              "coupang_fee": 1341,
+              "vat": 1026.9,
+              "net_profit": 9242.1,
               "profit_rate": null,
-              "margin_rate": 0.7960383653044204,
+              "margin_rate": 0.796046511627907,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 11990,
+              "sell_price": 11800,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
-              "coupang_fee": 1385,
-              "vat": 1060.5,
-              "net_profit": 9544.5,
+              "coupang_fee": 1363,
+              "vat": 1043.7,
+              "net_profit": 9393.3,
               "profit_rate": null,
-              "margin_rate": 0.7960383653044204,
+              "margin_rate": 0.7960423728813558,
               "sell_auto": true,
               "fee_auto": true
             }
