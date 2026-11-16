@@ -12672,7 +12672,7 @@
         "v": null
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794816279149,
+        "t": 1794813034602,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -12752,8 +12752,7 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": [],
-          "_id": 31
+          "extra_images": []
         }
       },
       "notes:custom-1794811711202-754": {
@@ -12770,7 +12769,7 @@
         }
       },
       "notes:custom-1794811712303-914": {
-        "t": 1794816384625,
+        "t": 1794816418180,
         "v": {
           "status": "관심",
           "memo": "",
