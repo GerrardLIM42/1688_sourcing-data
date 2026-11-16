@@ -12693,7 +12693,7 @@
         }
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794812364523,
+        "t": 1794812380327,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -12721,10 +12721,10 @@
             {
               "name": "",
               "sub": "",
-              "price": null,
+              "price": 11900,
               "views_28d": null,
               "buyers_28d": 3000,
-              "reviews": null,
+              "reviews": 17606,
               "image": null
             },
             {
@@ -12738,7 +12738,7 @@
             }
           ],
           "lowest_price": 11610,
-          "avg_price": 11800,
+          "avg_price": 11833.333333333334,
           "pricing": [
             {
               "sell_price": 11610,
@@ -12755,16 +12755,16 @@
               "fee_auto": true
             },
             {
-              "sell_price": 11800,
+              "sell_price": 11833.333333333334,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
-              "coupang_fee": 1363,
-              "vat": 1043.7,
-              "net_profit": 9393.3,
+              "coupang_fee": 1367,
+              "vat": 1046.6333333333334,
+              "net_profit": 9419.7,
               "profit_rate": null,
-              "margin_rate": 0.7960423728813558,
+              "margin_rate": 0.7960309859154929,
               "sell_auto": true,
               "fee_auto": true
             }
