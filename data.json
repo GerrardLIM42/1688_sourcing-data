@@ -12789,12 +12789,14 @@
         }
       },
       "notes:custom-1794811712303-914": {
-        "t": 1794811727576,
+        "t": 1794811931031,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
-          "compImgUrls": {},
+          "compImgUrls": {
+            "0": ""
+          },
           "category": "HOME",
           "starred": false,
           "hidden": false
