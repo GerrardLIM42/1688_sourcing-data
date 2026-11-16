@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "14eb1ec0-647b-4a58-af85-6bb5a6f64b8b",
+      "createdAt": 1794869234242,
+      "updatedAt": 1794869234242,
+      "name": "사선컷팅 테이프 클리너",
+      "folder": "사선컷팅 테이프 클리너",
+      "link": "https://detail.1688.com/offer/850182537676.html?spm=a26352.13672862.offerlist.108.696e729fnrbfyR&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6111400478906&trace_log=normal&uuid=512d63f7849242c28565939643f827d0&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S02",
+      "yearlySales": "100000",
+      "sellerYears": "6",
+      "sellerRating": "5",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01UX5hmL25yZ7qlwBge_!!2209837447595-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 10.7,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "생활/주방",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "wingFee": "생활용품>수납/정리|홈 > 가구/수납/정리",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 11000,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "7d7001a3-c622-4593-8160-d3072a2fa469",
+          "name": "크리너 덮개 리필4",
+          "cny": 10.7,
+          "sell": 11000,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01UX5hmL25yZ7qlwBge_!!2209837447595-0-cib.jpg",
+          "inputMode": "sell",
+          "savedMarginPct": null
+        }
+      ]
+    },
+    {
       "id": "4889637a-2d37-4f9d-b342-cefe73453f46",
       "createdAt": 1794869040951,
       "updatedAt": 1794869040951,
