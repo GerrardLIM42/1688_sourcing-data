@@ -12780,7 +12780,7 @@
         }
       },
       "notes:custom-1794811712303-914": {
-        "t": 1794816481648,
+        "t": 1794865440954,
         "v": {
           "status": "관심",
           "memo": "",
@@ -12792,7 +12792,7 @@
             "3": "dsimg:1amg8201wr04pu14jr"
           },
           "category": "HOME",
-          "starred": false,
+          "starred": true,
           "hidden": false
         }
       },
