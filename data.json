@@ -3,7 +3,7 @@
     {
       "id": "2c5ba128-de22-49ec-8aa1-870076dc0e77",
       "createdAt": 1794804484285,
-      "updatedAt": 1794810201172,
+      "updatedAt": 1794804484285,
       "name": "화장실 청소솔",
       "link": "https://detail.1688.com/offer/896558972705.html?kj_agent_plugin=aliprice&fromkv=xytTrace:0bb405a417948043509592428e0e09&token=G36MgCM%2BsdSec2ocSWBGXJiRFipj0YNxLVm%2Bjl2uX%2FIo3xQg2%2BscLwr%2BHAygv7%2Bg",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
@@ -30,7 +30,7 @@
       "rocketSize": "중형 (5kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 10546,
+      "sell": 10700,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -38,10 +38,19 @@
       "repOptionId": null,
       "options": [
         {
+          "id": "9d546348-bb08-4de0-bf36-e3047c685b8e",
+          "name": "",
+          "cny": 6.9,
+          "sell": 10700,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
+          "inputMode": "sell",
+          "savedMarginPct": null
+        },
+        {
           "id": "d0acb1d4-1d0f-46c5-a04e-0176520daf90",
           "name": "청소솔",
           "cny": 6.9,
-          "sell": 10546,
+          "sell": 10500,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
           "inputMode": "margin",
           "savedMarginPct": 25
@@ -50,7 +59,7 @@
           "id": "79e68b96-dac8-42f1-b33d-eabe4374b6e0",
           "name": "청소솔 + 걸이대",
           "cny": 7.2,
-          "sell": 10722,
+          "sell": 10700,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01FpGQI41kHPuhokjqN_!!2217818174658-0-cib.jpg",
           "inputMode": "margin",
           "savedMarginPct": 25
@@ -1631,7 +1640,7 @@
       "repOptionId": null,
       "options": [
         {
-          "id": "07665e0d-2065-4212-84c7-582e1e7f1624",
+          "id": "b3bb7336-6154-445f-8c7b-92c639cf2c8e",
           "name": "",
           "cny": 2.5,
           "sell": 4500,
@@ -4517,7 +4526,7 @@
       "repOptionId": null,
       "options": [
         {
-          "id": "c990a82a-70d8-4306-8e90-3db07014e264",
+          "id": "4327d267-51cd-4a27-9b89-8f1d069579bd",
           "name": "",
           "cny": 21.5,
           "sell": 16300,
@@ -10698,6 +10707,1803 @@
     "이염방지시트",
     "바람막이",
     "다용도 채칼",
-    "검은옷 회복시트"
-  ]
+    "검은옷 회복시트",
+    "바라클라바",
+    "겨울 넥워머"
+  ],
+  "dashboard": {
+    "v": 1,
+    "entries": {
+      "notes:소싱1 무릎보호대(예시)": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": null,
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:지팡이": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:원터치 밀대": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:독서대": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:러닝벨트": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "ACTIVE",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:이염방지시트": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:배변패드": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "PET",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:침낭": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "CAMP",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:캠핑테이블": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "CAMP",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:요가매트": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "ACTIVE",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:분리수거함3개": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:옷걸이": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:수건": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:빨래건조대": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:등산 스틱": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "ACTIVE",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:캠핑의자": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "CAMP",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:텀블러": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:도어스토퍼": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:custom-1785367833186-456": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+          },
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:custom-1785508497541-771": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+          },
+          "category": "CAMP",
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:custom-1785648207408-419": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+          },
+          "category": "CAMP",
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:custom-1785799108571-881": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+          },
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:custom-1785808840361-505": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+          },
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:custom-1786750321901-841": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+          },
+          "category": "HOME",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:custom-1787232586810-19": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+          },
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:custom-1789047386286-209": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": null,
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:custom-1789987205590-433": {
+        "t": 1794810417192,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": ""
+          },
+          "category": "ACTIVE",
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:custom-1790995790315-187": {
+        "t": 1794810417192,
+        "v": {
+          "status": "소싱중",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+          },
+          "category": "ACTIVE",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:custom-1791087407294-647": {
+        "t": 1794810417192,
+        "v": {
+          "status": "소싱중",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+          },
+          "category": "ACTIVE",
+          "starred": false,
+          "hidden": true
+        }
+      },
+      "notes:custom-1791106943522-880": {
+        "t": 1794810417192,
+        "v": {
+          "status": "소싱중",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+          },
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "edits:빨래건조대": {
+        "t": 1794810417192,
+        "v": {
+          "name": "빨래 건조대",
+          "monthly_search": 60070,
+          "competitors": [
+            {
+              "name": "락앤락 튼튼한",
+              "sub": null,
+              "price": 39200,
+              "views_28d": 70391
+            },
+            {
+              "name": "튼튼한 접이식",
+              "sub": "대용량 이불",
+              "price": 37900,
+              "views_28d": 55845
+            },
+            {
+              "name": "흥화신바람",
+              "sub": "튼튼",
+              "price": 21500,
+              "views_28d": 86982
+            },
+            {
+              "name": "New Wirld",
+              "sub": "3단",
+              "price": 35800,
+              "views_28d": 17074
+            }
+          ],
+          "pricing": [
+            {
+              "sell_price": 21500,
+              "china_cost": 26.3,
+              "purchase_cost": 7890,
+              "growth_cost": 2365,
+              "coupang_fee": 2483.25
+            },
+            {
+              "sell_price": 33600,
+              "china_cost": 42.8,
+              "purchase_cost": 12840,
+              "growth_cost": 2585,
+              "coupang_fee": 3880.8
+            },
+            {
+              "sell_price": 39200,
+              "china_cost": 50.7,
+              "purchase_cost": 15210,
+              "growth_cost": 2500,
+              "coupang_fee": 4527.6
+            }
+          ],
+          "sourcing_1688": [
+            {
+              "unit_price": 55,
+              "yearly_sales": 600,
+              "url": "https://detail.1688.com/offer/1004635545850.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=dca563aa18f0454bb5f090175183d506&sessionid=a31e82cfc5094958896d575399129773",
+              "options": "2단 1.6m · 신발 건조"
+            },
+            {
+              "unit_price": 65,
+              "yearly_sales": 11000,
+              "url": "https://detail.1688.com/offer/784815160453.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=4d17d24438024ac18cc7e53e769912cf&sessionid=a31e82cfc5094958896d575399129773",
+              "options": "2단 1.6m · 신발 건조"
+            },
+            {
+              "unit_price": 61,
+              "yearly_sales": 2300,
+              "url": "https://detail.1688.com/offer/941478278038.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=d69e80dc6b2344a28f90944ab914d903&sessionid=a31e82cfc5094958896d575399129773",
+              "options": "3단 1.6m · 신발 건조"
+            },
+            {
+              "unit_price": 57,
+              "yearly_sales": 50,
+              "url": "https://detail.1688.com/offer/1051487716123.html?spm=a26352.b28411319/2508.0.0",
+              "options": "3단 1.6m · 신발 건조"
+            }
+          ],
+          "related_keywords": [
+            "빨래건조대 대형",
+            "빨래건조대 소형",
+            "빨래건조대 특대형",
+            "빨래건조대 중형",
+            "천장형 빨래건조대",
+            "접이식 빨래건조대",
+            "빨래 건조대",
+            "벽부착 빨래건조대",
+            "베란다 빨래건조대",
+            "튼튼한 빨래건조대"
+          ]
+        }
+      },
+      "edits:지팡이": {
+        "t": 1794810417192,
+        "v": {
+          "name": "지팡이",
+          "monthly_search": 9780,
+          "competitors": [
+            {
+              "name": "라온케인",
+              "sub": "네발",
+              "price": 17360,
+              "views_28d": 32741
+            },
+            {
+              "name": "코끼리",
+              "sub": "네발",
+              "price": 21500,
+              "views_28d": 31331
+            },
+            {
+              "name": "코지젠",
+              "sub": "알루미늄",
+              "price": 17800,
+              "views_28d": 20680
+            },
+            {
+              "name": "보행연구소",
+              "sub": "네발",
+              "price": 26800,
+              "views_28d": 18100
+            }
+          ],
+          "pricing": [
+            {
+              "sell_price": 17360,
+              "china_cost": 20.5,
+              "purchase_cost": 6150,
+              "growth_cost": 2365,
+              "coupang_fee": 2005,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 20865,
+              "china_cost": 25,
+              "purchase_cost": 7500,
+              "growth_cost": 2585,
+              "coupang_fee": 2410,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "sourcing_1688": [],
+          "related_keywords": [
+            "어르신 지팡이 여자",
+            "의료용 지팡이",
+            "어르신 지팡이 남자",
+            "지팡이",
+            "지팡이 고무패킹",
+            "환자용 지팡이 여성용",
+            "접이식 지팡이 여성 초경량",
+            "지팡이 우산 남성",
+            "의료용 지팡이 4발",
+            "어르신 지팡이"
+          ]
+        }
+      },
+      "edits:이염방지시트": {
+        "t": 1794810417192,
+        "v": {
+          "name": "이염방지시트",
+          "monthly_search": 7260,
+          "competitors": [
+            {
+              "name": "엔더",
+              "sub": "220매",
+              "price": 6800,
+              "views_28d": 20832
+            },
+            {
+              "name": "퍼플고릴라",
+              "sub": "100매",
+              "price": 9400,
+              "views_28d": 29089
+            },
+            {
+              "name": "닥터베크만",
+              "sub": "50개",
+              "price": 16500,
+              "views_28d": 24022
+            },
+            {
+              "name": "코멧 홈",
+              "sub": "200매",
+              "price": 8990,
+              "views_28d": null
+            }
+          ],
+          "pricing": [
+            {
+              "sell_price": 6800,
+              "china_cost": 2.7,
+              "purchase_cost": 810,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 785
+            },
+            {
+              "sell_price": 9400,
+              "china_cost": 9,
+              "purchase_cost": 2700,
+              "growth_cost": 2585,
+              "coupang_fee": 1085.7
+            }
+          ],
+          "sourcing_1688": [
+            {
+              "unit_price": 2.4,
+              "yearly_sales": 5000,
+              "url": "https://detail.1688.com/offer/728344882780.html?spm=a26352.13672862.offerlist.147.337743d2P4Q3Rn&offerId=728344882780&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5053826345875&trace_log=normal&uuid=25aaccddf12e44e39bcc8f6a2f228c8c&forcePC=1783519350258",
+              "options": "비닐포장, 박스포장 · 100장 · 영문"
+            },
+            {
+              "unit_price": 2.68,
+              "yearly_sales": 100000,
+              "url": "https://detail.1688.com/offer/951770720301.html?spm=a26352.b28411319/2508.0.0",
+              "options": "박스 · 100장 · 한글?"
+            },
+            {
+              "unit_price": 3.9,
+              "yearly_sales": 200,
+              "url": "https://detail.1688.com/offer/968014648787.html?spm=a26352.13672862.offerlist.211.337743d2P4Q3Rn&cosite=-&tracelog=p4p&_p_isad=1&clickid=fb24ddbefd324775914b9fefb82d0496&sessionid=0b4f981efe2443858217ca6b3b25d775",
+              "options": "박스 · 100장 · 영문"
+            },
+            {
+              "unit_price": 2.39,
+              "yearly_sales": 200,
+              "url": "https://detail.1688.com/offer/1028260251244.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=4d995897a5e94e8ea0e9de8678635780&sessionid=d123458bb9ba777ef03f236d203ef093",
+              "options": "박스 · 100장 · 영문 박스"
+            }
+          ],
+          "related_keywords": [
+            "이염방지시트",
+            "세탁 이염 방지 시트 드럼용",
+            "세탁기 이염방지시트지",
+            "아브카 이염방지 먼지흡착 세탁티슈",
+            "이염방지 세탁티슈",
+            "코멧 홈 이염방지 세탁시트 200매",
+            "이염방지 세탁세제",
+            "아기 이염방지시트",
+            "아브카 이염방지",
+            "이염방지 캡슐세제"
+          ]
+        }
+      },
+      "edits:옷걸이": {
+        "t": 1794810417192,
+        "v": {
+          "name": "옷걸이",
+          "monthly_search": 39130,
+          "competitors": [
+            {
+              "name": "덴코 어깨 뿔",
+              "sub": "30개",
+              "price": 8900,
+              "views_28d": 60715
+            },
+            {
+              "name": "리브웍스 논슬립",
+              "sub": "30개",
+              "price": 8900,
+              "views_28d": 16186
+            },
+            {
+              "name": "짐심감성",
+              "sub": 30,
+              "price": 18400,
+              "views_28d": 159848
+            },
+            {
+              "name": "마크곤잘레스",
+              "sub": "20개",
+              "price": 8500,
+              "views_28d": 41861
+            }
+          ],
+          "pricing": [
+            {
+              "sell_price": 8500,
+              "china_cost": 8.14,
+              "purchase_cost": 2442,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 982,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 11175,
+              "china_cost": 11.66,
+              "purchase_cost": 3498,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 1291,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "sourcing_1688": [
+            {
+              "unit_price": 1.38,
+              "yearly_sales": 100000,
+              "url": "https://detail.1688.com/offer/739750055236.html?kj_agent_plugin=aliprice&fromkv=xytTrace:21360a2e17835145497161749e0e21&token=3GWKaKnh75idsYeZE5Tq24X8Fjy6qj1NGQOLCNLlJlJ4hqD%2FjoHW4P%2BRIbupOH0d",
+              "options": "30개 · A"
+            },
+            {
+              "unit_price": 1.2,
+              "yearly_sales": 100000,
+              "url": "https://detail.1688.com/offer/728199871030.html?kj_agent_plugin=aliprice&fromkv=xytTrace:2108837b17835181992234473e0efb&token=pMjQvk9O5n4cEOwCZjUelE01pzcikLB4LObtatBIeJWLxzeaQUZSNvkRtUFegOhx",
+              "options": "30개 · A"
+            },
+            {
+              "unit_price": 1.26,
+              "yearly_sales": 400,
+              "url": "https://detail.1688.com/offer/1029167003536.html?kj_agent_plugin=aliprice&fromkv=xytTrace:21360a2e17835176484468492e0bf0&token=1RMmN3UJLK2%2B5N%2Bo9ZHBfo%2BGvlCJtaVT6tPfGaHxA2CFeXjQfPQI2Wy5Eao8Vz5d",
+              "options": "30개 · B"
+            },
+            {
+              "unit_price": 1.35,
+              "yearly_sales": 58000,
+              "url": "https://detail.1688.com/offer/835624635263.html?kj_agent_plugin=aliprice&fromkv=xytTrace:21360a2e17835176484468492e0bf0&token=mW%2BKnSMgmJjlrNkWO8T8ApZbFDUk9E9O%2FbGdBILHnURNYqI6yuvKrBAKfE0ABswJ",
+              "options": "30개 · B"
+            },
+            {
+              "unit_price": 1.29,
+              "yearly_sales": 100000,
+              "url": "https://detail.1688.com/offer/822831873503.html?kj_agent_plugin=aliprice&fromkv=xytTrace%3A21360a2e17835179530632267e0ea6&token=iLSUcijWNFVtgjowFZXhSqDFilnTcY%2FoiuEnSy3%2BZQ700grzzG95xJ8cErvVxFy7&tracelog=cps&clickid=d616572ca3a53f56939feef31dc01388&targetUrl=https%3A%2F%2Fs.click.1688.com%2Ft%3Fe%3DD2DC7A927D55C03D6511A0CCA913FD65D6FA062685DFF8F7D920A558D1D5758C4B369BE324A83E744B8F19128B0D93E33FB8088B45F57B9E47F28FD2CC0E231B4A1826F29D4B1B9460FEF997084D4D5331EB6FC8DBCADED4C6C8CEEEE21320CC4BD39EA2FE12E3B1757F00B5E40EC1BEBE15E7090D53AF26D41D8E866CA0AA39E6F78A972AB08B4E348394BC3CC3C62B9992F8828C4BE89299DC83A3542AF0EC76EA520B40B60CF9053A27984207EA79F618BE581C1BEB70405A59053DBECA125F4C805E484FA19EA854D42BC781E5821E1553F4924A6C622A3DFE5666FF47A1DB247F939F5DB449E084F14E64BB1154%26cbu_cps_trace_flag%3Dwrite",
+              "options": "30개 · A"
+            }
+          ],
+          "related_keywords": [
+            "옷걸이",
+            "어깨뿔방지 옷걸이",
+            "옷걸이 행거",
+            "스탠드 옷걸이",
+            "옷걸이 구매1위",
+            "공간활용 옷걸이",
+            "옷걸이형 제습제",
+            "논슬립 옷걸이",
+            "어깨뿔방지 논슬립 옷걸이",
+            "옷걸이 봉"
+          ]
+        }
+      },
+      "custom:custom-1785367833186-456": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1785367833186-456",
+          "name": "발매트",
+          "monthly_search": 25140,
+          "competitors": [
+            {
+              "name": "1+1 일상up",
+              "sub": "60*40 2EA",
+              "price": 10800,
+              "views_28d": 106116,
+              "buyers_28d": 1000,
+              "image": null
+            },
+            {
+              "name": "아필코",
+              "sub": "60*40",
+              "price": 3950,
+              "views_28d": 61652,
+              "buyers_28d": 2000,
+              "image": null
+            },
+            {
+              "name": "일상나눔 빨아쓰는",
+              "sub": "60*40",
+              "price": 12240,
+              "views_28d": 42638,
+              "buyers_28d": 1000,
+              "image": null
+            },
+            {
+              "name": "홈싹 빨아쓰는",
+              "sub": "60*40",
+              "price": 5790,
+              "views_28d": 18683,
+              "buyers_28d": 1000,
+              "image": null
+            }
+          ],
+          "lowest_price": 3950,
+          "avg_price": 8195,
+          "pricing": [
+            {
+              "sell_price": 3950,
+              "china_cost": 2.88,
+              "purchase_cost": 864,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 456,
+              "vat": 13,
+              "net_profit": 117,
+              "profit_rate": 0.13541666666666666,
+              "margin_rate": 0.02962025316455696
+            },
+            {
+              "sell_price": 8195,
+              "china_cost": 8.81,
+              "purchase_cost": 2643,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 947,
+              "vat": 210.5,
+              "net_profit": 1894.5,
+              "profit_rate": 0.7167990919409761,
+              "margin_rate": 0.23117754728492984
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 18
+        }
+      },
+      "custom:custom-1785508497541-771": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1785508497541-771",
+          "name": "보냉 가방",
+          "monthly_search": 30560,
+          "competitors": [
+            {
+              "name": "타닥 에센",
+              "sub": "30L",
+              "price": 16900,
+              "views_28d": 243350,
+              "buyers_28d": 1000,
+              "image": null
+            },
+            {
+              "name": "에스테반호프",
+              "sub": "17L",
+              "price": 25790,
+              "views_28d": 25553,
+              "buyers_28d": 500,
+              "image": null
+            },
+            {
+              "name": "DUGN PEVA",
+              "sub": "15L",
+              "price": 22800,
+              "views_28d": 51258,
+              "buyers_28d": 600,
+              "image": null
+            },
+            {
+              "name": "루몬트",
+              "sub": "38*25*28",
+              "price": 10500,
+              "views_28d": 56741,
+              "buyers_28d": 1000,
+              "image": null
+            }
+          ],
+          "lowest_price": 10500,
+          "avg_price": 18997.5,
+          "pricing": [
+            {
+              "sell_price": 10500,
+              "china_cost": 10.72,
+              "purchase_cost": 3216,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 1213,
+              "vat": 357.1,
+              "net_profit": 3213.9,
+              "profit_rate": 0.9993470149253731,
+              "margin_rate": 0.3060857142857143,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 18997.5,
+              "china_cost": 22.58,
+              "purchase_cost": 6775,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 2194,
+              "vat": 752.85,
+              "net_profit": 6775.65,
+              "profit_rate": 1.0000959409594095,
+              "margin_rate": 0.35666008685353334,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 19
+        }
+      },
+      "custom:custom-1785648207408-419": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1785648207408-419",
+          "name": "돗자리",
+          "monthly_search": 27130,
+          "competitors": [
+            {
+              "name": "마술사 휴대용 두터운",
+              "sub": "150*200cm",
+              "price": 19800,
+              "views_28d": 152992,
+              "buyers_28d": 500,
+              "reviews": 2609,
+              "image": null
+            },
+            {
+              "name": "SAMBUEVER 두꺼운",
+              "sub": "145x200cm",
+              "price": 10900,
+              "views_28d": 23504,
+              "buyers_28d": 700,
+              "reviews": 660,
+              "image": null
+            },
+            {
+              "name": "다용도 휴대용",
+              "sub": "200x200cm",
+              "price": 4890,
+              "views_28d": 92581,
+              "buyers_28d": 900,
+              "reviews": 1854,
+              "image": null
+            },
+            {
+              "name": "대형 피크닉매트",
+              "sub": "200x200cm",
+              "price": 22400,
+              "views_28d": 21440,
+              "buyers_28d": 200,
+              "reviews": 21440,
+              "image": null
+            }
+          ],
+          "lowest_price": 4890,
+          "avg_price": 14497.5,
+          "pricing": [
+            {
+              "sell_price": 4890,
+              "china_cost": 2.88,
+              "purchase_cost": 864,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 565,
+              "vat": 96.10000000000001,
+              "net_profit": 864.9,
+              "profit_rate": 1.0010416666666666,
+              "margin_rate": 0.17687116564417177,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 14497.5,
+              "china_cost": 16.3,
+              "purchase_cost": 4890,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 1674,
+              "vat": 543.35,
+              "net_profit": 4890.15,
+              "profit_rate": 1.0000306748466257,
+              "margin_rate": 0.3373098810139679,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 20
+        }
+      },
+      "custom:custom-1785799108571-881": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1785799108571-881",
+          "name": "드로즈 팬티",
+          "monthly_search": 1610,
+          "competitors": [
+            {
+              "name": "맨인핏 10종",
+              "sub": "",
+              "price": 17900,
+              "views_28d": 12851,
+              "buyers_28d": 500,
+              "reviews": 1898,
+              "image": null
+            },
+            {
+              "name": "엘라운지 10",
+              "sub": "",
+              "price": 29900,
+              "views_28d": 22475,
+              "buyers_28d": 400,
+              "reviews": 2436,
+              "image": null
+            },
+            {
+              "name": "인따르시아 드로즈 10종",
+              "sub": "",
+              "price": 18890,
+              "views_28d": 50186,
+              "buyers_28d": 1000,
+              "reviews": 17302,
+              "image": null
+            },
+            {
+              "name": "테라우드 10종",
+              "sub": "",
+              "price": 9450,
+              "views_28d": 23571,
+              "buyers_28d": 700,
+              "reviews": 28830,
+              "image": null
+            }
+          ],
+          "lowest_price": 9450,
+          "avg_price": 19035,
+          "pricing": [
+            {
+              "sell_price": 9450,
+              "china_cost": 9.25,
+              "purchase_cost": 2775,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 1091,
+              "vat": 308.40000000000003,
+              "net_profit": 2775.6,
+              "profit_rate": 1.0002162162162163,
+              "margin_rate": 0.2937142857142857,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 19035,
+              "china_cost": 22.64,
+              "purchase_cost": 6791,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 2199,
+              "vat": 754.5,
+              "net_profit": 6790.5,
+              "profit_rate": 0.9999263731409218,
+              "margin_rate": 0.3567375886524823,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [
+            "남성 드로즈 팬티",
+            "남성 드로즈 팬티 여름용",
+            "남자 드로즈 팬티 100",
+            "남성 드로즈 팬티 115",
+            "주니어 드로즈 팬티 남",
+            "남자 드로즈 팬티 105",
+            "남자 드로즈 팬티 110",
+            "여성 드로즈 팬티",
+            "여아 드로즈 팬티",
+            "남아 드로즈 팬티"
+          ],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 21
+        }
+      },
+      "custom:custom-1785808840361-505": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1785808840361-505",
+          "name": "양말",
+          "monthly_search": 50400,
+          "competitors": [
+            {
+              "name": "두발로 남성 무지 중목 10켤레",
+              "sub": "검정 10켤레",
+              "price": 12900,
+              "views_28d": 62304,
+              "buyers_28d": 5000,
+              "reviews": 32639,
+              "image": null
+            },
+            {
+              "name": "바디인솔 무지 중목",
+              "sub": "20켤레",
+              "price": 9700,
+              "views_28d": 61557,
+              "buyers_28d": 900,
+              "reviews": 10831,
+              "image": null
+            },
+            {
+              "name": "삭스판다",
+              "sub": "20켤레",
+              "price": 9800,
+              "views_28d": 58356,
+              "buyers_28d": 2000,
+              "reviews": 2858,
+              "image": null
+            },
+            {
+              "name": "본베이직",
+              "sub": "12켤레",
+              "price": 11850,
+              "views_28d": 49303,
+              "buyers_28d": 3000,
+              "reviews": 35500,
+              "image": null
+            }
+          ],
+          "lowest_price": 9700,
+          "avg_price": 11062.5,
+          "pricing": [
+            {
+              "sell_price": 3000,
+              "china_cost": 4.19,
+              "purchase_cost": 1257,
+              "growth_cost": 0,
+              "growth_tier": "custom",
+              "coupang_fee": 347,
+              "vat": 139.6,
+              "net_profit": 1256.4,
+              "profit_rate": 0.9995226730310264,
+              "margin_rate": 0.4188,
+              "sell_auto": false,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 11062.5,
+              "china_cost": 11.5,
+              "purchase_cost": 3451,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 1278,
+              "vat": 383.35,
+              "net_profit": 3450.15,
+              "profit_rate": 0.9997536945812808,
+              "margin_rate": 0.31187796610169494,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 22
+        }
+      },
+      "custom:custom-1786750321901-841": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1786750321901-841",
+          "name": "채칼",
+          "monthly_search": 28020,
+          "competitors": [
+            {
+              "name": "김명국 만능",
+              "sub": "판매자 배송",
+              "price": 9800,
+              "views_28d": 41946,
+              "buyers_28d": 1000,
+              "reviews": 171,
+              "image": null
+            },
+            {
+              "name": "독일 3 in 1",
+              "sub": "판매자로켓",
+              "price": 6990,
+              "views_28d": 61522,
+              "buyers_28d": 2000,
+              "reviews": 626,
+              "image": null
+            },
+            {
+              "name": "독일 다기능",
+              "sub": "해외구매대",
+              "price": 9790,
+              "views_28d": 10687,
+              "buyers_28d": 300,
+              "reviews": 890,
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": 9800,
+              "views_28d": 47839,
+              "buyers_28d": 1000,
+              "reviews": 1942,
+              "image": null
+            }
+          ],
+          "lowest_price": 6990,
+          "avg_price": 9095,
+          "pricing": [
+            {
+              "sell_price": 6990,
+              "china_cost": 5.82,
+              "purchase_cost": 1745,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 807,
+              "vat": 193.8,
+              "net_profit": 1744.2,
+              "profit_rate": 0.999541547277937,
+              "margin_rate": 0.24952789699570815,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 9095,
+              "china_cost": 10.92,
+              "purchase_cost": 3276,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 1050,
+              "vat": 226.9,
+              "net_profit": 2042.1,
+              "profit_rate": 0.6233516483516484,
+              "margin_rate": 0.2245299615173172,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [
+            "다용도 채칼 국내산",
+            "다용도 채칼판매1위",
+            "다용도 채칼 탈수기",
+            "독일 다용도 채칼",
+            "독일 채칼 만능채칼",
+            "국산다용도채칼(강판+채칼)",
+            "다용도 만능 멀티 채칼",
+            "스테인리스 다용도 채칼",
+            "다용도 채칼세트",
+            "다용도 슬라이스 채칼"
+          ],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 23
+        }
+      },
+      "custom:custom-1787232586810-19": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1787232586810-19",
+          "name": "바람막이",
+          "monthly_search": null,
+          "competitors": [
+            {
+              "name": "리듬 바람막이",
+              "sub": "M ~ 6XL 4색",
+              "price": 12900,
+              "views_28d": 21878,
+              "buyers_28d": 2000,
+              "reviews": 2557,
+              "image": null
+            },
+            {
+              "name": "UPPERCUT 공용",
+              "sub": "S ~ 4XL 9색상",
+              "price": 19900,
+              "views_28d": 12817,
+              "buyers_28d": 1000,
+              "reviews": 2005,
+              "image": null
+            },
+            {
+              "name": "디디오 초경량 후드",
+              "sub": "S ~ XL 4색상",
+              "price": 19800,
+              "views_28d": 28182,
+              "buyers_28d": 300,
+              "reviews": 419,
+              "image": null
+            },
+            {
+              "name": "세계일주 초경량",
+              "sub": "M ~ 4XL 블랙",
+              "price": 20580,
+              "views_28d": 17080,
+              "buyers_28d": 700,
+              "reviews": 858,
+              "image": null
+            }
+          ],
+          "lowest_price": 12900,
+          "avg_price": 18295,
+          "pricing": [
+            {
+              "sell_price": 9900,
+              "china_cost": 9.88,
+              "purchase_cost": 2964,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 1143,
+              "vat": 329.3,
+              "net_profit": 2963.7,
+              "profit_rate": 0.9998987854251011,
+              "margin_rate": 0.29936363636363633,
+              "sell_auto": false,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 18295,
+              "china_cost": 21.6,
+              "purchase_cost": 6481,
+              "growth_cost": 2500,
+              "growth_tier": "s",
+              "coupang_fee": 2113,
+              "vat": 720.1,
+              "net_profit": 6480.9,
+              "profit_rate": 0.9999845702823638,
+              "margin_rate": 0.35424432905165343,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 24
+        }
+      },
+      "custom:custom-1789047386286-209": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1789047386286-209",
+          "name": "빅사이즈 모",
+          "monthly_search": null,
+          "competitors": [
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "image": null
+            }
+          ],
+          "lowest_price": null,
+          "avg_price": null,
+          "pricing": [
+            {
+              "sell_price": null,
+              "china_cost": null,
+              "purchase_cost": null,
+              "growth_cost": null,
+              "growth_tier": null,
+              "coupang_fee": null,
+              "vat": 0,
+              "net_profit": 0,
+              "profit_rate": null,
+              "margin_rate": null,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": null,
+              "china_cost": null,
+              "purchase_cost": null,
+              "growth_cost": null,
+              "growth_tier": null,
+              "coupang_fee": null,
+              "vat": 0,
+              "net_profit": 0,
+              "profit_rate": null,
+              "margin_rate": null,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 25
+        }
+      },
+      "custom:custom-1789987205590-433": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1789987205590-433",
+          "name": "언더 티셔츠",
+          "monthly_search": null,
+          "competitors": [
+            {
+              "name": "반목터틀",
+              "sub": "L - 3XL",
+              "price": 11900,
+              "views_28d": 49487,
+              "buyers_28d": 1000,
+              "reviews": 3244,
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "85 - 120",
+              "price": 17510,
+              "views_28d": 73928,
+              "buyers_28d": 1000,
+              "reviews": 52503,
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": 9890,
+              "views_28d": 153923,
+              "buyers_28d": 2000,
+              "reviews": 9280,
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "image": null
+            }
+          ],
+          "lowest_price": 9890,
+          "avg_price": 13100,
+          "pricing": [
+            {
+              "sell_price": 9890,
+              "china_cost": 10.97,
+              "purchase_cost": 3291,
+              "growth_cost": 1800,
+              "growth_tier": "xs",
+              "coupang_fee": 1142,
+              "vat": 365.70000000000005,
+              "net_profit": 3291.3,
+              "profit_rate": 1.000091157702826,
+              "margin_rate": 0.3327906976744186,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 13100,
+              "china_cost": 15.45,
+              "purchase_cost": 4636,
+              "growth_cost": 1800,
+              "growth_tier": "xs",
+              "coupang_fee": 1513,
+              "vat": 515.1,
+              "net_profit": 4635.9,
+              "profit_rate": 0.9999784296807592,
+              "margin_rate": 0.3538854961832061,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 26
+        }
+      },
+      "custom:custom-1790995790315-187": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1790995790315-187",
+          "name": "바라클라바",
+          "monthly_search": null,
+          "competitors": [
+            {
+              "name": "겨울 방한 기모",
+              "sub": "블랙 1+1",
+              "price": 11800,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": 1166,
+              "image": null
+            },
+            {
+              "name": "겨울 방하 라바클라바",
+              "sub": "블랙 1+1",
+              "price": 19900,
+              "views_28d": null,
+              "buyers_28d": 500,
+              "reviews": 2471,
+              "image": null
+            },
+            {
+              "name": "숨쉬기 편한",
+              "sub": "1+1",
+              "price": 14800,
+              "views_28d": null,
+              "buyers_28d": 300,
+              "reviews": 135,
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "판매자 배송",
+              "price": 16110,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": 35,
+              "image": null
+            }
+          ],
+          "lowest_price": 11800,
+          "avg_price": 15652.5,
+          "pricing": [
+            {
+              "sell_price": 11800,
+              "china_cost": 13.64,
+              "purchase_cost": 4092,
+              "growth_cost": 1800,
+              "growth_tier": "xs",
+              "coupang_fee": 1363,
+              "vat": 454.5,
+              "net_profit": 4090.5,
+              "profit_rate": 0.999633431085044,
+              "margin_rate": 0.34665254237288134,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 15652.5,
+              "china_cost": 19.02,
+              "purchase_cost": 5705,
+              "growth_cost": 1800,
+              "growth_tier": "xs",
+              "coupang_fee": 1808,
+              "vat": 633.95,
+              "net_profit": 5705.55,
+              "profit_rate": 1.0000964066608238,
+              "margin_rate": 0.3645136559655007,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 27
+        }
+      },
+      "custom:custom-1791087407294-647": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1791087407294-647",
+          "name": "겨울 넥워머",
+          "monthly_search": null,
+          "competitors": [
+            {
+              "name": "K2",
+              "sub": "",
+              "price": 14000,
+              "views_28d": null,
+              "buyers_28d": 200,
+              "reviews": 8356,
+              "image": null
+            },
+            {
+              "name": "글램가드 1+1",
+              "sub": "",
+              "price": 9800,
+              "views_28d": null,
+              "buyers_28d": 100,
+              "reviews": 1716,
+              "image": null
+            },
+            {
+              "name": "1+1+1",
+              "sub": "",
+              "price": 9900,
+              "views_28d": null,
+              "buyers_28d": 100,
+              "reviews": 179,
+              "image": null
+            },
+            {
+              "name": "1+1",
+              "sub": "블랙 그레이",
+              "price": 9400,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": 1269,
+              "image": null
+            }
+          ],
+          "lowest_price": 9400,
+          "avg_price": 10775,
+          "pricing": [
+            {
+              "sell_price": 9400,
+              "china_cost": 10.29,
+              "purchase_cost": 3086,
+              "growth_cost": 1800,
+              "growth_tier": "xs",
+              "coupang_fee": 1086,
+              "vat": 342.8,
+              "net_profit": 3085.2,
+              "profit_rate": 0.9997407647440051,
+              "margin_rate": 0.3282127659574468,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 10775,
+              "china_cost": 12.21,
+              "purchase_cost": 3662,
+              "growth_cost": 1800,
+              "growth_tier": "xs",
+              "coupang_fee": 1245,
+              "vat": 406.8,
+              "net_profit": 3661.2,
+              "profit_rate": 0.9997815401419988,
+              "margin_rate": 0.33978654292343385,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 28
+        }
+      },
+      "custom:custom-1791106943522-880": {
+        "t": 1794810417192,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1791106943522-880",
+          "name": "수면양말",
+          "monthly_search": null,
+          "competitors": [
+            {
+              "name": "털 빠짐 없는 4P",
+              "sub": "",
+              "price": 8900,
+              "views_28d": 18741,
+              "buyers_28d": 1000,
+              "reviews": 3487,
+              "image": null
+            },
+            {
+              "name": "털 빠짐 없는 4켤레",
+              "sub": "",
+              "price": 9800,
+              "views_28d": 13102,
+              "buyers_28d": 800,
+              "reviews": 3925,
+              "image": null
+            },
+            {
+              "name": "무압박 4족세트",
+              "sub": "",
+              "price": 12900,
+              "views_28d": 7670,
+              "buyers_28d": 200,
+              "reviews": 3351,
+              "image": null
+            },
+            {
+              "name": "털 빠짐 없는 무압박",
+              "sub": "",
+              "price": 11900,
+              "views_28d": 12904,
+              "buyers_28d": 900,
+              "reviews": 454,
+              "image": null
+            }
+          ],
+          "lowest_price": 8900,
+          "avg_price": 10875,
+          "pricing": [
+            {
+              "sell_price": 8900,
+              "china_cost": 8.99,
+              "purchase_cost": 2876,
+              "growth_cost": 1800,
+              "growth_tier": "xs",
+              "coupang_fee": 1028,
+              "vat": 319.6,
+              "net_profit": 2876.4,
+              "profit_rate": 1.0001390820584144,
+              "margin_rate": 0.32319101123595506,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 10875,
+              "china_cost": 11.58,
+              "purchase_cost": 3704,
+              "growth_cost": 1800,
+              "growth_tier": "xs",
+              "coupang_fee": 1256,
+              "vat": 411.5,
+              "net_profit": 3703.5,
+              "profit_rate": 0.999865010799136,
+              "margin_rate": 0.34055172413793106,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": []
+        }
+      }
+    }
+  }
 }
