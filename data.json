@@ -12693,7 +12693,7 @@
         }
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794812978218,
+        "t": 1794813017259,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -12728,17 +12728,17 @@
               "image": null
             },
             {
-              "name": "",
+              "name": "핸들 + 거치대 + 리필 2p",
               "sub": "",
-              "price": null,
+              "price": 16900,
               "views_28d": 7542,
               "buyers_28d": 1000,
-              "reviews": null,
+              "reviews": 762,
               "image": null
             }
           ],
           "lowest_price": 11610,
-          "avg_price": 12060,
+          "avg_price": 13270,
           "pricing": [
             {
               "sell_price": 11610,
@@ -12755,16 +12755,16 @@
               "fee_auto": true
             },
             {
-              "sell_price": 12060,
+              "sell_price": 13270,
               "china_cost": 11.79,
               "purchase_cost": 3774,
               "growth_cost": 2500,
               "growth_tier": "s",
-              "coupang_fee": 1393,
-              "vat": 439.3,
-              "net_profit": 3953.7,
-              "profit_rate": 1.0476152623211445,
-              "margin_rate": 0.3278358208955224,
+              "coupang_fee": 1533,
+              "vat": 546.3000000000001,
+              "net_profit": 4916.7,
+              "profit_rate": 1.3027821939586646,
+              "margin_rate": 0.3705124340617935,
               "sell_auto": true,
               "fee_auto": true
             }
@@ -12789,7 +12789,7 @@
         }
       },
       "notes:custom-1794811712303-914": {
-        "t": 1794812387533,
+        "t": 1794812994867,
         "v": {
           "status": "관심",
           "memo": "",
@@ -12797,7 +12797,8 @@
           "compImgUrls": {
             "0": "",
             "1": "",
-            "2": ""
+            "2": "",
+            "3": ""
           },
           "category": "HOME",
           "starred": false,
