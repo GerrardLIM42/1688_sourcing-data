@@ -12693,7 +12693,7 @@
         }
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794812861833,
+        "t": 1794812875787,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -12703,7 +12703,7 @@
             {
               "name": "핸들 + 거치대 + 리필 10개",
               "sub": "",
-              "price": 11990,
+              "price": 12670,
               "views_28d": null,
               "buyers_28d": 6000,
               "reviews": 35410,
@@ -12738,7 +12738,7 @@
             }
           ],
           "lowest_price": 11610,
-          "avg_price": 11833.333333333334,
+          "avg_price": 12060,
           "pricing": [
             {
               "sell_price": 11610,
@@ -12755,16 +12755,16 @@
               "fee_auto": true
             },
             {
-              "sell_price": 11833.333333333334,
+              "sell_price": 12060,
               "china_cost": 11.79,
               "purchase_cost": 3774,
               "growth_cost": 2500,
               "growth_tier": "s",
-              "coupang_fee": 1367,
-              "vat": 419.2333333333334,
-              "net_profit": 3773.1000000000004,
-              "profit_rate": 0.9997615262321146,
-              "margin_rate": 0.3188535211267606,
+              "coupang_fee": 1393,
+              "vat": 439.3,
+              "net_profit": 3953.7,
+              "profit_rate": 1.0476152623211445,
+              "margin_rate": 0.3278358208955224,
               "sell_auto": true,
               "fee_auto": true
             }
