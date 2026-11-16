@@ -11050,7 +11050,7 @@
         }
       },
       "notes:custom-1789047386286-209": {
-        "t": 1794810490156,
+        "t": 1794811633957,
         "v": {
           "status": "관심",
           "memo": "",
@@ -11058,7 +11058,8 @@
           "compImgUrls": {},
           "category": null,
           "starred": false,
-          "hidden": false
+          "hidden": true,
+          "deleted": true
         }
       },
       "notes:custom-1789987205590-433": {
@@ -12081,89 +12082,8 @@
         }
       },
       "custom:custom-1789047386286-209": {
-        "t": 1794810490156,
-        "v": {
-          "_isCustom": true,
-          "sheet": "custom-1789047386286-209",
-          "name": "빅사이즈 모",
-          "monthly_search": null,
-          "competitors": [
-            {
-              "name": "",
-              "sub": "",
-              "price": null,
-              "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
-              "image": null
-            },
-            {
-              "name": "",
-              "sub": "",
-              "price": null,
-              "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
-              "image": null
-            },
-            {
-              "name": "",
-              "sub": "",
-              "price": null,
-              "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
-              "image": null
-            },
-            {
-              "name": "",
-              "sub": "",
-              "price": null,
-              "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
-              "image": null
-            }
-          ],
-          "lowest_price": null,
-          "avg_price": null,
-          "pricing": [
-            {
-              "sell_price": null,
-              "china_cost": null,
-              "purchase_cost": null,
-              "growth_cost": null,
-              "growth_tier": null,
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
-              "profit_rate": null,
-              "margin_rate": null,
-              "sell_auto": true,
-              "fee_auto": true
-            },
-            {
-              "sell_price": null,
-              "china_cost": null,
-              "purchase_cost": null,
-              "growth_cost": null,
-              "growth_tier": null,
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
-              "profit_rate": null,
-              "margin_rate": null,
-              "sell_auto": true,
-              "fee_auto": true
-            }
-          ],
-          "target_sourcing_price": null,
-          "sourcing_1688": [],
-          "related_keywords": [],
-          "sourcing_note": null,
-          "extra_images": [],
-          "_id": 25
-        }
+        "t": 1794811633959,
+        "v": null
       },
       "custom:custom-1789987205590-433": {
         "t": 1794810490156,
@@ -12421,7 +12341,7 @@
         }
       },
       "custom:custom-1791106943522-880": {
-        "t": 1794810490156,
+        "t": 1794811633959,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1791106943522-880",
@@ -12501,7 +12421,8 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": []
+          "extra_images": [],
+          "_id": 29
         }
       },
       "notes:custom-1794803960867-999": {
@@ -12522,7 +12443,7 @@
         }
       },
       "custom:custom-1794803960867-999": {
-        "t": 1794810438344,
+        "t": 1794811633959,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794803960867-999",
@@ -12602,7 +12523,8 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": []
+          "extra_images": [],
+          "_id": 30
         }
       }
     }
