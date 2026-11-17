@@ -11834,7 +11834,7 @@
         }
       },
       "notes:옷걸이": {
-        "t": 1794907963722,
+        "t": 1794910791315,
         "v": {
           "status": "관심",
           "memo": "",
@@ -11844,7 +11844,7 @@
             "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/awl3sumg/67fd33a5a2a64e82855c1a8fe2af42cb.jpg"
           },
           "category": "HOME",
-          "starred": false,
+          "starred": true,
           "hidden": false
         }
       },
