@@ -13664,7 +13664,7 @@
         }
       },
       "notes:custom-1794900395639-529": {
-        "t": 1794900533034,
+        "t": 1794900609380,
         "v": {
           "status": "관심",
           "memo": "",
@@ -13672,7 +13672,8 @@
           "compImgUrls": {
             "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/2e89/1944fdd309b84eebebf793930c502c56a127706b64e89d097045705615f3.jpg",
             "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/ac1d98cc70d7f8289d7bb5bdca3d1586d98f6b5fbb5c94366b161926ba31_1787035868236.jpg",
-            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3d94/1342e5b82b32837da771148142fba4fbb04172f5a504f6ac30addf350d91.jpg"
+            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3d94/1342e5b82b32837da771148142fba4fbb04172f5a504f6ac30addf350d91.jpg",
+            "3": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/08/25/10/9/21ca20af-9507-4374-9f2e-8a6f18ea6086.jpg"
           },
           "category": "HOME",
           "starred": false,
