@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "68600351-5d34-44c1-909f-55e9761f657e",
+      "createdAt": 1794909734560,
+      "updatedAt": 1794909734560,
+      "name": "옷걸이",
+      "folder": "옷걸이",
+      "link": "https://detail.1688.com/offer/951388164813.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=c8b063663096441e9f50b560c9b37946&sessionid=65a6510e86334ddd8ed9377144ee0784&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04",
+      "yearlySales": "35000",
+      "sellerYears": "3",
+      "sellerRating": "4.5",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01AuTTh428UkFZcIc7l_!!2217705137936-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 3,
+      "cny": 2.16,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "W|생활용품>수납/정리|홈 > 가구/수납/정리",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "중형 (5kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 9590,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "6dbcf3f3-3c5a-4724-ba2b-d8688742acdf",
+          "name": "화이트 블루 38g",
+          "cny": 2.16,
+          "sell": 9590,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01AuTTh428UkFZcIc7l_!!2217705137936-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "353c3cfc-d7c2-4a3a-b88f-e223046acb6f",
       "createdAt": 1794909561024,
       "updatedAt": 1794909561024,
