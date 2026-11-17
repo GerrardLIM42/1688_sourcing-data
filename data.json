@@ -12182,15 +12182,15 @@
         }
       },
       "edits:옷걸이": {
-        "t": 1794907487633,
+        "t": 1794907492412,
         "v": {
           "name": "옷걸이",
           "monthly_search": 39130,
           "competitors": [
             {
-              "name": "코멧 논슬",
+              "name": "코멧 논슬립 그레이",
               "sub": "30개",
-              "price": 8900,
+              "price": 15990,
               "views_28d": 60715,
               "url": ""
             },
@@ -12230,14 +12230,14 @@
               "fee_auto": true
             },
             {
-              "sell_price": 11175,
+              "sell_price": 12947.5,
               "china_cost": 11.66,
               "purchase_cost": 3498,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1291,
+              "coupang_fee": 1495,
               "sell_auto": true,
               "fee_auto": true
             }
