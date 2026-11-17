@@ -13053,7 +13053,7 @@
         }
       },
       "custom:custom-1794803960867-999": {
-        "t": 1794881661369,
+        "t": 1794881670933,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794803960867-999",
@@ -13102,33 +13102,33 @@
           "pricing": [
             {
               "sell_price": 6900,
-              "china_cost": 5.69,
-              "purchase_cost": 1707,
+              "china_cost": 3.04,
+              "purchase_cost": 911,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "생활용품>청소용품|홈 > 욕실용품",
               "coupang_fee": 797,
-              "vat": 112.10000000000001,
-              "net_profit": 1008.9,
-              "profit_rate": 0.59103690685413,
-              "margin_rate": 0.14621739130434783,
+              "vat": 191.70000000000002,
+              "net_profit": 1725.3,
+              "profit_rate": 1.893852908891328,
+              "margin_rate": 0.25004347826086953,
               "sell_auto": true,
               "fee_auto": true
             },
             {
               "sell_price": 7900,
-              "china_cost": 7.09,
-              "purchase_cost": 2126,
+              "china_cost": 5.06,
+              "purchase_cost": 1519,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "생활용품>청소용품|홈 > 욕실용품",
               "coupang_fee": 912,
-              "vat": 158.70000000000002,
-              "net_profit": 1428.3,
-              "profit_rate": 0.6718250235183443,
-              "margin_rate": 0.18079746835443036,
+              "vat": 219.4,
+              "net_profit": 1974.6,
+              "profit_rate": 1.299934167215273,
+              "margin_rate": 0.24994936708860757,
               "sell_auto": false,
               "fee_auto": true
             }
