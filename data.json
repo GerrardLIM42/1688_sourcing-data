@@ -11642,13 +11642,14 @@
         }
       },
       "notes:옷걸이": {
-        "t": 1794907480818,
+        "t": 1794907963722,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
           "compImgUrls": {
-            "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/61632347545112-f0d7f24d-0974-4d7b-86c9-88cb2ebaba59.jpg"
+            "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/61632347545112-f0d7f24d-0974-4d7b-86c9-88cb2ebaba59.jpg",
+            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/awl3sumg/67fd33a5a2a64e82855c1a8fe2af42cb.jpg"
           },
           "category": "HOME",
           "starred": false,
