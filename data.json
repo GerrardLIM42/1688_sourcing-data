@@ -13473,7 +13473,7 @@
         }
       },
       "custom:custom-1794886751556-592": {
-        "t": 1794887593935,
+        "t": 1794887309723,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794886751556-592",
@@ -13528,15 +13528,15 @@
               "sell_price": 8890,
               "china_cost": 6.98,
               "purchase_cost": 2093,
-              "growth_cost": 4100,
+              "growth_cost": 3350,
               "growth_tier": "m",
-              "fee_cat": "가전/디지털",
-              "wing_fee": "가전/디지털>컴퓨터/게임/SW|컴퓨터/디지털 > 노트북/데스크탑",
-              "coupang_fee": 960,
-              "vat": 173.70000000000002,
-              "net_profit": 1563.3,
-              "profit_rate": 0.7469182990922121,
-              "margin_rate": 0.17584926884139482,
+              "fee_cat": "생활/주방",
+              "wing_fee": "생활용품>화장지/물티슈|하우스홀드 > 화장지",
+              "coupang_fee": 978,
+              "vat": 246.9,
+              "net_profit": 2222.1,
+              "profit_rate": 1.0616817964644052,
+              "margin_rate": 0.24995500562429696,
               "sell_auto": true,
               "fee_auto": true
             },
