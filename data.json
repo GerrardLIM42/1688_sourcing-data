@@ -395,7 +395,7 @@
     {
       "id": "2c5ba128-de22-49ec-8aa1-870076dc0e77",
       "createdAt": 1794804484285,
-      "updatedAt": 1794804484285,
+      "updatedAt": 1794881741040,
       "name": "화장실 청소솔",
       "link": "https://detail.1688.com/offer/896558972705.html?kj_agent_plugin=aliprice&fromkv=xytTrace:0bb405a417948043509592428e0e09&token=G36MgCM%2BsdSec2ocSWBGXJiRFipj0YNxLVm%2Bjl2uX%2FIo3xQg2%2BscLwr%2BHAygv7%2Bg",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
@@ -431,22 +431,13 @@
       "repOptionId": null,
       "options": [
         {
-          "id": "9d546348-bb08-4de0-bf36-e3047c685b8e",
-          "name": "",
-          "cny": 6.9,
-          "sell": 7900,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
-          "inputMode": "sell",
-          "savedMarginPct": null
-        },
-        {
           "id": "d0acb1d4-1d0f-46c5-a04e-0176520daf90",
           "name": "청소솔",
           "cny": 6.9,
           "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
           "inputMode": "sell",
-          "savedMarginPct": 25
+          "savedMarginPct": null
         },
         {
           "id": "79e68b96-dac8-42f1-b33d-eabe4374b6e0",
@@ -455,7 +446,7 @@
           "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01FpGQI41kHPuhokjqN_!!2217818174658-0-cib.jpg",
           "inputMode": "sell",
-          "savedMarginPct": 25
+          "savedMarginPct": null
         }
       ]
     },
