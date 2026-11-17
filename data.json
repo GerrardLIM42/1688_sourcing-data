@@ -13679,7 +13679,7 @@
         }
       },
       "custom:custom-1794900395639-529": {
-        "t": 1794900470818,
+        "t": 1794900487715,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794900395639-529",
@@ -13699,9 +13699,9 @@
             {
               "name": "",
               "sub": "",
-              "price": null,
+              "price": 9900,
               "views_28d": null,
-              "buyers_28d": null,
+              "buyers_28d": 3000,
               "reviews": null,
               "url": "https://www.coupang.com/vp/products/8997947673?itemId=26365231207&vendorItemId=95787269581&q=%EC%8A%A4%ED%85%90+%EC%82%AC%EA%B0%81+%EC%84%A4%EA%B1%B0%EC%A7%80%ED%86%B5&searchId=e803d0699131867&sourceType=search&rank=1&itemsCount=36&searchRank=1&traceId=mwkdc04c",
               "image": null
@@ -13727,38 +13727,38 @@
               "image": null
             }
           ],
-          "lowest_price": 9980,
-          "avg_price": 9980,
+          "lowest_price": 9900,
+          "avg_price": 9940,
           "pricing": [
             {
-              "sell_price": 9980,
+              "sell_price": 9900,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1153,
-              "vat": 882.7,
-              "net_profit": 7944.3,
+              "coupang_fee": 1143,
+              "vat": 875.7,
+              "net_profit": 7881.3,
               "profit_rate": null,
-              "margin_rate": 0.7960220440881763,
+              "margin_rate": 0.7960909090909091,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 9980,
+              "sell_price": 9940,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1153,
-              "vat": 882.7,
-              "net_profit": 7944.3,
+              "coupang_fee": 1148,
+              "vat": 879.2,
+              "net_profit": 7912.8,
               "profit_rate": null,
-              "margin_rate": 0.7960220440881763,
+              "margin_rate": 0.796056338028169,
               "sell_auto": true,
               "fee_auto": true
             }
