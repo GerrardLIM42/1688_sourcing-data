@@ -13079,16 +13079,16 @@
         }
       },
       "notes:custom-1794803960867-999": {
-        "t": 1794810438344,
+        "t": 1794881643355,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
           "compImgUrls": {
-            "0": "",
-            "1": "",
-            "2": "",
-            "3": ""
+            "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/17fd/88e4d4df93bb77881803ac0e4395966851b09ccc303303a0accad15b766d.png",
+            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4d96/7214da8ec724ad5c8c619983a56641e083b7ab009cfdd370d31fddb377f8.png",
+            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f85a/3e716e7a2f1d029bc4f11c7eab970e47829ed03882b72615ee003ae89e3a.png",
+            "3": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/79a0/3ffabf4eea5232ff785e1eafd9aa18e9b12d802f40b3d9be22a1fad84398.png"
           },
           "category": "HOME",
           "starred": false,
@@ -13096,7 +13096,7 @@
         }
       },
       "custom:custom-1794803960867-999": {
-        "t": 1794818524042,
+        "t": 1794881670933,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794803960867-999",
@@ -13127,7 +13127,7 @@
               "price": 7600,
               "views_28d": 21935,
               "buyers_28d": 1000,
-              "reviews": 822,
+              "reviews": 852,
               "image": null
             },
             {
@@ -13136,7 +13136,7 @@
               "price": 7900,
               "views_28d": 19843,
               "buyers_28d": 1000,
-              "reviews": 879,
+              "reviews": 885,
               "image": null
             }
           ],
@@ -13145,29 +13145,33 @@
           "pricing": [
             {
               "sell_price": 6900,
-              "china_cost": 5.69,
-              "purchase_cost": 1707,
+              "china_cost": 3.04,
+              "purchase_cost": 911,
               "growth_cost": 3275,
               "growth_tier": "s",
+              "fee_cat": "",
+              "wing_fee": "생활용품>청소용품|홈 > 욕실용품",
               "coupang_fee": 797,
-              "vat": 112.10000000000001,
-              "net_profit": 1008.9,
-              "profit_rate": 0.59103690685413,
-              "margin_rate": 0.14621739130434783,
+              "vat": 191.70000000000002,
+              "net_profit": 1725.3,
+              "profit_rate": 1.893852908891328,
+              "margin_rate": 0.25004347826086953,
               "sell_auto": true,
               "fee_auto": true
             },
             {
               "sell_price": 7900,
-              "china_cost": 7.09,
-              "purchase_cost": 2126,
+              "china_cost": 5.06,
+              "purchase_cost": 1519,
               "growth_cost": 3275,
               "growth_tier": "s",
+              "fee_cat": "",
+              "wing_fee": "생활용품>청소용품|홈 > 욕실용품",
               "coupang_fee": 912,
-              "vat": 158.70000000000002,
-              "net_profit": 1428.3,
-              "profit_rate": 0.6718250235183443,
-              "margin_rate": 0.18079746835443036,
+              "vat": 219.4,
+              "net_profit": 1974.6,
+              "profit_rate": 1.299934167215273,
+              "margin_rate": 0.24994936708860757,
               "sell_auto": false,
               "fee_auto": true
             }
@@ -13176,8 +13180,7 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": [],
-          "_id": 29
+          "extra_images": []
         }
       },
       "custom:custom-1794811711202-754": {
@@ -13185,7 +13188,7 @@
         "v": null
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794833730721,
+        "t": 1794881611176,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -13269,7 +13272,8 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": []
+          "extra_images": [],
+          "_id": 30
         }
       },
       "notes:custom-1794811711202-754": {
@@ -13303,7 +13307,7 @@
         }
       },
       "edits:수건": {
-        "t": 1794883069963,
+        "t": 1794824891562,
         "v": {
           "name": "수건",
           "monthly_search": 62300,
@@ -13312,29 +13316,25 @@
               "name": "연화삼월 40수",
               "sub": "10개",
               "price": 19800,
-              "views_28d": 61799,
-              "url": ""
+              "views_28d": 61799
             },
             {
               "name": "SEVOREN",
               "sub": "10ro",
               "price": 21900,
-              "views_28d": 13259,
-              "url": ""
+              "views_28d": 13259
             },
             {
               "name": "LUNOO 40수",
               "sub": "10개",
               "price": 19900,
-              "views_28d": 59812,
-              "url": ""
+              "views_28d": 59812
             },
             {
               "name": "록신 40수",
               "sub": "10개",
               "price": 26700,
-              "views_28d": 17156,
-              "url": ""
+              "views_28d": 17156
             }
           ],
           "pricing": [
