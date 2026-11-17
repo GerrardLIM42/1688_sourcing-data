@@ -13096,7 +13096,7 @@
         }
       },
       "custom:custom-1794803960867-999": {
-        "t": 1794881670933,
+        "t": 1794883234267,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794803960867-999",
@@ -13110,6 +13110,7 @@
               "views_28d": 50568,
               "buyers_28d": 3000,
               "reviews": 2116,
+              "url": "",
               "image": null
             },
             {
@@ -13119,6 +13120,7 @@
               "views_28d": 19641,
               "buyers_28d": 1000,
               "reviews": 430,
+              "url": "",
               "image": null
             },
             {
@@ -13128,6 +13130,7 @@
               "views_28d": 21935,
               "buyers_28d": 1000,
               "reviews": 852,
+              "url": "https://www.coupang.com/vp/products/9593323236?itemId=28637768763&vendorItemId=95975338496&q=%EC%9A%95%EC%8B%A4+%EB%B0%94%EB%8B%A5+%EC%B2%AD%EC%86%8C%EC%86%94&searchId=5c4ff44d923763&sourceType=search&rank=5&itemsCount=36&searchRank=5&traceId=mwk25x1d",
               "image": null
             },
             {
@@ -13137,6 +13140,7 @@
               "views_28d": 19843,
               "buyers_28d": 1000,
               "reviews": 885,
+              "url": "",
               "image": null
             }
           ],
