@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "15f3d671-5f88-4752-b6f5-c89454d8d30a",
+      "createdAt": 1794877593178,
+      "updatedAt": 1794877593178,
+      "name": "사선컷팅 테이프 클리너",
+      "folder": "사선컷팅 테이프 클리너",
+      "link": "https://detail.1688.com/offer/867437445822.html?spm=a26352.13672862.offerlist.160.14611e62prBhHo&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6225369834417&trace_log=normal&uuid=54f4d1789e494892b1322413da87e3f0&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S02",
+      "yearlySales": "50",
+      "sellerYears": "6",
+      "sellerRating": "5",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SGJccw25yZ8tCLuSU_!!2209837447595-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 10.3,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "W|생활용품>청소용품|홈 > 욕실용품",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 11000,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "cc6a8ce3-1050-43e5-abff-7e445dd5fb7e",
+          "name": "클리너 커버 리필 4개",
+          "cny": 10.3,
+          "sell": 11000,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SGJccw25yZ8tCLuSU_!!2209837447595-0-cib.jpg",
+          "inputMode": "sell",
+          "savedMarginPct": null
+        }
+      ]
+    },
+    {
       "id": "14eb1ec0-647b-4a58-af85-6bb5a6f64b8b",
       "createdAt": 1794869234242,
       "updatedAt": 1794869234242,
