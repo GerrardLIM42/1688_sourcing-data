@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "178dbcfa-bb30-436b-9d6a-c7645c013f96",
+      "createdAt": 1794882304706,
+      "updatedAt": 1794882304706,
+      "name": "화장실 청소솔",
+      "folder": "화장실 청소솔",
+      "link": "https://detail.1688.com/offer/942807244135.html?kj_agent_plugin=aliprice&fromkv=xytTrace:0bb405a417948816900082905e0ca4&token=sVswhy8o6AQMDE00nYHxKGCA0cpZEzuJFsFz6Zg9fXXOsA89G0g9pxY0vNZSsJt2",
+      "yearlySales": "200",
+      "sellerYears": "7",
+      "sellerRating": "4.5",
+      "sellerGrade": "실력플래그십점",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01eA0wXH26r4Jj9bYZi_!!2207981827714-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 4.95,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "W|생활용품>청소용품|홈 > 욕실용품",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 7900,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "ab304389-22cf-443c-bb0d-e8dd4d172600",
+          "name": "옵션 1",
+          "cny": 4.95,
+          "sell": 7900,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01eA0wXH26r4Jj9bYZi_!!2207981827714-0-cib.jpg",
+          "inputMode": "sell",
+          "savedMarginPct": null
+        }
+      ]
+    },
+    {
       "id": "faa4adb5-f1c0-4680-a57b-adce0c0df1ee",
       "createdAt": 1794881846446,
       "updatedAt": 1794881846446,
