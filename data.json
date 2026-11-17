@@ -13680,7 +13680,7 @@
         }
       },
       "custom:custom-1794900395639-529": {
-        "t": 1794900537150,
+        "t": 1794900542679,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794900395639-529",
@@ -13712,8 +13712,8 @@
               "sub": "",
               "price": 9900,
               "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
+              "buyers_28d": 1000,
+              "reviews": 2879,
               "url": "https://www.coupang.com/vp/products/9003218016?itemId=29101061526&vendorItemId=95984549712&q=%EC%8A%A4%ED%85%90+%EC%82%AC%EA%B0%81+%EC%84%A4%EA%B1%B0%EC%A7%80%ED%86%B5&searchId=e803d0699131867&sourceType=search&rank=2&itemsCount=36&searchRank=2&traceId=mwkdc9z5",
               "image": null
             },
