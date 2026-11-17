@@ -3,7 +3,7 @@
     {
       "id": "c00e9417-882b-40ab-8e14-e37c00eae3a9",
       "createdAt": 1794896237607,
-      "updatedAt": 1794896237607,
+      "updatedAt": 1794896253924,
       "name": "뽑아쓰는 키친타올",
       "folder": "뽑아쓰는 키친타올",
       "link": "https://detail.1688.com/offer/1050196647272.html?_t=1794895959748&spm=a2615.7691456/2506.co_1_0_wangpu_score_0_0_0_0_0_0_0000_0.0",
@@ -30,7 +30,7 @@
       "rocketSize": "중형 (5kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 9500,
+      "sell": 10480,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -39,10 +39,10 @@
           "id": "2db8988f-cd5d-421d-9255-b3e6af19fc1d",
           "name": "200*200 6개",
           "cny": 9,
-          "sell": 9500,
+          "sell": 10480,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01xFv4BK1wXhU5B1Hnm_!!2181746318-0-cib.jpg",
-          "inputMode": "sell",
-          "savedMarginPct": null
+          "inputMode": "margin",
+          "savedMarginPct": 25
         }
       ]
     },
