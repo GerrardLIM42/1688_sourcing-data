@@ -13470,7 +13470,7 @@
         }
       },
       "custom:custom-1794886751556-592": {
-        "t": 1794886785753,
+        "t": 1794886790519,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794886751556-592",
@@ -13480,7 +13480,7 @@
             {
               "name": "크리넥스 3겹 140매 4개",
               "sub": "",
-              "price": null,
+              "price": 8920,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -13518,38 +13518,38 @@
               "image": null
             }
           ],
-          "lowest_price": null,
-          "avg_price": null,
+          "lowest_price": 8920,
+          "avg_price": 8920,
           "pricing": [
             {
-              "sell_price": null,
+              "sell_price": 8920,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 1030,
+              "vat": 789,
+              "net_profit": 7101,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.7960762331838565,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": null,
+              "sell_price": 8920,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 1030,
+              "vat": 789,
+              "net_profit": 7101,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.7960762331838565,
               "sell_auto": true,
               "fee_auto": true
             }
