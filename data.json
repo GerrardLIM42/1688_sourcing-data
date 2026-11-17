@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "ce1ed683-9cc7-44b2-8b74-2617f813b015",
+      "createdAt": 1794909848860,
+      "updatedAt": 1794909848860,
+      "name": "옷걸이",
+      "folder": "옷걸이",
+      "link": "https://detail.1688.com/offer/1042032407028.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=4728772a5bad4f9db682af81604c2ca3&sessionid=65a6510e86334ddd8ed9377144ee0784&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04",
+      "yearlySales": "100",
+      "sellerYears": "2",
+      "sellerRating": "5",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01IvNUz61JOIKTTsV2v_!!2220880301018-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 3,
+      "cny": 2.7,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "W|생활용품>수납/정리|홈 > 가구/수납/정리",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "중형 (5kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 10368,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "b3106efa-988b-4575-92e3-5607d072f1c1",
+          "name": "다양한 색",
+          "cny": 2.7,
+          "sell": 10368,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01IvNUz61JOIKTTsV2v_!!2220880301018-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "68600351-5d34-44c1-909f-55e9761f657e",
       "createdAt": 1794909734560,
       "updatedAt": 1794909734560,
