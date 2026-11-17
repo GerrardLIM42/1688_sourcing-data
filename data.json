@@ -13473,7 +13473,7 @@
         }
       },
       "custom:custom-1794886751556-592": {
-        "t": 1794887236653,
+        "t": 1794887240768,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794886751556-592",
@@ -13513,7 +13513,7 @@
             {
               "name": "3겹 100매 9개",
               "sub": "",
-              "price": null,
+              "price": 10900,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -13522,7 +13522,7 @@
             }
           ],
           "lowest_price": 8890,
-          "avg_price": 9413.333333333334,
+          "avg_price": 9785,
           "pricing": [
             {
               "sell_price": 8890,
@@ -13541,18 +13541,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 9413.333333333334,
+              "sell_price": 9785,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1087,
-              "vat": 832.6333333333334,
-              "net_profit": 7493.700000000001,
+              "coupang_fee": 1130,
+              "vat": 865.5,
+              "net_profit": 7789.5,
               "profit_rate": null,
-              "margin_rate": 0.7960729461756374,
+              "margin_rate": 0.7960654062340317,
               "sell_auto": true,
               "fee_auto": true
             }
