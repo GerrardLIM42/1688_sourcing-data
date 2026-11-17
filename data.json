@@ -12182,34 +12182,38 @@
         }
       },
       "edits:옷걸이": {
-        "t": 1794810490156,
+        "t": 1794907487633,
         "v": {
           "name": "옷걸이",
           "monthly_search": 39130,
           "competitors": [
             {
-              "name": "덴코 어깨 뿔",
+              "name": "코멧 논슬",
               "sub": "30개",
               "price": 8900,
-              "views_28d": 60715
+              "views_28d": 60715,
+              "url": ""
             },
             {
               "name": "리브웍스 논슬립",
               "sub": "30개",
               "price": 8900,
-              "views_28d": 16186
+              "views_28d": 16186,
+              "url": ""
             },
             {
               "name": "짐심감성",
               "sub": 30,
               "price": 18400,
-              "views_28d": 159848
+              "views_28d": 159848,
+              "url": ""
             },
             {
               "name": "마크곤잘레스",
               "sub": "20개",
               "price": 8500,
-              "views_28d": 41861
+              "views_28d": 41861,
+              "url": ""
             }
           ],
           "pricing": [
@@ -12217,8 +12221,10 @@
               "sell_price": 8500,
               "china_cost": 8.14,
               "purchase_cost": 2442,
-              "growth_cost": 2500,
+              "growth_cost": 3275,
               "growth_tier": "s",
+              "fee_cat": "",
+              "wing_fee": "",
               "coupang_fee": 982,
               "sell_auto": true,
               "fee_auto": true
@@ -12227,8 +12233,10 @@
               "sell_price": 11175,
               "china_cost": 11.66,
               "purchase_cost": 3498,
-              "growth_cost": 2500,
+              "growth_cost": 3275,
               "growth_tier": "s",
+              "fee_cat": "",
+              "wing_fee": "",
               "coupang_fee": 1291,
               "sell_auto": true,
               "fee_auto": true
