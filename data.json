@@ -13554,7 +13554,7 @@
         }
       },
       "notes:custom-1794886751556-592": {
-        "t": 1794891377661,
+        "t": 1794900410452,
         "v": {
           "status": "관심",
           "memo": "",
@@ -13566,7 +13566,7 @@
             "3": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/mst4vu8e/f0e17e6fd4644e03af6b0a1f7ace06df.jpg"
           },
           "category": "HOME",
-          "starred": true,
+          "starred": false,
           "hidden": false
         }
       },
@@ -13663,12 +13663,24 @@
           "_id": 31
         }
       },
+      "notes:custom-1794900395639-529": {
+        "t": 1794900410452,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
       "custom:custom-1794900395639-529": {
-        "t": 1794900404173,
+        "t": 1794900407612,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794900395639-529",
-          "name": "스텐 사각 설저",
+          "name": "스텐 사각 설거지통",
           "monthly_search": null,
           "competitors": [
             {
