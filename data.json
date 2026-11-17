@@ -5,15 +5,15 @@
       "createdAt": 1794878045159,
       "updatedAt": 1794878045159,
       "name": "사선컷팅 테이프 클리너",
-      "folder": "사선컷팅 테이프 클리너",
       "link": "https://detail.1688.com/offer/674749575303.html?spm=a26352.13672862.offerlist.183.14611e62prBhHo&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=4854102252373&trace_log=normal&uuid=54f4d1789e494892b1322413da87e3f0&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S02",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN014vS2MQ2FJwIVcfSK7_!!2213055618860-0-cib.jpg",
+      "folder": "사선컷팅 테이프 클리너",
+      "category": "HOME",
+      "status": "검토중",
       "yearlySales": "40",
       "sellerYears": "5",
       "sellerRating": "4.5",
       "sellerGrade": "실력플래그십점",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN014vS2MQ2FJwIVcfSK7_!!2213055618860-0-cib.jpg",
-      "category": "HOME",
-      "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
       "cny": 11,
@@ -28,12 +28,15 @@
       "channel": "rocket",
       "promo": "none",
       "rocketSize": "소형 (2kg 이하)",
+      "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
       "sell": 11000,
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "29348ab5-7065-4c2c-911a-ee2a00f6862b",
@@ -51,15 +54,15 @@
       "createdAt": 1794877764697,
       "updatedAt": 1794877764697,
       "name": "사선컷팅 테이프 클리너",
-      "folder": "사선컷팅 테이프 클리너",
       "link": "https://detail.1688.com/offer/970660055210.html?spm=a26352.13672862.offerlist.168.14611e62prBhHo&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5921392896891&trace_log=normal&uuid=54f4d1789e494892b1322413da87e3f0&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S02",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01qqkUHc20t0JktQkD2_!!2212527296906-0-cib.jpg",
+      "folder": "사선컷팅 테이프 클리너",
+      "category": "HOME",
+      "status": "검토중",
       "yearlySales": "100",
       "sellerYears": "6",
       "sellerRating": "4",
       "sellerGrade": "실력플래그십점",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01qqkUHc20t0JktQkD2_!!2212527296906-0-cib.jpg",
-      "category": "HOME",
-      "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
       "cny": 8.32,
@@ -74,12 +77,15 @@
       "channel": "rocket",
       "promo": "none",
       "rocketSize": "소형 (2kg 이하)",
+      "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
       "sell": 11000,
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "6bb25aff-d965-4a8e-ae7d-d943e347d9d2",
@@ -97,15 +103,15 @@
       "createdAt": 1794877593178,
       "updatedAt": 1794877593178,
       "name": "사선컷팅 테이프 클리너",
-      "folder": "사선컷팅 테이프 클리너",
       "link": "https://detail.1688.com/offer/867437445822.html?spm=a26352.13672862.offerlist.160.14611e62prBhHo&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6225369834417&trace_log=normal&uuid=54f4d1789e494892b1322413da87e3f0&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S02",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SGJccw25yZ8tCLuSU_!!2209837447595-0-cib.jpg",
+      "folder": "사선컷팅 테이프 클리너",
+      "category": "HOME",
+      "status": "검토중",
       "yearlySales": "50",
       "sellerYears": "6",
       "sellerRating": "5",
       "sellerGrade": "실력공장",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SGJccw25yZ8tCLuSU_!!2209837447595-0-cib.jpg",
-      "category": "HOME",
-      "status": "검토중",
       "isBundle": false,
       "bundleQty": 2,
       "cny": 10.3,
@@ -120,12 +126,15 @@
       "channel": "rocket",
       "promo": "none",
       "rocketSize": "소형 (2kg 이하)",
+      "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
       "sell": 11000,
       "ad": 7,
       "ret": 3,
       "memo": "",
+      "starred": false,
+      "repOptionId": null,
       "options": [
         {
           "id": "cc6a8ce3-1050-43e5-abff-7e445dd5fb7e",
@@ -414,7 +423,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 10700,
+      "sell": 7900,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -425,7 +434,7 @@
           "id": "9d546348-bb08-4de0-bf36-e3047c685b8e",
           "name": "",
           "cny": 6.9,
-          "sell": 10700,
+          "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
           "inputMode": "sell",
           "savedMarginPct": null
@@ -434,18 +443,18 @@
           "id": "d0acb1d4-1d0f-46c5-a04e-0176520daf90",
           "name": "청소솔",
           "cny": 6.9,
-          "sell": 10500,
+          "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01pgyw6h1kHPuhIQ1oA_!!2217818174658-0-cib.jpg",
-          "inputMode": "margin",
+          "inputMode": "sell",
           "savedMarginPct": 25
         },
         {
           "id": "79e68b96-dac8-42f1-b33d-eabe4374b6e0",
           "name": "청소솔 + 걸이대",
           "cny": 7.2,
-          "sell": 10700,
+          "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01FpGQI41kHPuhokjqN_!!2217818174658-0-cib.jpg",
-          "inputMode": "margin",
+          "inputMode": "sell",
           "savedMarginPct": 25
         }
       ]
@@ -481,7 +490,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 10100,
+      "sell": 7900,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -492,9 +501,9 @@
           "id": "e648f8b3-fa44-4346-b5e7-cedf8f2a2ada",
           "name": "백색",
           "cny": 8.78,
-          "sell": 10100,
+          "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN010l0gC9251U4D1qZlP_!!2201194317466-0-cib.jpg",
-          "inputMode": "margin",
+          "inputMode": "sell",
           "savedMarginPct": 25
         }
       ]
@@ -13036,16 +13045,16 @@
         }
       },
       "notes:custom-1794803960867-999": {
-        "t": 1794881643355,
+        "t": 1794810438344,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
           "compImgUrls": {
-            "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/17fd/88e4d4df93bb77881803ac0e4395966851b09ccc303303a0accad15b766d.png",
-            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4d96/7214da8ec724ad5c8c619983a56641e083b7ab009cfdd370d31fddb377f8.png",
-            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f85a/3e716e7a2f1d029bc4f11c7eab970e47829ed03882b72615ee003ae89e3a.png",
-            "3": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/79a0/3ffabf4eea5232ff785e1eafd9aa18e9b12d802f40b3d9be22a1fad84398.png"
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
           },
           "category": "HOME",
           "starred": false,
@@ -13053,7 +13062,7 @@
         }
       },
       "custom:custom-1794803960867-999": {
-        "t": 1794881670933,
+        "t": 1794818524042,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794803960867-999",
@@ -13084,7 +13093,7 @@
               "price": 7600,
               "views_28d": 21935,
               "buyers_28d": 1000,
-              "reviews": 852,
+              "reviews": 822,
               "image": null
             },
             {
@@ -13093,7 +13102,7 @@
               "price": 7900,
               "views_28d": 19843,
               "buyers_28d": 1000,
-              "reviews": 885,
+              "reviews": 879,
               "image": null
             }
           ],
@@ -13102,33 +13111,29 @@
           "pricing": [
             {
               "sell_price": 6900,
-              "china_cost": 3.04,
-              "purchase_cost": 911,
+              "china_cost": 5.69,
+              "purchase_cost": 1707,
               "growth_cost": 3275,
               "growth_tier": "s",
-              "fee_cat": "",
-              "wing_fee": "생활용품>청소용품|홈 > 욕실용품",
               "coupang_fee": 797,
-              "vat": 191.70000000000002,
-              "net_profit": 1725.3,
-              "profit_rate": 1.893852908891328,
-              "margin_rate": 0.25004347826086953,
+              "vat": 112.10000000000001,
+              "net_profit": 1008.9,
+              "profit_rate": 0.59103690685413,
+              "margin_rate": 0.14621739130434783,
               "sell_auto": true,
               "fee_auto": true
             },
             {
               "sell_price": 7900,
-              "china_cost": 5.06,
-              "purchase_cost": 1519,
+              "china_cost": 7.09,
+              "purchase_cost": 2126,
               "growth_cost": 3275,
               "growth_tier": "s",
-              "fee_cat": "",
-              "wing_fee": "생활용품>청소용품|홈 > 욕실용품",
               "coupang_fee": 912,
-              "vat": 219.4,
-              "net_profit": 1974.6,
-              "profit_rate": 1.299934167215273,
-              "margin_rate": 0.24994936708860757,
+              "vat": 158.70000000000002,
+              "net_profit": 1428.3,
+              "profit_rate": 0.6718250235183443,
+              "margin_rate": 0.18079746835443036,
               "sell_auto": false,
               "fee_auto": true
             }
@@ -13137,7 +13142,8 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": []
+          "extra_images": [],
+          "_id": 29
         }
       },
       "custom:custom-1794811711202-754": {
@@ -13145,7 +13151,7 @@
         "v": null
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794881611176,
+        "t": 1794833730721,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -13229,8 +13235,7 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": [],
-          "_id": 30
+          "extra_images": []
         }
       },
       "notes:custom-1794811711202-754": {
