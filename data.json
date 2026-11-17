@@ -13471,7 +13471,7 @@
         }
       },
       "custom:custom-1794886751556-592": {
-        "t": 1794887075099,
+        "t": 1794887078635,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794886751556-592",
@@ -13491,7 +13491,7 @@
             {
               "name": "3겹 100매 9개입",
               "sub": "",
-              "price": null,
+              "price": 8890,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -13519,38 +13519,38 @@
               "image": null
             }
           ],
-          "lowest_price": 8920,
-          "avg_price": 8920,
+          "lowest_price": 8890,
+          "avg_price": 8905,
           "pricing": [
             {
-              "sell_price": 8920,
+              "sell_price": 8890,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1030,
-              "vat": 789,
-              "net_profit": 7101,
+              "coupang_fee": 1027,
+              "vat": 786.3000000000001,
+              "net_profit": 7076.7,
               "profit_rate": null,
-              "margin_rate": 0.7960762331838565,
+              "margin_rate": 0.7960292463442069,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 8920,
+              "sell_price": 8905,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1030,
-              "vat": 789,
-              "net_profit": 7101,
+              "coupang_fee": 1029,
+              "vat": 787.6,
+              "net_profit": 7088.4,
               "profit_rate": null,
-              "margin_rate": 0.7960762331838565,
+              "margin_rate": 0.7960022459292532,
               "sell_auto": true,
               "fee_auto": true
             }
