@@ -12183,7 +12183,7 @@
         }
       },
       "edits:옷걸이": {
-        "t": 1794908463959,
+        "t": 1794908618875,
         "v": {
           "name": "옷걸이",
           "monthly_search": 39130,
@@ -12228,8 +12228,8 @@
               "sell_price": 15990,
               "china_cost": 8.14,
               "purchase_cost": 2442,
-              "growth_cost": 3325,
-              "growth_tier": "s",
+              "growth_cost": 4050,
+              "growth_tier": "m",
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": 1847,
