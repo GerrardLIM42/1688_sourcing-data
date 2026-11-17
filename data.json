@@ -13473,7 +13473,7 @@
         }
       },
       "custom:custom-1794886751556-592": {
-        "t": 1794887298719,
+        "t": 1794887305957,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794886751556-592",
@@ -13526,33 +13526,33 @@
           "pricing": [
             {
               "sell_price": 8890,
-              "china_cost": null,
-              "purchase_cost": null,
+              "china_cost": 6.98,
+              "purchase_cost": 2094,
               "growth_cost": 3350,
               "growth_tier": "m",
               "fee_cat": "생활/주방",
               "wing_fee": "생활용품>화장지/물티슈|하우스홀드 > 화장지",
               "coupang_fee": 978,
-              "vat": 456.20000000000005,
-              "net_profit": 4105.8,
-              "profit_rate": null,
-              "margin_rate": 0.4618447694038245,
+              "vat": 246.8,
+              "net_profit": 2221.2,
+              "profit_rate": 1.0607449856733524,
+              "margin_rate": 0.2498537682789651,
               "sell_auto": true,
               "fee_auto": true
             },
             {
               "sell_price": 9785,
-              "china_cost": null,
-              "purchase_cost": null,
+              "china_cost": 8.8,
+              "purchase_cost": 2640,
               "growth_cost": 3350,
               "growth_tier": "m",
               "fee_cat": "생활/주방",
               "wing_fee": "생활용품>화장지/물티슈|하우스홀드 > 화장지",
               "coupang_fee": 1076,
-              "vat": 535.9,
-              "net_profit": 4823.1,
-              "profit_rate": null,
-              "margin_rate": 0.4929075114971896,
+              "vat": 271.90000000000003,
+              "net_profit": 2447.1,
+              "profit_rate": 0.9269318181818181,
+              "margin_rate": 0.25008686765457333,
               "sell_auto": true,
               "fee_auto": true
             }
