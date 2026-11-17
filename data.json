@@ -12182,7 +12182,7 @@
         }
       },
       "edits:옷걸이": {
-        "t": 1794907498614,
+        "t": 1794907680154,
         "v": {
           "name": "옷걸이",
           "monthly_search": 39130,
@@ -12206,8 +12206,8 @@
             {
               "name": "짐심감성",
               "sub": 30,
-              "price": 18400,
-              "views_28d": 159848,
+              "price": 16560,
+              "views_28d": null,
               "url": ""
             },
             {
@@ -12232,14 +12232,14 @@
               "fee_auto": true
             },
             {
-              "sell_price": 12947.5,
+              "sell_price": 12487.5,
               "china_cost": 11.66,
               "purchase_cost": 3498,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1495,
+              "coupang_fee": 1442,
               "sell_auto": true,
               "fee_auto": true
             }
