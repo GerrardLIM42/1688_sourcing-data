@@ -13571,7 +13571,7 @@
         }
       },
       "custom:custom-1794886751556-592": {
-        "t": 1794887309723,
+        "t": 1794900395642,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794886751556-592",
@@ -13651,6 +13651,99 @@
               "net_profit": 2446.2,
               "profit_rate": 0.9262400605831124,
               "margin_rate": 0.24999489013796625,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 31
+        }
+      },
+      "custom:custom-1794900395639-529": {
+        "t": 1794900395642,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1794900395639-529",
+          "name": "새 상품",
+          "monthly_search": null,
+          "competitors": [
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "url": "",
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "url": "",
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "url": "",
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "url": "",
+              "image": null
+            }
+          ],
+          "lowest_price": null,
+          "avg_price": null,
+          "pricing": [
+            {
+              "sell_price": null,
+              "china_cost": null,
+              "purchase_cost": null,
+              "growth_cost": null,
+              "growth_tier": null,
+              "fee_cat": "",
+              "wing_fee": "",
+              "coupang_fee": null,
+              "vat": null,
+              "net_profit": null,
+              "profit_rate": null,
+              "margin_rate": null,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": null,
+              "china_cost": null,
+              "purchase_cost": null,
+              "growth_cost": null,
+              "growth_tier": null,
+              "fee_cat": "",
+              "wing_fee": "",
+              "coupang_fee": null,
+              "vat": null,
+              "net_profit": null,
+              "profit_rate": null,
+              "margin_rate": null,
               "sell_auto": true,
               "fee_auto": true
             }
