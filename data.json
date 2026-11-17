@@ -11642,7 +11642,7 @@
         }
       },
       "notes:옷걸이": {
-        "t": 1794810490156,
+        "t": 1794907416644,
         "v": {
           "status": "관심",
           "memo": "",
@@ -11650,7 +11650,7 @@
           "compImgUrls": {},
           "category": "HOME",
           "starred": false,
-          "hidden": true
+          "hidden": false
         }
       },
       "notes:수건": {
