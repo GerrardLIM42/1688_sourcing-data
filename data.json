@@ -13473,7 +13473,7 @@
         }
       },
       "custom:custom-1794886751556-592": {
-        "t": 1794887278577,
+        "t": 1794887285381,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794886751556-592",
@@ -13547,7 +13547,7 @@
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
-              "wing_fee": "",
+              "wing_fee": "생활용품>화장지/물티슈|하우스홀드 > 화장지",
               "coupang_fee": 1130,
               "vat": 865.5,
               "net_profit": 7789.5,
