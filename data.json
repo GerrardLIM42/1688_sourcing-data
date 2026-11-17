@@ -13053,7 +13053,7 @@
         }
       },
       "custom:custom-1794803960867-999": {
-        "t": 1794818524042,
+        "t": 1794881611176,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794803960867-999",
@@ -13084,7 +13084,7 @@
               "price": 7600,
               "views_28d": 21935,
               "buyers_28d": 1000,
-              "reviews": 822,
+              "reviews": 852,
               "image": null
             },
             {
@@ -13106,6 +13106,8 @@
               "purchase_cost": 1707,
               "growth_cost": 3275,
               "growth_tier": "s",
+              "fee_cat": "",
+              "wing_fee": "",
               "coupang_fee": 797,
               "vat": 112.10000000000001,
               "net_profit": 1008.9,
@@ -13120,6 +13122,8 @@
               "purchase_cost": 2126,
               "growth_cost": 3275,
               "growth_tier": "s",
+              "fee_cat": "",
+              "wing_fee": "",
               "coupang_fee": 912,
               "vat": 158.70000000000002,
               "net_profit": 1428.3,
@@ -13133,8 +13137,7 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": [],
-          "_id": 29
+          "extra_images": []
         }
       },
       "custom:custom-1794811711202-754": {
@@ -13142,7 +13145,7 @@
         "v": null
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794833730721,
+        "t": 1794881611176,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -13226,7 +13229,8 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": []
+          "extra_images": [],
+          "_id": 30
         }
       },
       "notes:custom-1794811711202-754": {
