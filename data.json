@@ -13379,7 +13379,7 @@
         }
       },
       "custom:custom-1791106943522-880": {
-        "t": 1795179421318,
+        "t": 1795179427300,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1791106943522-880",
@@ -13448,17 +13448,17 @@
             },
             {
               "sell_price": 10875,
-              "china_cost": 11.58,
-              "purchase_cost": 3704,
+              "china_cost": 11.1,
+              "purchase_cost": 3331,
               "growth_cost": 3000,
               "growth_tier": "xs",
               "fee_cat": "패션/의류",
               "wing_fee": "패션의류잡화>여성패션|의류 > 여성의류",
               "coupang_fee": 1523,
-              "vat": 264.8,
-              "net_profit": 2383.2,
-              "profit_rate": 0.6434125269978401,
-              "margin_rate": 0.21914482758620688,
+              "vat": 302.1,
+              "net_profit": 2718.9,
+              "profit_rate": 0.8162413689582708,
+              "margin_rate": 0.2500137931034483,
               "sell_auto": true,
               "fee_auto": true
             }
