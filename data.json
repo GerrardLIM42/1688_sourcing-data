@@ -12515,7 +12515,7 @@
         }
       },
       "custom:custom-1785367833186-456": {
-        "t": 1795179774513,
+        "t": 1795179818856,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1785367833186-456",
@@ -12525,8 +12525,8 @@
             {
               "name": "1+1 일상up",
               "sub": "60*40 2EA",
-              "price": 10800,
-              "views_28d": 106116,
+              "price": 7840,
+              "views_28d": null,
               "buyers_28d": 1000,
               "url": "",
               "image": null
@@ -12561,7 +12561,7 @@
             }
           ],
           "lowest_price": 5790,
-          "avg_price": 8910,
+          "avg_price": 8170,
           "pricing": [
             {
               "sell_price": 5790,
@@ -12580,18 +12580,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 8910,
+              "sell_price": 8170,
               "china_cost": 5.81,
               "purchase_cost": 1743,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "생활/주방",
               "wing_fee": "생활용품>욕실용품|홈 > 욕실용품",
-              "coupang_fee": 980,
-              "vat": 291.2,
-              "net_profit": 2620.8,
-              "profit_rate": 1.5036144578313253,
-              "margin_rate": 0.29414141414141415,
+              "coupang_fee": 899,
+              "vat": 225.3,
+              "net_profit": 2027.7,
+              "profit_rate": 1.1633390705679862,
+              "margin_rate": 0.24818849449204408,
               "sell_auto": true,
               "fee_auto": true
             }
