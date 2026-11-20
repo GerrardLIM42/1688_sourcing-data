@@ -12515,7 +12515,7 @@
         }
       },
       "custom:custom-1785367833186-456": {
-        "t": 1795179979999,
+        "t": 1795179987921,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1785367833186-456",
@@ -12524,8 +12524,8 @@
           "competitors": [
             {
               "name": "코멧 홈 규조토",
-              "sub": "60*40 2EA",
-              "price": 7840,
+              "sub": "60*40",
+              "price": 8990,
               "views_28d": null,
               "buyers_28d": 1000,
               "reviews": 10473,
@@ -12563,7 +12563,7 @@
             }
           ],
           "lowest_price": 5990,
-          "avg_price": 8220,
+          "avg_price": 8507.5,
           "pricing": [
             {
               "sell_price": 5990,
@@ -12582,18 +12582,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 8220,
+              "sell_price": 8507.5,
               "china_cost": 5.81,
               "purchase_cost": 1743,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "생활/주방",
               "wing_fee": "생활용품>욕실용품|홈 > 욕실용품",
-              "coupang_fee": 904,
-              "vat": 229.8,
-              "net_profit": 2068.2,
-              "profit_rate": 1.1865748709122201,
-              "margin_rate": 0.25160583941605835,
+              "coupang_fee": 936,
+              "vat": 255.35000000000002,
+              "net_profit": 2298.15,
+              "profit_rate": 1.3185025817555938,
+              "margin_rate": 0.2701322362621217,
               "sell_auto": true,
               "fee_auto": true
             }
