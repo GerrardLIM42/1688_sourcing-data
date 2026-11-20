@@ -12515,7 +12515,7 @@
         }
       },
       "custom:custom-1785367833186-456": {
-        "t": 1795179823022,
+        "t": 1795179877554,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1785367833186-456",
@@ -12554,45 +12554,45 @@
             {
               "name": "홈싹 빨아쓰는",
               "sub": "60*40",
-              "price": 5790,
+              "price": 5990,
               "views_28d": 18683,
-              "buyers_28d": 1000,
+              "buyers_28d": 4000,
               "url": "",
               "image": null
             }
           ],
-          "lowest_price": 5790,
-          "avg_price": 8170,
+          "lowest_price": 5990,
+          "avg_price": 8220,
           "pricing": [
             {
-              "sell_price": 5790,
+              "sell_price": 5990,
               "china_cost": 2.88,
               "purchase_cost": 864,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 669,
-              "vat": 98.2,
-              "net_profit": 883.8,
-              "profit_rate": 1.0229166666666667,
-              "margin_rate": 0.1526424870466321,
+              "coupang_fee": 692,
+              "vat": 115.9,
+              "net_profit": 1043.1,
+              "profit_rate": 1.2072916666666667,
+              "margin_rate": 0.17414023372287143,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 8170,
+              "sell_price": 8220,
               "china_cost": 5.81,
               "purchase_cost": 1743,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "생활/주방",
               "wing_fee": "생활용품>욕실용품|홈 > 욕실용품",
-              "coupang_fee": 899,
-              "vat": 225.3,
-              "net_profit": 2027.7,
-              "profit_rate": 1.1633390705679862,
-              "margin_rate": 0.24818849449204408,
+              "coupang_fee": 904,
+              "vat": 229.8,
+              "net_profit": 2068.2,
+              "profit_rate": 1.1865748709122201,
+              "margin_rate": 0.25160583941605835,
               "sell_auto": true,
               "fee_auto": true
             }
