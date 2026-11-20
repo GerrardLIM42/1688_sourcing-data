@@ -4856,7 +4856,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 7100,
+      "sell": 7900,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -4867,9 +4867,9 @@
           "id": "6b9af133-8d23-4958-a678-5be038855150",
           "name": "40*60",
           "cny": 3.84,
-          "sell": 7100,
+          "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ThtYXi1vMQ1Aohoi4_!!2214987456158-0-cib.jpg",
-          "inputMode": "margin",
+          "inputMode": "sell",
           "savedMarginPct": 25
         }
       ]
@@ -4918,7 +4918,7 @@
           "cny": 5.28,
           "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01i5V4gs2IicN24SrR3_!!2219383329320-0-cib.jpg",
-          "inputMode": "margin",
+          "inputMode": "sell",
           "savedMarginPct": 25
         }
       ]
@@ -4954,7 +4954,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 6600,
+      "sell": 7900,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -4965,9 +4965,9 @@
           "id": "e5348b39-cff1-4220-963f-34bc22467297",
           "name": "40*60",
           "cny": 2.88,
-          "sell": 6600,
+          "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01bcQL9l2D6zpsEegc5_!!2219649188561-0-cib.jpg",
-          "inputMode": "margin",
+          "inputMode": "sell",
           "savedMarginPct": 25
         }
       ]
@@ -5003,7 +5003,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 7100,
+      "sell": 7900,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -5014,9 +5014,9 @@
           "id": "12562b7e-d7cb-412c-a680-19caff650bf7",
           "name": "40*60",
           "cny": 3.84,
-          "sell": 7100,
+          "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01uXsb8b20W6WlDtdfl_!!2221106706856-0-cib.jpg",
-          "inputMode": "margin",
+          "inputMode": "sell",
           "savedMarginPct": 25
         }
       ]
@@ -5065,7 +5065,7 @@
           "cny": 5.36,
           "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01ZEd3gG2BLXAinHzCM_!!2221274158322-0-cib.jpg",
-          "inputMode": "margin",
+          "inputMode": "sell",
           "savedMarginPct": 25
         }
       ]
@@ -5101,7 +5101,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 8000,
+      "sell": 7900,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -5112,9 +5112,9 @@
           "id": "eb7e4466-e639-4a2e-8596-2ca603899989",
           "name": "40*60",
           "cny": 5.5,
-          "sell": 8000,
+          "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN015j8GEP1rJtCoYD1mG_!!2225445611-0-cib.jpg",
-          "inputMode": "margin",
+          "inputMode": "sell",
           "savedMarginPct": 25
         }
       ]
@@ -5150,7 +5150,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 6900,
+      "sell": 7900,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -5161,18 +5161,18 @@
           "id": "idms6qih6epnib7b",
           "name": "40*60",
           "cny": 3.5,
-          "sell": 6900,
+          "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01T0XGqh1edxo1aJGIG_!!2217627603895-0-cib.jpg",
-          "inputMode": "margin",
+          "inputMode": "sell",
           "savedMarginPct": 25
         },
         {
           "id": "4b6c986e-e9ba-45ae-b794-8abf163f00ce",
           "name": "50*80",
           "cny": 6,
-          "sell": 8300,
+          "sell": 7900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01T0XGqh1edxo1aJGIG_!!2217627603895-0-cib.jpg",
-          "inputMode": "margin",
+          "inputMode": "sell",
           "savedMarginPct": 25
         }
       ]
@@ -12515,7 +12515,7 @@
         }
       },
       "custom:custom-1785367833186-456": {
-        "t": 1795180073559,
+        "t": 1795179993538,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1785367833186-456",
@@ -12543,11 +12543,11 @@
               "image": null
             },
             {
-              "name": "",
+              "name": "일상나눔 빨아쓰는",
               "sub": "60*40",
-              "price": null,
-              "views_28d": null,
-              "buyers_28d": null,
+              "price": 12240,
+              "views_28d": 42638,
+              "buyers_28d": 1000,
               "url": "",
               "image": null
             },
@@ -12563,37 +12563,37 @@
             }
           ],
           "lowest_price": 5990,
-          "avg_price": 7263.333333333333,
+          "avg_price": 8507.5,
           "pricing": [
             {
               "sell_price": 5990,
-              "china_cost": 1.2,
-              "purchase_cost": 359,
+              "china_cost": 2.88,
+              "purchase_cost": 864,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": 692,
-              "vat": 166.4,
-              "net_profit": 1497.6,
-              "profit_rate": 4.17158774373259,
-              "margin_rate": 0.25001669449081804,
+              "vat": 115.9,
+              "net_profit": 1043.1,
+              "profit_rate": 1.2072916666666667,
+              "margin_rate": 0.17414023372287143,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 7263.333333333333,
-              "china_cost": 3.91,
-              "purchase_cost": 1172,
+              "sell_price": 8507.5,
+              "china_cost": 5.81,
+              "purchase_cost": 1743,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "생활/주방",
               "wing_fee": "생활용품>욕실용품|홈 > 욕실용품",
-              "coupang_fee": 799,
-              "vat": 201.73333333333332,
-              "net_profit": 1815.5999999999997,
-              "profit_rate": 1.5491467576791806,
-              "margin_rate": 0.24996787517209726,
+              "coupang_fee": 936,
+              "vat": 255.35000000000002,
+              "net_profit": 2298.15,
+              "profit_rate": 1.3185025817555938,
+              "margin_rate": 0.2701322362621217,
               "sell_auto": true,
               "fee_auto": true
             }
