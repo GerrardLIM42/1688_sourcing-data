@@ -12515,7 +12515,7 @@
         }
       },
       "custom:custom-1785367833186-456": {
-        "t": 1795179895719,
+        "t": 1795179976572,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1785367833186-456",
@@ -12523,7 +12523,7 @@
           "monthly_search": 25140,
           "competitors": [
             {
-              "name": "1+1 일상up",
+              "name": "",
               "sub": "60*40 2EA",
               "price": 7840,
               "views_28d": null,
