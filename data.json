@@ -12515,7 +12515,7 @@
         }
       },
       "custom:custom-1785367833186-456": {
-        "t": 1794818524042,
+        "t": 1795179609673,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1785367833186-456",
@@ -12528,6 +12528,7 @@
               "price": 10800,
               "views_28d": 106116,
               "buyers_28d": 1000,
+              "url": "",
               "image": null
             },
             {
@@ -12536,6 +12537,7 @@
               "price": 3950,
               "views_28d": 61652,
               "buyers_28d": 2000,
+              "url": "",
               "image": null
             },
             {
@@ -12544,6 +12546,7 @@
               "price": 12240,
               "views_28d": 42638,
               "buyers_28d": 1000,
+              "url": "",
               "image": null
             },
             {
@@ -12552,6 +12555,7 @@
               "price": 5790,
               "views_28d": 18683,
               "buyers_28d": 1000,
+              "url": "",
               "image": null
             }
           ],
@@ -12564,11 +12568,15 @@
               "purchase_cost": 864,
               "growth_cost": 3250,
               "growth_tier": "s",
+              "fee_cat": "",
+              "wing_fee": "",
               "coupang_fee": 456,
               "vat": -62,
               "net_profit": -558,
               "profit_rate": -0.6458333333333334,
-              "margin_rate": -0.14126582278481012
+              "margin_rate": -0.14126582278481012,
+              "sell_auto": true,
+              "fee_auto": true
             },
             {
               "sell_price": 8195,
@@ -12576,19 +12584,22 @@
               "purchase_cost": 2643,
               "growth_cost": 3275,
               "growth_tier": "s",
-              "coupang_fee": 947,
-              "vat": 133,
-              "net_profit": 1197,
-              "profit_rate": 0.452894438138479,
-              "margin_rate": 0.14606467358145211
+              "fee_cat": "생활/주방",
+              "wing_fee": "생활용품>욕실용품|홈 > 욕실용품",
+              "coupang_fee": 901,
+              "vat": 137.6,
+              "net_profit": 1238.4,
+              "profit_rate": 0.46855845629965953,
+              "margin_rate": 0.1511165344722392,
+              "sell_auto": true,
+              "fee_auto": true
             }
           ],
           "target_sourcing_price": null,
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": [],
-          "_id": 18
+          "extra_images": []
         }
       },
       "custom:custom-1785508497541-771": {
