@@ -12515,7 +12515,7 @@
         }
       },
       "custom:custom-1785367833186-456": {
-        "t": 1795179609673,
+        "t": 1795179620075,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1785367833186-456",
@@ -12580,17 +12580,17 @@
             },
             {
               "sell_price": 8195,
-              "china_cost": 8.81,
-              "purchase_cost": 2643,
+              "china_cost": 5.81,
+              "purchase_cost": 1743,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "생활/주방",
               "wing_fee": "생활용품>욕실용품|홈 > 욕실용품",
               "coupang_fee": 901,
-              "vat": 137.6,
-              "net_profit": 1238.4,
-              "profit_rate": 0.46855845629965953,
-              "margin_rate": 0.1511165344722392,
+              "vat": 227.60000000000002,
+              "net_profit": 2048.4,
+              "profit_rate": 1.1752151462994838,
+              "margin_rate": 0.24995729103111655,
               "sell_auto": true,
               "fee_auto": true
             }
