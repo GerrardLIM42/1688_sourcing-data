@@ -14050,7 +14050,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795227502314,
+        "t": 1795227510065,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14103,17 +14103,17 @@
           "pricing": [
             {
               "sell_price": 3900,
-              "china_cost": null,
-              "purchase_cost": null,
+              "china_cost": 7.96,
+              "purchase_cost": 2388,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "생활/주방",
               "wing_fee": "생활용품>접착용품|홈 > 공구/셀프인테리어용품",
               "coupang_fee": 429,
-              "vat": 347.1,
-              "net_profit": 3123.9,
-              "profit_rate": null,
-              "margin_rate": 0.801,
+              "vat": 108.30000000000001,
+              "net_profit": 974.7,
+              "profit_rate": 0.4081658291457287,
+              "margin_rate": 0.24992307692307694,
               "sell_auto": true,
               "fee_auto": true
             },
