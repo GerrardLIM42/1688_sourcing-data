@@ -14047,7 +14047,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795227164686,
+        "t": 1795227170366,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14057,7 +14057,7 @@
             {
               "name": "몬스터겔",
               "sub": "30mm x 3m, 투명, 1개",
-              "price": null,
+              "price": 11150,
               "views_28d": 102378,
               "buyers_28d": 10000,
               "reviews": 61829,
@@ -14095,38 +14095,38 @@
               "image": null
             }
           ],
-          "lowest_price": null,
-          "avg_price": null,
+          "lowest_price": 11150,
+          "avg_price": 11150,
           "pricing": [
             {
-              "sell_price": null,
+              "sell_price": 11150,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 1288,
+              "vat": 986.2,
+              "net_profit": 8875.8,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.7960358744394618,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": null,
+              "sell_price": 11150,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 1288,
+              "vat": 986.2,
+              "net_profit": 8875.8,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.7960358744394618,
               "sell_auto": true,
               "fee_auto": true
             }
