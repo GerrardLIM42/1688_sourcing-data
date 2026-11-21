@@ -14049,7 +14049,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795227330207,
+        "t": 1795227336449,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14079,7 +14079,7 @@
             {
               "name": "라온",
               "sub": "3m, 1개",
-              "price": null,
+              "price": 3900,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -14097,38 +14097,38 @@
               "image": null
             }
           ],
-          "lowest_price": 5900,
-          "avg_price": 8525,
+          "lowest_price": 3900,
+          "avg_price": 6983.333333333333,
           "pricing": [
             {
-              "sell_price": 5900,
+              "sell_price": 3900,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 681,
-              "vat": 521.9,
-              "net_profit": 4697.1,
+              "coupang_fee": 450,
+              "vat": 345,
+              "net_profit": 3105,
               "profit_rate": null,
-              "margin_rate": 0.7961186440677966,
+              "margin_rate": 0.7961538461538461,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 8525,
+              "sell_price": 6983.333333333333,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 985,
-              "vat": 754,
-              "net_profit": 6786,
+              "coupang_fee": 807,
+              "vat": 617.6333333333333,
+              "net_profit": 5558.7,
               "profit_rate": null,
-              "margin_rate": 0.7960117302052786,
+              "margin_rate": 0.7959952267303103,
               "sell_auto": true,
               "fee_auto": true
             }
