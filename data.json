@@ -150,7 +150,7 @@
     {
       "id": "e7c02c15-5f77-4d49-91f8-880a633d5bff",
       "createdAt": 1795227745333,
-      "updatedAt": 1795227745333,
+      "updatedAt": 1795231410671,
       "name": "실리콘 양면 테이프",
       "link": "https://detail.1688.com/offer/851575121583.html?kj_agent_plugin=aliprice&fromkv=xytTrace:2132815517952269842706424e0d61&token=1CPisY1ek6px1qPSKog4q9gcXkYw5hExmJDQwv5tNGQi6p6UeqPv1Gjgr3DjYRCb",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN016MgGym1TITKJaQgsz_!!2218543492359-0-cib.jpg",
@@ -161,8 +161,8 @@
       "sellerYears": "3",
       "sellerRating": "4",
       "sellerGrade": "",
-      "isBundle": false,
-      "bundleQty": 2,
+      "isBundle": true,
+      "bundleQty": 3,
       "cny": 1.28,
       "rate": 300,
       "importMode": "simple",
@@ -192,7 +192,7 @@
           "sell": 5900,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN016MgGym1TITKJaQgsz_!!2218543492359-0-cib.jpg",
           "inputMode": "sell",
-          "savedMarginPct": 25
+          "savedMarginPct": null
         }
       ]
     },
