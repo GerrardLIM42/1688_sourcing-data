@@ -31,7 +31,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 7900,
+      "sell": 5280,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -42,9 +42,9 @@
           "id": "5f6d6857-de90-4339-8aa4-427026e7e18a",
           "name": "1mm, 30cm * 3m",
           "cny": 2.5,
-          "sell": 7900,
+          "sell": 5280,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01qwG8s81Htm8o3O862_!!4268480816-0-cib.jpg",
-          "inputMode": "sell",
+          "inputMode": "margin",
           "savedMarginPct": 25
         }
       ]
@@ -80,7 +80,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 7900,
+      "sell": 5592,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -91,9 +91,9 @@
           "id": "e988ab69-ff4f-495e-a40c-79baaf65caa5",
           "name": "1mm, 30cm * 3m",
           "cny": 3.15,
-          "sell": 7900,
+          "sell": 5592,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01X3POGp1sJiwW8yz13_!!979905746-0-cib.jpg",
-          "inputMode": "sell",
+          "inputMode": "margin",
           "savedMarginPct": 25
         }
       ]
@@ -129,7 +129,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 7900,
+      "sell": 4845,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -140,9 +140,9 @@
           "id": "a01f0c57-5907-4bdc-b42e-5364176d6f01",
           "name": "1mm, 3cm * 3m",
           "cny": 1.76,
-          "sell": 7900,
+          "sell": 4845,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01guhQNb2Gqjxl7W7xf_!!4045759067-0-cib.jpg",
-          "inputMode": "sell",
+          "inputMode": "margin",
           "savedMarginPct": 25
         }
       ]
@@ -178,7 +178,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 7900,
+      "sell": 4614,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -189,9 +189,9 @@
           "id": "37928d9e-bed0-4f7c-a95a-865025aca496",
           "name": "1mm, 3cm * 3m",
           "cny": 1.28,
-          "sell": 7900,
+          "sell": 4614,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN016MgGym1TITKJaQgsz_!!2218543492359-0-cib.jpg",
-          "inputMode": "sell",
+          "inputMode": "margin",
           "savedMarginPct": 25
         }
       ]
@@ -11893,6 +11893,25 @@
       "sourceUrl": "https://itemscout.io/keyword/239866529",
       "updatedAt": "2026. 11. 17.",
       "memo": ""
+    },
+    "옷걸이": {
+      "keyword": "옷걸이",
+      "searchVolumeTotal": "57300",
+      "searchVolumePc": "",
+      "searchVolumeMobile": "",
+      "competitionCount": "543439",
+      "competitionScore": "9.48",
+      "competitionLevel": "나쁨",
+      "rocketRatio": "43.66",
+      "rocketRatioLevel": "보통",
+      "sellerRocketRatio": "36.62",
+      "sellerRocketRatioLevel": "좋음",
+      "avgPrice": "14395",
+      "avgReviewCount": "13875",
+      "seasonNote": "",
+      "sourceUrl": "https://itemscout.io/keyword/497",
+      "updatedAt": "2026. 11. 21.",
+      "memo": ""
     }
   },
   "hiddenFolders": [
@@ -11926,6 +11945,7 @@
     "빨래바구니",
     "분리수거함"
   ],
+  "folderOrder": [],
   "dashboard": {
     "v": 1,
     "entries": {
