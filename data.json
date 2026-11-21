@@ -14047,7 +14047,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795227216419,
+        "t": 1795227224138,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14067,7 +14067,7 @@
             {
               "name": "",
               "sub": "",
-              "price": null,
+              "price": 5900,
               "views_28d": null,
               "buyers_28d": 8000,
               "reviews": 6567,
@@ -14095,38 +14095,38 @@
               "image": null
             }
           ],
-          "lowest_price": 11150,
-          "avg_price": 11150,
+          "lowest_price": 5900,
+          "avg_price": 8525,
           "pricing": [
             {
-              "sell_price": 11150,
+              "sell_price": 5900,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1288,
-              "vat": 986.2,
-              "net_profit": 8875.8,
+              "coupang_fee": 681,
+              "vat": 521.9,
+              "net_profit": 4697.1,
               "profit_rate": null,
-              "margin_rate": 0.7960358744394618,
+              "margin_rate": 0.7961186440677966,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 11150,
+              "sell_price": 8525,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1288,
-              "vat": 986.2,
-              "net_profit": 8875.8,
+              "coupang_fee": 985,
+              "vat": 754,
+              "net_profit": 6786,
               "profit_rate": null,
-              "margin_rate": 0.7960358744394618,
+              "margin_rate": 0.7960117302052786,
               "sell_auto": true,
               "fee_auto": true
             }
