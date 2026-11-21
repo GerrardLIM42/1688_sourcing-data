@@ -13926,7 +13926,7 @@
         "v": null
       },
       "custom:custom-1794811712303-914": {
-        "t": 1795241035368,
+        "t": 1795241473357,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -13979,17 +13979,17 @@
           "pricing": [
             {
               "sell_price": 11610,
-              "china_cost": 12.78,
-              "purchase_cost": 3833,
+              "china_cost": 11.61,
+              "purchase_cost": 3483,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "생활/주방",
               "wing_fee": "",
               "coupang_fee": 1277,
-              "vat": 322.5,
-              "net_profit": 2902.5,
-              "profit_rate": 0.7572397599791286,
-              "margin_rate": 0.25,
+              "vat": 357.5,
+              "net_profit": 3217.5,
+              "profit_rate": 0.9237726098191215,
+              "margin_rate": 0.2771317829457364,
               "sell_auto": true,
               "fee_auto": true
             },
@@ -14014,8 +14014,7 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": [],
-          "_id": 30
+          "extra_images": []
         }
       },
       "notes:custom-1794811711202-754": {
@@ -14379,7 +14378,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795241229872,
+        "t": 1795241472473,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14467,7 +14466,8 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": []
+          "extra_images": [],
+          "_id": 33
         }
       }
     },
