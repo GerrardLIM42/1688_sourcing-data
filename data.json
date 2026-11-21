@@ -14033,13 +14033,14 @@
         }
       },
       "notes:custom-1795227014340-510": {
-        "t": 1795227051121,
+        "t": 1795227243353,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
           "compImgUrls": {
-            "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/938782752374590-c0901969-2119-4b90-9139-bef7b16d8ae4.jpg"
+            "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/938782752374590-c0901969-2119-4b90-9139-bef7b16d8ae4.jpg",
+            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/85981534429481-9ec4e51b-3522-4a46-808e-a6c142d45933.jpg"
           },
           "category": "HOME",
           "starred": false,
