@@ -11723,11 +11723,7 @@
     "겨울 넥워머",
     "보냉 가방",
     "드로즈 팬티",
-    "휴대 과일통",
-    "분리수거함",
-    "빨래바구니",
-    "돗자리",
-    "뽑아쓰는 키친타올"
+    "휴대 과일통"
   ],
   "dashboard": {
     "v": 1,
@@ -14037,14 +14033,16 @@
         }
       },
       "notes:custom-1795227014340-510": {
-        "t": 1795227243353,
+        "t": 1795227415915,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
           "compImgUrls": {
             "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/938782752374590-c0901969-2119-4b90-9139-bef7b16d8ae4.jpg",
-            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/85981534429481-9ec4e51b-3522-4a46-808e-a6c142d45933.jpg"
+            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/85981534429481-9ec4e51b-3522-4a46-808e-a6c142d45933.jpg",
+            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/358567065729233-373f5d1e-37e2-43a0-9ad7-703590663e36.jpg",
+            "3": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/38d3/6c69d6d60086b22a231e9412c24995cf406fb0d16bd1708e47d45e3618af.jpg"
           },
           "category": "HOME",
           "starred": false,
@@ -14052,7 +14050,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795227306469,
+        "t": 1795227512163,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14080,58 +14078,58 @@
               "image": null
             },
             {
-              "name": "",
-              "sub": "",
-              "price": null,
-              "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
+              "name": "라온",
+              "sub": "3m, 1개",
+              "price": 3900,
+              "views_28d": 53879,
+              "buyers_28d": 9000,
+              "reviews": 28078,
               "url": "https://www.coupang.com/vp/products/7973114246?itemId=27394926363&vendorItemId=74635341662&pickType=COU_PICK&q=%EC%8B%A4%EB%A6%AC%EC%BD%98+%EC%96%91%EB%A9%B4%ED%85%8C%EC%9D%B4%ED%94%84&searchId=c93b9baa4976641&sourceType=search&rank=2&itemsCount=60&searchRank=2&traceId=mwprz4cs",
               "image": null
             },
             {
-              "name": "",
-              "sub": "",
-              "price": null,
-              "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
-              "url": "",
+              "name": "픽스본드",
+              "sub": "3cm x 5m, 3개, 투명",
+              "price": 8700,
+              "views_28d": 18851,
+              "buyers_28d": 2000,
+              "reviews": 667,
+              "url": "https://www.coupang.com/vp/products/9671677531?itemId=28917801090&vendorItemId=95849518165&q=%EC%8B%A4%EB%A6%AC%EC%BD%98+%EC%96%91%EB%A9%B4%ED%85%8C%EC%9D%B4%ED%94%84&searchId=c93b9baa4976641&sourceType=search&rank=8&itemsCount=60&searchRank=8&traceId=mwps1hnu",
               "image": null
             }
           ],
-          "lowest_price": 5900,
-          "avg_price": 8525,
+          "lowest_price": 3900,
+          "avg_price": 7412.5,
           "pricing": [
             {
-              "sell_price": 5900,
-              "china_cost": null,
-              "purchase_cost": null,
+              "sell_price": 3900,
+              "china_cost": 7.96,
+              "purchase_cost": 2388,
               "growth_cost": null,
               "growth_tier": null,
-              "fee_cat": "",
-              "wing_fee": "",
-              "coupang_fee": 681,
-              "vat": 521.9,
-              "net_profit": 4697.1,
-              "profit_rate": null,
-              "margin_rate": 0.7961186440677966,
+              "fee_cat": "생활/주방",
+              "wing_fee": "생활용품>접착용품|홈 > 공구/셀프인테리어용품",
+              "coupang_fee": 429,
+              "vat": 108.30000000000001,
+              "net_profit": 974.7,
+              "profit_rate": 0.4081658291457287,
+              "margin_rate": 0.24992307692307694,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 8525,
-              "china_cost": null,
-              "purchase_cost": null,
+              "sell_price": 7412.5,
+              "china_cost": 14.99,
+              "purchase_cost": 4497,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 985,
-              "vat": 754,
-              "net_profit": 6786,
-              "profit_rate": null,
-              "margin_rate": 0.7960117302052786,
+              "coupang_fee": 856,
+              "vat": 205.95000000000002,
+              "net_profit": 1853.55,
+              "profit_rate": 0.4121747831887925,
+              "margin_rate": 0.2500573355817875,
               "sell_auto": true,
               "fee_auto": true
             }
