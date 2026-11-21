@@ -13926,7 +13926,7 @@
         "v": null
       },
       "custom:custom-1794811712303-914": {
-        "t": 1795240199351,
+        "t": 1795240203935,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -13979,17 +13979,17 @@
           "pricing": [
             {
               "sell_price": 11610,
-              "china_cost": 12.44,
-              "purchase_cost": 3732,
+              "china_cost": 12.78,
+              "purchase_cost": 3833,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "생활/주방",
               "wing_fee": "",
               "coupang_fee": 1277,
-              "vat": 332.6,
-              "net_profit": 2993.4,
-              "profit_rate": 0.8020900321543408,
-              "margin_rate": 0.2578294573643411,
+              "vat": 322.5,
+              "net_profit": 2902.5,
+              "profit_rate": 0.7572397599791286,
+              "margin_rate": 0.25,
               "sell_auto": true,
               "fee_auto": true
             },
