@@ -13926,7 +13926,7 @@
         "v": null
       },
       "custom:custom-1794811712303-914": {
-        "t": 1795235596319,
+        "t": 1795235601758,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -13995,17 +13995,17 @@
             },
             {
               "sell_price": 13270,
-              "china_cost": 16.16,
-              "purchase_cost": 4849,
+              "china_cost": 14.22,
+              "purchase_cost": 4266,
               "growth_cost": 3475,
               "growth_tier": "s",
               "fee_cat": "생활/주방",
               "wing_fee": "주방용품>보관/밀폐용기|주방 > 밀폐저장용기",
               "coupang_fee": 1460,
-              "vat": 348.6,
-              "net_profit": 3137.4,
-              "profit_rate": 0.6470200041245617,
-              "margin_rate": 0.23642803315749814,
+              "vat": 406.90000000000003,
+              "net_profit": 3662.1,
+              "profit_rate": 0.8584388185654008,
+              "margin_rate": 0.27596834966088923,
               "sell_auto": true,
               "fee_auto": true
             }
