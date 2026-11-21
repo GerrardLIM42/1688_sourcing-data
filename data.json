@@ -14050,7 +14050,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795227476732,
+        "t": 1795227486154,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14088,9 +14088,9 @@
               "image": null
             },
             {
-              "name": "픽스본",
+              "name": "픽스본e",
               "sub": "3cm x 5m, 3개, 투명",
-              "price": null,
+              "price": 8700,
               "views_28d": 18851,
               "buyers_28d": 2000,
               "reviews": 667,
@@ -14099,7 +14099,7 @@
             }
           ],
           "lowest_price": 3900,
-          "avg_price": 6983.333333333333,
+          "avg_price": 7412.5,
           "pricing": [
             {
               "sell_price": 3900,
@@ -14118,18 +14118,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 6983.333333333333,
+              "sell_price": 7412.5,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 807,
-              "vat": 617.6333333333333,
-              "net_profit": 5558.7,
+              "coupang_fee": 856,
+              "vat": 655.6500000000001,
+              "net_profit": 5900.85,
               "profit_rate": null,
-              "margin_rate": 0.7959952267303103,
+              "margin_rate": 0.7960674536256325,
               "sell_auto": true,
               "fee_auto": true
             }
