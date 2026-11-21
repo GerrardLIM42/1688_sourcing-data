@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "e7c02c15-5f77-4d49-91f8-880a633d5bff",
+      "createdAt": 1795227745333,
+      "updatedAt": 1795227745333,
+      "name": "실리콘 양면 테이프",
+      "folder": "실리콘 양면 테이프",
+      "link": "https://detail.1688.com/offer/851575121583.html?kj_agent_plugin=aliprice&fromkv=xytTrace:2132815517952269842706424e0d61&token=1CPisY1ek6px1qPSKog4q9gcXkYw5hExmJDQwv5tNGQi6p6UeqPv1Gjgr3DjYRCb",
+      "yearlySales": "100000",
+      "sellerYears": "3",
+      "sellerRating": "4",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN016MgGym1TITKJaQgsz_!!2218543492359-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 1.28,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "W|생활용품>접착용품|홈 > 공구/셀프인테리어용품",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "극소형 (50g 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 4614,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "37928d9e-bed0-4f7c-a95a-865025aca496",
+          "name": "1mm, 3cm * 3m",
+          "cny": 1.28,
+          "sell": 4614,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN016MgGym1TITKJaQgsz_!!2218543492359-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "0627bc5a-c93a-42f8-b9e8-e27d476216bc",
       "createdAt": 1794910419317,
       "updatedAt": 1794910419317,
