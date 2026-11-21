@@ -14379,7 +14379,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795241182003,
+        "t": 1795241186590,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14450,15 +14450,15 @@
               "sell_price": 7412.5,
               "china_cost": 7.41,
               "purchase_cost": 2223,
-              "growth_cost": null,
-              "growth_tier": null,
+              "growth_cost": 2150,
+              "growth_tier": "xs",
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": 856,
-              "vat": 433.35,
-              "net_profit": 3900.15,
-              "profit_rate": 1.7544534412955466,
-              "margin_rate": 0.5261585160202361,
+              "vat": 218.35000000000002,
+              "net_profit": 1965.15,
+              "profit_rate": 0.8840080971659919,
+              "margin_rate": 0.2651129848229343,
               "sell_auto": true,
               "fee_auto": true
             }
