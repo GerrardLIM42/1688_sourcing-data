@@ -14047,7 +14047,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795227033164,
+        "t": 1795227058436,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14061,7 +14061,7 @@
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
-              "url": "",
+              "url": "https://www.coupang.com/vp/products/1883623856?vendorItemId=71188305523",
               "image": null
             },
             {
@@ -14107,8 +14107,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
@@ -14123,8 +14123,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
