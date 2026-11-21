@@ -14033,7 +14033,7 @@
         }
       },
       "notes:custom-1795227014340-510": {
-        "t": 1795227415915,
+        "t": 1795227608323,
         "v": {
           "status": "관심",
           "memo": "",
@@ -14045,7 +14045,7 @@
             "3": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/38d3/6c69d6d60086b22a231e9412c24995cf406fb0d16bd1708e47d45e3618af.jpg"
           },
           "category": "HOME",
-          "starred": false,
+          "starred": true,
           "hidden": false
         }
       },
