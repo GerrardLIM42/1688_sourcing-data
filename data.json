@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "fbff4a1e-4ea9-4e29-9625-f14c6d9ef11b",
+      "createdAt": 1795228052063,
+      "updatedAt": 1795228052063,
+      "name": "실리콘 양면 테이프",
+      "folder": "실리콘 양면 테이프",
+      "link": "https://detail.1688.com/offer/597547488363.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=3fed6dcf7fd24ff29d5c6a93d62f1362&sessionid=6d6b0e758e72414d94f8886d4cc54b24&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04",
+      "yearlySales": "100000",
+      "sellerYears": "17",
+      "sellerRating": "5",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01X3POGp1sJiwW8yz13_!!979905746-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 3.15,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "W|생활용품>접착용품|홈 > 공구/셀프인테리어용품",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "극소형 (50g 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5592,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "e988ab69-ff4f-495e-a40c-79baaf65caa5",
+          "name": "1mm, 30cm * 3m",
+          "cny": 3.15,
+          "sell": 5592,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01X3POGp1sJiwW8yz13_!!979905746-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "37d406e7-8524-4388-8db0-b60e0cdd6da5",
       "createdAt": 1795227900081,
       "updatedAt": 1795227900081,
