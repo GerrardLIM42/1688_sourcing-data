@@ -14047,7 +14047,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795227170366,
+        "t": 1795227205316,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14069,7 +14069,7 @@
               "sub": "",
               "price": null,
               "views_28d": null,
-              "buyers_28d": null,
+              "buyers_28d": 8000,
               "reviews": null,
               "url": "",
               "image": null
