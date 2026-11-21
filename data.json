@@ -14032,12 +14032,24 @@
           "_id": 32
         }
       },
+      "notes:custom-1795227014340-510": {
+        "t": 1795227035505,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
       "custom:custom-1795227014340-510": {
-        "t": 1795227014341,
+        "t": 1795227033164,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
-          "name": "새 상품",
+          "name": "실리콘 양면 테이프",
           "monthly_search": null,
           "competitors": [
             {
