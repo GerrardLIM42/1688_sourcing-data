@@ -14047,7 +14047,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795227065722,
+        "t": 1795227073799,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14059,7 +14059,7 @@
               "sub": "",
               "price": null,
               "views_28d": null,
-              "buyers_28d": null,
+              "buyers_28d": 10000,
               "reviews": 61829,
               "url": "https://www.coupang.com/vp/products/1883623856?vendorItemId=71188305523",
               "image": null
