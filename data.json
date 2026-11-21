@@ -13926,7 +13926,7 @@
         "v": null
       },
       "custom:custom-1794811712303-914": {
-        "t": 1794881611176,
+        "t": 1795235596319,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1794811712303-914",
@@ -13940,6 +13940,7 @@
               "views_28d": null,
               "buyers_28d": 6000,
               "reviews": 35410,
+              "url": "",
               "image": null
             },
             {
@@ -13949,6 +13950,7 @@
               "views_28d": 15612,
               "buyers_28d": 1000,
               "reviews": 123,
+              "url": "",
               "image": null
             },
             {
@@ -13958,6 +13960,7 @@
               "views_28d": 11700,
               "buyers_28d": 3000,
               "reviews": 17606,
+              "url": "",
               "image": null
             },
             {
@@ -13967,6 +13970,7 @@
               "views_28d": 7542,
               "buyers_28d": 1000,
               "reviews": 762,
+              "url": "",
               "image": null
             }
           ],
@@ -13975,17 +13979,17 @@
           "pricing": [
             {
               "sell_price": 11610,
-              "china_cost": 12.78,
-              "purchase_cost": 3833,
+              "china_cost": 12.44,
+              "purchase_cost": 3732,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "생활/주방",
               "wing_fee": "",
               "coupang_fee": 1277,
-              "vat": 322.5,
-              "net_profit": 2902.5,
-              "profit_rate": 0.7572397599791286,
-              "margin_rate": 0.25,
+              "vat": 332.6,
+              "net_profit": 2993.4,
+              "profit_rate": 0.8020900321543408,
+              "margin_rate": 0.2578294573643411,
               "sell_auto": true,
               "fee_auto": true
             },
@@ -14010,8 +14014,7 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": [],
-          "_id": 30
+          "extra_images": []
         }
       },
       "notes:custom-1794811711202-754": {
@@ -14375,7 +14378,7 @@
         }
       },
       "custom:custom-1795227014340-510": {
-        "t": 1795227512163,
+        "t": 1795235596319,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795227014340-510",
@@ -14463,7 +14466,8 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": []
+          "extra_images": [],
+          "_id": 33
         }
       }
     },
