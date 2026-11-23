@@ -14486,7 +14486,7 @@
         }
       },
       "custom:custom-1795400290205-352": {
-        "t": 1795400322802,
+        "t": 1795400564630,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795400290205-352",
@@ -14495,7 +14495,7 @@
           "competitors": [
             {
               "name": "",
-              "sub": "",
+              "sub": "코멧 홈 논슬립 바지걸이,",
               "price": null,
               "views_28d": null,
               "buyers_28d": null,
@@ -14546,8 +14546,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
@@ -14562,8 +14562,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
