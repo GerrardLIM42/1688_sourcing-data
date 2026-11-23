@@ -3,7 +3,7 @@
     {
       "id": "de5c1c90-5639-46f5-a461-eb8fcb70a8a4",
       "createdAt": 1795405214425,
-      "updatedAt": 1795405275240,
+      "updatedAt": 1795405432537,
       "name": "배변봉투",
       "folder": "배변봉투",
       "link": "https://detail.1688.com/offer/795352272401.html?spm=a26352.13672862.offerlist.111.78491e62ZGcgd4&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=f828afaae5d14a1abb1482ea30185643&skuId=5428334465148&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S02",
@@ -15,7 +15,7 @@
       "category": "ACTIVE",
       "status": "검토중",
       "isBundle": true,
-      "bundleQty": 10,
+      "bundleQty": 20,
       "cny": 0.25,
       "rate": 300,
       "importMode": "simple",
@@ -30,16 +30,16 @@
       "rocketSize": "소형 (2kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 4880,
+      "sell": 6080,
       "ad": 7,
       "ret": 3,
       "memo": "",
       "options": [
         {
           "id": "3c963795-06f9-4e37-8532-e83b127272a5",
-          "name": "15매 10개",
+          "name": "15매 20개",
           "cny": 0.25,
-          "sell": 4880,
+          "sell": 6080,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01RB2WJD1PE77bGfjIP_!!2217889771808-0-cib.jpg",
           "inputMode": "margin",
           "savedMarginPct": 25
