@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "de5c1c90-5639-46f5-a461-eb8fcb70a8a4",
+      "createdAt": 1795405214425,
+      "updatedAt": 1795405214425,
+      "name": "배변봉투",
+      "folder": "배변봉투",
+      "link": "https://detail.1688.com/offer/795352272401.html?spm=a26352.13672862.offerlist.111.78491e62ZGcgd4&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=f828afaae5d14a1abb1482ea30185643&skuId=5428334465148&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S02",
+      "yearlySales": "100000",
+      "sellerYears": "3",
+      "sellerRating": "4",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01RB2WJD1PE77bGfjIP_!!2217889771808-0-cib.jpg",
+      "category": "ACTIVE",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 10,
+      "cny": 0.25,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "스포츠/레저",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 25,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "3c963795-06f9-4e37-8532-e83b127272a5",
+          "name": "15매 10개",
+          "cny": 0.25,
+          "sell": 25,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01RB2WJD1PE77bGfjIP_!!2217889771808-0-cib.jpg",
+          "inputMode": "sell",
+          "savedMarginPct": null
+        }
+      ]
+    },
+    {
       "id": "add7eda6-c39d-4b7a-b74d-f8c7df2f6861",
       "createdAt": 1795402516833,
       "updatedAt": 1795404381728,
