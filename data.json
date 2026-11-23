@@ -14471,12 +14471,24 @@
           "_id": 33
         }
       },
+      "notes:custom-1795400290205-352": {
+        "t": 1795400323869,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
       "custom:custom-1795400290205-352": {
-        "t": 1795400300411,
+        "t": 1795400322802,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795400290205-352",
-          "name": "바지걸",
+          "name": "바지걸이",
           "monthly_search": null,
           "competitors": [
             {
