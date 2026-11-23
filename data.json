@@ -14472,13 +14472,14 @@
         }
       },
       "notes:custom-1795400290205-352": {
-        "t": 1795400554277,
+        "t": 1795400661922,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
           "compImgUrls": {
-            "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/fd66/e4a68c39197713991cae87e7b1008e5ee8c5ad04bfecab96c7b392b2a78e.jpg"
+            "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/fd66/e4a68c39197713991cae87e7b1008e5ee8c5ad04bfecab96c7b392b2a78e.jpg",
+            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/7ed8/1d89f0863a17d86efea3356fd196a243ddbf6e7fa4cdb4a22d56b903493d.png"
           },
           "category": "HOME",
           "starred": false,
@@ -14486,7 +14487,7 @@
         }
       },
       "custom:custom-1795400290205-352": {
-        "t": 1795400632370,
+        "t": 1795400662279,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795400290205-352",
@@ -14541,15 +14542,15 @@
               "sell_price": 8900,
               "china_cost": null,
               "purchase_cost": null,
-              "growth_cost": null,
-              "growth_tier": null,
+              "growth_cost": 3275,
+              "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": 1028,
-              "vat": 787.2,
-              "net_profit": 7084.8,
+              "vat": 459.70000000000005,
+              "net_profit": 4137.3,
               "profit_rate": null,
-              "margin_rate": 0.7960449438202247,
+              "margin_rate": 0.46486516853932586,
               "sell_auto": true,
               "fee_auto": true
             },
@@ -14557,15 +14558,15 @@
               "sell_price": 8900,
               "china_cost": null,
               "purchase_cost": null,
-              "growth_cost": null,
-              "growth_tier": null,
+              "growth_cost": 3275,
+              "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": 1028,
-              "vat": 787.2,
-              "net_profit": 7084.8,
+              "vat": 459.70000000000005,
+              "net_profit": 4137.3,
               "profit_rate": null,
-              "margin_rate": 0.7960449438202247,
+              "margin_rate": 0.46486516853932586,
               "sell_auto": true,
               "fee_auto": true
             }
