@@ -14487,7 +14487,7 @@
         }
       },
       "custom:custom-1795400290205-352": {
-        "t": 1795401137428,
+        "t": 1795401141432,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795400290205-352",
@@ -14509,8 +14509,8 @@
               "sub": "블랙 20개",
               "price": 14900,
               "views_28d": null,
-              "buyers_28d": 1000,
-              "reviews": 11853,
+              "buyers_28d": 2000,
+              "reviews": 10815,
               "url": "",
               "image": null
             },
