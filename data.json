@@ -14487,7 +14487,7 @@
         }
       },
       "custom:custom-1795400290205-352": {
-        "t": 1795400700262,
+        "t": 1795400703926,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795400290205-352",
@@ -14506,8 +14506,8 @@
             },
             {
               "name": "라이프서치 논슬립 바지걸이",
-              "sub": "그레이 40",
-              "price": null,
+              "sub": "그레이 40개",
+              "price": 14500,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -14536,7 +14536,7 @@
             }
           ],
           "lowest_price": 8900,
-          "avg_price": 8900,
+          "avg_price": 11700,
           "pricing": [
             {
               "sell_price": 8900,
@@ -14555,18 +14555,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 8900,
+              "sell_price": 11700,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1028,
-              "vat": 459.70000000000005,
-              "net_profit": 4137.3,
+              "coupang_fee": 1351,
+              "vat": 707.4000000000001,
+              "net_profit": 6366.6,
               "profit_rate": null,
-              "margin_rate": 0.46486516853932586,
+              "margin_rate": 0.5441538461538462,
               "sell_auto": true,
               "fee_auto": true
             }
