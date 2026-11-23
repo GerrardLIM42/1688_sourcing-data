@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "8ccd05dd-c8bc-43a3-914c-4ad8780deb7e",
+      "createdAt": 1795405553262,
+      "updatedAt": 1795405553262,
+      "name": "배변봉투",
+      "folder": "배변봉투",
+      "link": "https://detail.1688.com/offer/1078222695408.html?tracelog=p4p&spm=a26352.13672862.offerlist.15.78491e62ZGcgd4&clickid=1e29db51700448f2b0f8a9c4967f8b8a&sessionid=888307e5a3b3a528ef72222086c89a1c&_p_isad=1",
+      "yearlySales": "100000",
+      "sellerYears": "1",
+      "sellerRating": "4.5",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01qPwXydSQugH24uCu_!!2222983311270-0-cib.jpg",
+      "category": "PET",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 6.64,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "반려동물",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 7547,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "0b7dbbef-26ea-4213-8d58-25416d141148",
+          "name": "15매 20개",
+          "cny": 6.64,
+          "sell": 7547,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01qPwXydSQugH24uCu_!!2222983311270-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "de5c1c90-5639-46f5-a461-eb8fcb70a8a4",
       "createdAt": 1795405214425,
       "updatedAt": 1795405432537,
