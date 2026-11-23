@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "bd22dbc8-3279-470d-9f20-4a86bb5443fb",
+      "createdAt": 1795401961094,
+      "updatedAt": 1795401961094,
+      "name": "바지걸이",
+      "folder": "바지걸이",
+      "link": "https://detail.1688.com/offer/950777251627.html?sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04&spm=a26352.b28411319/2508.0.0",
+      "yearlySales": "31000",
+      "sellerYears": "2",
+      "sellerRating": "3",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01RxqFrW1lfynrfcMIY_!!2219806994847-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 20,
+      "cny": 0.55,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "W|가구/홈데코>가구>옷장/드레스룸|홈 > 가구/수납/정리",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "중형 (5kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 11760,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "0038361c-3c1c-46e2-963f-b92686af7376",
+          "name": "블랙 20개",
+          "cny": 0.55,
+          "sell": 11760,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01RxqFrW1lfynrfcMIY_!!2219806994847-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "e4340f50-a8c5-409b-a86b-71b8904072da",
       "createdAt": 1795401691002,
       "updatedAt": 1795401691002,
