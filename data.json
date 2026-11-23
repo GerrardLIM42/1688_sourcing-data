@@ -14487,7 +14487,7 @@
         }
       },
       "custom:custom-1795400290205-352": {
-        "t": 1795401186621,
+        "t": 1795401194160,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795400290205-352",
@@ -14496,8 +14496,8 @@
           "competitors": [
             {
               "name": "코멧 홈 논슬립 코팅 회전형 치마바지걸이",
-              "sub": "화이트 20개",
-              "price": 8900,
+              "sub": " 20개",
+              "price": 9200,
               "views_28d": null,
               "buyers_28d": 5000,
               "reviews": 47414,
@@ -14535,38 +14535,38 @@
               "image": null
             }
           ],
-          "lowest_price": 8900,
-          "avg_price": 11900,
+          "lowest_price": 9200,
+          "avg_price": 12050,
           "pricing": [
             {
-              "sell_price": 8900,
+              "sell_price": 9200,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1028,
-              "vat": 459.70000000000005,
-              "net_profit": 4137.3,
+              "coupang_fee": 1063,
+              "vat": 486.20000000000005,
+              "net_profit": 4375.8,
               "profit_rate": null,
-              "margin_rate": 0.46486516853932586,
+              "margin_rate": 0.4756304347826087,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 11900,
+              "sell_price": 12050,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1374,
-              "vat": 725.1,
-              "net_profit": 6525.9,
+              "coupang_fee": 1392,
+              "vat": 738.3000000000001,
+              "net_profit": 6644.7,
               "profit_rate": null,
-              "margin_rate": 0.5483949579831933,
+              "margin_rate": 0.5514273858921162,
               "sell_auto": true,
               "fee_auto": true
             }
