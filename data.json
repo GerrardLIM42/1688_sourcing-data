@@ -3,7 +3,7 @@
     {
       "id": "add7eda6-c39d-4b7a-b74d-f8c7df2f6861",
       "createdAt": 1795402516833,
-      "updatedAt": 1795402557116,
+      "updatedAt": 1795404381728,
       "name": "바지걸이",
       "folder": "바지걸이",
       "link": "https://detail.1688.com/offer/859965061872.html?sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04&spm=a26352.b28411319/2508.0.0",
@@ -16,7 +16,7 @@
       "status": "검토중",
       "isBundle": true,
       "bundleQty": 20,
-      "cny": 0.6,
+      "cny": 0.59,
       "rate": 300,
       "importMode": "simple",
       "duty": 8,
@@ -30,7 +30,7 @@
       "rocketSize": "중형 (5kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 12240,
+      "sell": 12144,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -38,8 +38,8 @@
         {
           "id": "f07af431-96f0-4599-a2ad-abae28512755",
           "name": "20개",
-          "cny": 0.6,
-          "sell": 12240,
+          "cny": 0.59,
+          "sell": 12144,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01Uo5O7t1g4M8MyaDFc_!!2216535964088-0-cib.jpg",
           "inputMode": "margin",
           "savedMarginPct": 25
