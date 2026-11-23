@@ -14489,7 +14489,7 @@
         }
       },
       "custom:custom-1795400290205-352": {
-        "t": 1795401443215,
+        "t": 1795401444416,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795400290205-352",
@@ -14558,17 +14558,17 @@
             },
             {
               "sell_price": 10525,
-              "china_cost": null,
-              "purchase_cost": null,
+              "china_cost": 7.98,
+              "purchase_cost": 2393,
               "growth_cost": 4050,
               "growth_tier": "m",
               "fee_cat": "생활/주방",
               "wing_fee": "가구/홈데코>가구>옷장/드레스룸|홈 > 가구/수납/정리",
               "coupang_fee": 1158,
-              "vat": 531.7,
-              "net_profit": 4785.3,
-              "profit_rate": null,
-              "margin_rate": 0.45466033254156774,
+              "vat": 292.40000000000003,
+              "net_profit": 2631.6,
+              "profit_rate": 1.0997074801504387,
+              "margin_rate": 0.2500332541567696,
               "sell_auto": true,
               "fee_auto": true
             }
