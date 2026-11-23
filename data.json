@@ -14488,7 +14488,7 @@
         }
       },
       "custom:custom-1795400290205-352": {
-        "t": 1795401244461,
+        "t": 1795401250195,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795400290205-352",
@@ -14518,7 +14518,7 @@
             {
               "name": "제이밀 논슬립 코팅 치마바지걸이",
               "sub": "블랙 20개",
-              "price": null,
+              "price": 9600,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -14537,7 +14537,7 @@
             }
           ],
           "lowest_price": 9200,
-          "avg_price": 12050,
+          "avg_price": 11233.333333333334,
           "pricing": [
             {
               "sell_price": 9200,
@@ -14556,18 +14556,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 12050,
+              "sell_price": 11233.333333333334,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1392,
-              "vat": 738.3000000000001,
-              "net_profit": 6644.7,
+              "coupang_fee": 1297,
+              "vat": 666.1333333333334,
+              "net_profit": 5995.200000000001,
               "profit_rate": null,
-              "margin_rate": 0.5514273858921162,
+              "margin_rate": 0.5336973293768547,
               "sell_auto": true,
               "fee_auto": true
             }
