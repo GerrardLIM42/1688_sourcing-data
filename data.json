@@ -14472,12 +14472,14 @@
         }
       },
       "notes:custom-1795400290205-352": {
-        "t": 1795400323869,
+        "t": 1795400554277,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
-          "compImgUrls": {},
+          "compImgUrls": {
+            "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/fd66/e4a68c39197713991cae87e7b1008e5ee8c5ad04bfecab96c7b392b2a78e.jpg"
+          },
           "category": "HOME",
           "starred": false,
           "hidden": false
