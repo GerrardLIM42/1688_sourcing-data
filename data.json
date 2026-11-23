@@ -14487,7 +14487,7 @@
         }
       },
       "custom:custom-1795400290205-352": {
-        "t": 1795400703926,
+        "t": 1795400708842,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795400290205-352",
@@ -14509,8 +14509,8 @@
               "sub": "그레이 40개",
               "price": 14500,
               "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
+              "buyers_28d": 4000,
+              "reviews": 11853,
               "url": "",
               "image": null
             },
