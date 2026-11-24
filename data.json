@@ -14889,7 +14889,7 @@
         }
       },
       "custom:custom-1795493614679-161": {
-        "t": 1795493620877,
+        "t": 1795493634517,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795493614679-161",
@@ -14897,8 +14897,8 @@
           "monthly_search": null,
           "competitors": [
             {
-              "name": "",
-              "sub": "",
+              "name": "생활미소 솔리드 샤워타월",
+              "sub": "3개입",
               "price": null,
               "views_28d": null,
               "buyers_28d": null,
@@ -14949,8 +14949,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
@@ -14965,8 +14965,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
