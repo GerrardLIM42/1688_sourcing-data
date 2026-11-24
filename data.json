@@ -14891,7 +14891,7 @@
         }
       },
       "custom:custom-1795493614679-161": {
-        "t": 1795493784064,
+        "t": 1795493788278,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795493614679-161",
@@ -14923,7 +14923,7 @@
               "sub": "3종",
               "price": 9900,
               "views_28d": null,
-              "buyers_28d": null,
+              "buyers_28d": 5000,
               "reviews": null,
               "url": "https://www.coupang.com/vp/products/9624999126?itemId=28744119016&vendorItemId=95727073981&q=%EC%83%A4%EC%9B%8C%ED%83%80%EC%98%AC&searchId=b576b46679719839&sourceType=search&rank=2&itemsCount=60&searchRank=2&traceId=mwu6m3wj",
               "image": null
