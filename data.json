@@ -14892,7 +14892,7 @@
         }
       },
       "custom:custom-1795493614679-161": {
-        "t": 1795493885977,
+        "t": 1795493889812,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795493614679-161",
@@ -14932,7 +14932,7 @@
             {
               "name": "샤바스 샤워타월 파스텔",
               "sub": "4종",
-              "price": null,
+              "price": 9880,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -14941,7 +14941,7 @@
             }
           ],
           "lowest_price": 6100,
-          "avg_price": 9633.333333333334,
+          "avg_price": 9695,
           "pricing": [
             {
               "sell_price": 6100,
@@ -14960,18 +14960,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 9633.333333333334,
+              "sell_price": 9695,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1113,
-              "vat": 524.5333333333334,
-              "net_profit": 4720.8,
+              "coupang_fee": 1120,
+              "vat": 530,
+              "net_profit": 4770,
               "profit_rate": null,
-              "margin_rate": 0.4900484429065744,
+              "margin_rate": 0.4920061887570913,
               "sell_auto": true,
               "fee_auto": true
             }
