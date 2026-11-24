@@ -15462,7 +15462,7 @@
         }
       },
       "custom:custom-1795559378915-77": {
-        "t": 1795560190581,
+        "t": 1795560197997,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795559378915-77",
@@ -15515,33 +15515,33 @@
           "pricing": [
             {
               "sell_price": 12900,
-              "china_cost": null,
-              "purchase_cost": null,
+              "china_cost": 15.25,
+              "purchase_cost": 4574,
               "growth_cost": 3350,
               "growth_tier": "xs",
               "fee_cat": "가전/디지털",
               "wing_fee": "가전/디지털>생활가전|가전 > 생활가전",
               "coupang_fee": 1393,
-              "vat": 815.7,
-              "net_profit": 7341.3,
-              "profit_rate": null,
-              "margin_rate": 0.569093023255814,
+              "vat": 358.3,
+              "net_profit": 3224.7,
+              "profit_rate": 0.705006558810669,
+              "margin_rate": 0.24997674418604648,
               "sell_auto": true,
               "fee_auto": true
             },
             {
               "sell_price": 13650,
-              "china_cost": null,
-              "purchase_cost": null,
+              "china_cost": 16.78,
+              "purchase_cost": 5034,
               "growth_cost": 3350,
               "growth_tier": "xs",
               "fee_cat": "가전/디지털",
               "wing_fee": "가전/디지털>생활가전|가전 > 생활가전",
               "coupang_fee": 1474,
-              "vat": 882.6,
-              "net_profit": 7943.4,
-              "profit_rate": null,
-              "margin_rate": 0.5819340659340659,
+              "vat": 379.20000000000005,
+              "net_profit": 3412.8,
+              "profit_rate": 0.6779499404052444,
+              "margin_rate": 0.250021978021978,
               "sell_auto": true,
               "fee_auto": true
             }
