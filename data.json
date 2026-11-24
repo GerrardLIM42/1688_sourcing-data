@@ -14891,7 +14891,7 @@
         }
       },
       "custom:custom-1795493614679-161": {
-        "t": 1795493779821,
+        "t": 1795493784064,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795493614679-161",
@@ -14920,8 +14920,8 @@
             },
             {
               "name": "까르꼼 딥클린 버블 샤워타올",
-              "sub": "3w",
-              "price": null,
+              "sub": "3종",
+              "price": 9900,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -14940,7 +14940,7 @@
             }
           ],
           "lowest_price": 6100,
-          "avg_price": 9500,
+          "avg_price": 9633.333333333334,
           "pricing": [
             {
               "sell_price": 6100,
@@ -14959,18 +14959,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 9500,
+              "sell_price": 9633.333333333334,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1097,
-              "vat": 512.8000000000001,
-              "net_profit": 4615.2,
+              "coupang_fee": 1113,
+              "vat": 524.5333333333334,
+              "net_profit": 4720.8,
               "profit_rate": null,
-              "margin_rate": 0.48581052631578947,
+              "margin_rate": 0.4900484429065744,
               "sell_auto": true,
               "fee_auto": true
             }
