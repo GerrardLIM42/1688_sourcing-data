@@ -15459,7 +15459,7 @@
         }
       },
       "custom:custom-1795559378915-77": {
-        "t": 1795559386265,
+        "t": 1795559415212,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795559378915-77",
@@ -15467,7 +15467,7 @@
           "monthly_search": null,
           "competitors": [
             {
-              "name": "",
+              "name": "LKOUY 보풀제거기 휴대용 충전식 6중날 대용량 세탁소용",
               "sub": "",
               "price": null,
               "views_28d": null,
@@ -15519,8 +15519,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
@@ -15535,8 +15535,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
