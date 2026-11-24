@@ -14769,6 +14769,30 @@
         "t": 1795493531857,
         "v": null
       },
+      "notes:custom-1795493526804-847": {
+        "t": 1795493621498,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": null,
+          "starred": false,
+          "hidden": false
+        }
+      },
+      "notes:custom-1795493614679-161": {
+        "t": 1795493621498,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
       "custom:custom-1795493526804-847": {
         "t": 1795493614680,
         "v": {
@@ -14863,11 +14887,11 @@
         }
       },
       "custom:custom-1795493614679-161": {
-        "t": 1795493614680,
+        "t": 1795493620877,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795493614679-161",
-          "name": "새 상품",
+          "name": "샤워타올",
           "monthly_search": null,
           "competitors": [
             {
