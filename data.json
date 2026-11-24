@@ -15460,7 +15460,7 @@
         }
       },
       "custom:custom-1795559378915-77": {
-        "t": 1795560013557,
+        "t": 1795560019787,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795559378915-77",
@@ -15480,9 +15480,9 @@
             {
               "name": "필립스 보풀제거기",
               "sub": "",
-              "price": null,
+              "price": 12900,
               "views_28d": null,
-              "buyers_28d": null,
+              "buyers_28d": 10000,
               "reviews": null,
               "url": "",
               "image": null
@@ -15508,38 +15508,38 @@
               "image": null
             }
           ],
-          "lowest_price": 14900,
-          "avg_price": 14900,
+          "lowest_price": 12900,
+          "avg_price": 13900,
           "pricing": [
             {
-              "sell_price": 14900,
+              "sell_price": 12900,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1721,
-              "vat": 990.4000000000001,
-              "net_profit": 8913.6,
+              "coupang_fee": 1490,
+              "vat": 813.5,
+              "net_profit": 7321.5,
               "profit_rate": null,
-              "margin_rate": 0.5982281879194631,
+              "margin_rate": 0.5675581395348838,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 14900,
+              "sell_price": 13900,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1721,
-              "vat": 990.4000000000001,
-              "net_profit": 8913.6,
+              "coupang_fee": 1605,
+              "vat": 902,
+              "net_profit": 8118,
               "profit_rate": null,
-              "margin_rate": 0.5982281879194631,
+              "margin_rate": 0.5840287769784173,
               "sell_auto": true,
               "fee_auto": true
             }
