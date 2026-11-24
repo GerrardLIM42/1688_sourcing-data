@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "346f9536-c1fb-4f4d-82ac-6d742d6c004a",
+      "createdAt": 1795498816645,
+      "updatedAt": 1795498816645,
+      "name": "샤워타올",
+      "folder": "샤워타올",
+      "link": "https://detail.1688.com/offer/1054773005674.html?spm=a26352.13672862.offerlist.235.5de01e62jSPTDK&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=c8d8a55820e14a23955288176de5ffc0&skuId=6323215379370&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S02",
+      "yearlySales": "100000",
+      "sellerYears": "2",
+      "sellerRating": "3.5",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SWz4l2r2waJ24uCu_!!4611686018427386937-2-industry_algo.png",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 3,
+      "cny": 2.6,
+      "rate": 280,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "W|생활용품>생활소품|홈 > 욕실용품",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "극소형 (50g 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 6934,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "fdac9a8a-374b-4cb7-8060-414d865a1c4d",
+          "name": "3종",
+          "cny": 2.6,
+          "sell": 6934,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01SWz4l2r2waJ24uCu_!!4611686018427386937-2-industry_algo.png",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "ebd922e9-8679-434e-8da5-f1faee3e725e",
       "createdAt": 1795498621518,
       "updatedAt": 1795498621518,
