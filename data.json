@@ -14890,7 +14890,7 @@
         }
       },
       "custom:custom-1795493614679-161": {
-        "t": 1795493713121,
+        "t": 1795493717412,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795493614679-161",
@@ -14912,7 +14912,7 @@
               "sub": "3종",
               "price": 12900,
               "views_28d": null,
-              "buyers_28d": null,
+              "buyers_28d": 2000,
               "reviews": null,
               "url": "",
               "image": null
