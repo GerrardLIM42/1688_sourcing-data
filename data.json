@@ -15459,7 +15459,7 @@
         }
       },
       "custom:custom-1795559378915-77": {
-        "t": 1795559415212,
+        "t": 1795559422804,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795559378915-77",
@@ -15469,10 +15469,10 @@
             {
               "name": "LKOUY 보풀제거기 휴대용 충전식 6중날 대용량 세탁소용",
               "sub": "",
-              "price": null,
+              "price": 14900,
               "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
+              "buyers_28d": 7000,
+              "reviews": 7109,
               "url": "",
               "image": null
             },
@@ -15507,38 +15507,38 @@
               "image": null
             }
           ],
-          "lowest_price": null,
-          "avg_price": null,
+          "lowest_price": 14900,
+          "avg_price": 14900,
           "pricing": [
             {
-              "sell_price": null,
+              "sell_price": 14900,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 1721,
+              "vat": 1317.9,
+              "net_profit": 11861.1,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.7960469798657719,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": null,
+              "sell_price": 14900,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 1721,
+              "vat": 1317.9,
+              "net_profit": 11861.1,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.7960469798657719,
               "sell_auto": true,
               "fee_auto": true
             }
