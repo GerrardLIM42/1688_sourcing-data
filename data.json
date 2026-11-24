@@ -15336,8 +15336,97 @@
         }
       },
       "custom:custom-1795400290205-352": {
-        "t": 1795493531857,
-        "v": null
+        "t": 1795559378918,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1795400290205-352",
+          "name": "바지걸이",
+          "monthly_search": null,
+          "competitors": [
+            {
+              "name": "코멧 홈 논슬립 코팅 회전형 치마바지걸이",
+              "sub": "그레이 20개",
+              "price": 9200,
+              "views_28d": null,
+              "buyers_28d": 6000,
+              "reviews": 42673,
+              "url": "https://www.coupang.com/vp/products/1500049935?itemId=2575884019&vendorItemId=70568169106&q=%EB%B0%94%EC%A7%80%EA%B1%B8%EC%9D%B4&searchId=e7b1a2364949364&sourceType=search&rank=0&itemsCount=60&searchRank=0&traceId=mwsnhyff",
+              "image": null
+            },
+            {
+              "name": "생활공식 논슬립 패킹 바지걸이 고급형",
+              "sub": "블랙 20개",
+              "price": 14900,
+              "views_28d": 19807,
+              "buyers_28d": 2000,
+              "reviews": 10815,
+              "url": "https://www.coupang.com/vp/products/6544960429?itemId=19012952875&vendorItemId=81830197896&q=%EB%B0%94%EC%A7%80%EA%B1%B8%EC%9D%B4&searchId=e7b1a2364949364&sourceType=search&rank=7&itemsCount=60&searchRank=7&traceId=mwsnfsgb",
+              "image": null
+            },
+            {
+              "name": "제이밀 논슬립 코팅 치마바지걸이",
+              "sub": "블랙 20개",
+              "price": 9600,
+              "views_28d": 25498,
+              "buyers_28d": 3000,
+              "reviews": 5839,
+              "url": "https://www.coupang.com/vp/products/8129409561?itemId=23084208616&vendorItemId=90117687899&q=%EB%B0%94%EC%A7%80%EA%B1%B8%EC%9D%B4&searchId=e7b1a2364949364&sourceType=search&rank=4&itemsCount=60&searchRank=4&traceId=mwsniwye",
+              "image": null
+            },
+            {
+              "name": "논슬립 자국방지 치마 바지걸이",
+              "sub": "블랙 20개",
+              "price": 8400,
+              "views_28d": 16934,
+              "buyers_28d": 1000,
+              "reviews": 1510,
+              "url": "https://www.coupang.com/vp/products/8826385572?itemId=25729752509&vendorItemId=93099688987&q=%EB%B0%94%EC%A7%80%EA%B1%B8%EC%9D%B4&searchId=e7b1a2364949364&sourceType=search&rank=6&itemsCount=60&searchRank=6&traceId=mwsnkdsh",
+              "image": null
+            }
+          ],
+          "lowest_price": 8400,
+          "avg_price": 10525,
+          "pricing": [
+            {
+              "sell_price": 8400,
+              "china_cost": 2.16,
+              "purchase_cost": 648,
+              "growth_cost": 4050,
+              "growth_tier": "m",
+              "fee_cat": "생활/주방",
+              "wing_fee": "가구/홈데코>가구>행거|홈 > 가구/수납/정리",
+              "coupang_fee": 924,
+              "vat": 277.8,
+              "net_profit": 2500.2,
+              "profit_rate": 3.858333333333333,
+              "margin_rate": 0.2976428571428571,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": 10525,
+              "china_cost": 7.98,
+              "purchase_cost": 2393,
+              "growth_cost": 4050,
+              "growth_tier": "m",
+              "fee_cat": "생활/주방",
+              "wing_fee": "가구/홈데코>가구>옷장/드레스룸|홈 > 가구/수납/정리",
+              "coupang_fee": 1158,
+              "vat": 292.40000000000003,
+              "net_profit": 2631.6,
+              "profit_rate": 1.0997074801504387,
+              "margin_rate": 0.2500332541567696,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": [],
+          "_id": 34
+        }
       },
       "notes:custom-1795493526804-847": {
         "t": 1795493621498,
@@ -15542,6 +15631,98 @@
               "net_profit": 2499.3,
               "profit_rate": 0.9906064209274674,
               "margin_rate": 0.257792676637442,
+              "sell_auto": true,
+              "fee_auto": true
+            }
+          ],
+          "target_sourcing_price": null,
+          "sourcing_1688": [],
+          "related_keywords": [],
+          "sourcing_note": null,
+          "extra_images": []
+        }
+      },
+      "custom:custom-1795559378915-77": {
+        "t": 1795559378918,
+        "v": {
+          "_isCustom": true,
+          "sheet": "custom-1795559378915-77",
+          "name": "새 상품",
+          "monthly_search": null,
+          "competitors": [
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "url": "",
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "url": "",
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "url": "",
+              "image": null
+            },
+            {
+              "name": "",
+              "sub": "",
+              "price": null,
+              "views_28d": null,
+              "buyers_28d": null,
+              "reviews": null,
+              "url": "",
+              "image": null
+            }
+          ],
+          "lowest_price": null,
+          "avg_price": null,
+          "pricing": [
+            {
+              "sell_price": null,
+              "china_cost": null,
+              "purchase_cost": null,
+              "growth_cost": null,
+              "growth_tier": null,
+              "fee_cat": "",
+              "wing_fee": "",
+              "coupang_fee": null,
+              "vat": null,
+              "net_profit": null,
+              "profit_rate": null,
+              "margin_rate": null,
+              "sell_auto": true,
+              "fee_auto": true
+            },
+            {
+              "sell_price": null,
+              "china_cost": null,
+              "purchase_cost": null,
+              "growth_cost": null,
+              "growth_tier": null,
+              "fee_cat": "",
+              "wing_fee": "",
+              "coupang_fee": null,
+              "vat": null,
+              "net_profit": null,
+              "profit_rate": null,
+              "margin_rate": null,
               "sell_auto": true,
               "fee_auto": true
             }
