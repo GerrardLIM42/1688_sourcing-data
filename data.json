@@ -15462,7 +15462,7 @@
         }
       },
       "custom:custom-1795559378915-77": {
-        "t": 1795560150455,
+        "t": 1795560155831,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795559378915-77",
@@ -15502,7 +15502,7 @@
             {
               "name": "누아트 강력한 6중날 세탁소용 프리미엄 휴대용 LED 무선 보풀제거기",
               "sub": "",
-              "price": null,
+              "price": 12900,
               "views_28d": 25176,
               "buyers_28d": null,
               "reviews": null,
@@ -15511,7 +15511,7 @@
             }
           ],
           "lowest_price": 12900,
-          "avg_price": 13900,
+          "avg_price": 13650,
           "pricing": [
             {
               "sell_price": 12900,
@@ -15530,18 +15530,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 13900,
+              "sell_price": 13650,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1605,
-              "vat": 902,
-              "net_profit": 8118,
+              "coupang_fee": 1577,
+              "vat": 879.8000000000001,
+              "net_profit": 7918.2,
               "profit_rate": null,
-              "margin_rate": 0.5840287769784173,
+              "margin_rate": 0.5800879120879121,
               "sell_auto": true,
               "fee_auto": true
             }
