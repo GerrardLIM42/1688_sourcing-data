@@ -14890,7 +14890,7 @@
         }
       },
       "custom:custom-1795493614679-161": {
-        "t": 1795493710024,
+        "t": 1795493713121,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795493614679-161",
@@ -14909,8 +14909,8 @@
             },
             {
               "name": "에스더 일본 샤워타월",
-              "sub": "3",
-              "price": null,
+              "sub": "3종",
+              "price": 12900,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -14939,7 +14939,7 @@
             }
           ],
           "lowest_price": 6100,
-          "avg_price": 6100,
+          "avg_price": 9500,
           "pricing": [
             {
               "sell_price": 6100,
@@ -14958,18 +14958,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 6100,
+              "sell_price": 9500,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 705,
-              "vat": 212,
-              "net_profit": 1908,
+              "coupang_fee": 1097,
+              "vat": 512.8000000000001,
+              "net_profit": 4615.2,
               "profit_rate": null,
-              "margin_rate": 0.31278688524590165,
+              "margin_rate": 0.48581052631578947,
               "sell_auto": true,
               "fee_auto": true
             }
