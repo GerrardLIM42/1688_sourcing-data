@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "1b61c4fc-d0ab-4b89-a5b5-f607e1c4e8bb",
+      "createdAt": 1795617745725,
+      "updatedAt": 1795617745725,
+      "name": "스펀지 수세미",
+      "folder": "스펀지 수세미",
+      "link": "",
+      "yearlySales": "",
+      "sellerYears": "",
+      "sellerRating": "",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01FizKI51Sqzh6MCZ6m_!!2209131862299-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 4.5,
+      "rate": 280,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "W|주방용품>주방수납/정리|주방 > 주방잡화",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "극소형 (50g 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 5456,
+      "ad": 7,
+      "ret": 3,
+      "memo": "11*8*3.5",
+      "options": [
+        {
+          "id": "cf20267f-3e82-4a67-a3c1-d08b185658d3",
+          "name": "퍼플 10개",
+          "cny": 4.5,
+          "sell": 5456,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01FizKI51Sqzh6MCZ6m_!!2209131862299-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "703ab16a-eeb4-454b-a835-734c7334c741",
       "createdAt": 1795617382671,
       "updatedAt": 1795617431863,
