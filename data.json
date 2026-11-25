@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "30bf12ba-068a-4cfc-bf9d-f73cab76c763",
+      "createdAt": 1795578962880,
+      "updatedAt": 1795578962880,
+      "name": "옷걸이",
+      "folder": "옷걸이",
+      "link": "https://detail.1688.com/offer/644182629085.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=3d6e8e57999a4ff89e246d899670f3b0&sessionid=b77900d8c79744a986d0a364c8ba5e31&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04",
+      "yearlySales": "100000",
+      "sellerYears": "10",
+      "sellerRating": "4.5",
+      "sellerGrade": "실력공장",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01fT8M7JnxN8I2vH2e_!!3199397430-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": true,
+      "bundleQty": 20,
+      "cny": 0.5,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "W|가구/홈데코>가구>행거|홈 > 가구/수납/정리",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "중형 (5kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 11280,
+      "ad": 7,
+      "ret": 3,
+      "memo": "46g",
+      "options": [
+        {
+          "id": "0396cd4d-4b6e-496b-8022-e806ccc79148",
+          "name": "20",
+          "cny": 0.5,
+          "sell": 11280,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01fT8M7JnxN8I2vH2e_!!3199397430-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "f1ba031c-b028-4696-b32b-6bee752691d4",
       "createdAt": 1795578626234,
       "updatedAt": 1795578626234,
