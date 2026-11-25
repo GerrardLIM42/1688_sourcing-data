@@ -49,7 +49,7 @@
     {
       "id": "e9576e8f-e4e6-4b12-9f3e-46d6961b678b",
       "createdAt": 1795577352743,
-      "updatedAt": 1795577352743,
+      "updatedAt": 1795577788061,
       "name": "옷걸이",
       "folder": "옷걸이",
       "link": "https://detail.1688.com/offer/860033346093.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=cacbc814762540a7a510aac0d9ba6f15&sessionid=b30b906dfc4f4208b1ee8c2cead427e2&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04",
@@ -61,7 +61,7 @@
       "category": "HOME",
       "status": "검토중",
       "isBundle": true,
-      "bundleQty": 30,
+      "bundleQty": 20,
       "cny": 1.35,
       "rate": 300,
       "importMode": "simple",
@@ -76,16 +76,16 @@
       "rocketSize": "중형 (5kg 이하)",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 25960,
+      "sell": 19440,
       "ad": 7,
       "ret": 3,
       "memo": "",
       "options": [
         {
           "id": "279a8bc9-4455-4ef4-b6ca-5729bbbaabd1",
-          "name": "30개",
+          "name": "20개",
           "cny": 1.35,
-          "sell": 25960,
+          "sell": 19440,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN016jvENi1ugjwo4Pe7w_!!2216156076067-0-cib.jpg",
           "inputMode": "margin",
           "savedMarginPct": 25
