@@ -15871,7 +15871,7 @@
         }
       },
       "custom:custom-1795612724327-520": {
-        "t": 1795612753442,
+        "t": 1795612757404,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795612724327-520",
@@ -15880,8 +15880,8 @@
           "competitors": [
             {
               "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미",
-              "sub": "8r",
-              "price": null,
+              "sub": "8개",
+              "price": 10100,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -15919,38 +15919,38 @@
               "image": null
             }
           ],
-          "lowest_price": null,
-          "avg_price": null,
+          "lowest_price": 10100,
+          "avg_price": 10100,
           "pricing": [
             {
-              "sell_price": null,
+              "sell_price": 10100,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 1167,
+              "vat": 893.3000000000001,
+              "net_profit": 8039.7,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.7960099009900989,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": null,
+              "sell_price": 10100,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": null,
               "growth_tier": null,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 1167,
+              "vat": 893.3000000000001,
+              "net_profit": 8039.7,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.7960099009900989,
               "sell_auto": true,
               "fee_auto": true
             }
