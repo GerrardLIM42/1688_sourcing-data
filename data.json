@@ -15874,7 +15874,7 @@
         }
       },
       "custom:custom-1795612724327-520": {
-        "t": 1795613372003,
+        "t": 1795613376789,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795612724327-520",
@@ -15916,8 +15916,8 @@
               "sub": "3개입",
               "price": 15900,
               "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
+              "buyers_28d": 4000,
+              "reviews": 4818,
               "url": "",
               "image": null
             }
