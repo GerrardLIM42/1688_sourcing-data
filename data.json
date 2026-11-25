@@ -15874,7 +15874,7 @@
         }
       },
       "custom:custom-1795612724327-520": {
-        "t": 1795613653586,
+        "t": 1795613659311,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795612724327-520",
@@ -15927,8 +15927,8 @@
           "pricing": [
             {
               "sell_price": 4290,
-              "china_cost": null,
-              "purchase_cost": null,
+              "china_cost": 0,
+              "purchase_cost": 0,
               "growth_cost": 2050,
               "growth_tier": "xs",
               "fee_cat": "생활/주방",
