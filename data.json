@@ -15873,7 +15873,7 @@
         }
       },
       "custom:custom-1795612724327-520": {
-        "t": 1795612922118,
+        "t": 1795612929022,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795612724327-520",
@@ -15902,8 +15902,8 @@
             },
             {
               "name": "  스펀라이트 꽃모양 스크럽 양면 주방 수세미",
-              "sub": "",
-              "price": null,
+              "sub": "10개입",
+              "price": 6900,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -15922,7 +15922,7 @@
             }
           ],
           "lowest_price": 4290,
-          "avg_price": 7195,
+          "avg_price": 7096.666666666667,
           "pricing": [
             {
               "sell_price": 4290,
@@ -15941,18 +15941,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 7195,
+              "sell_price": 7096.666666666667,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 831,
-              "vat": 308.90000000000003,
-              "net_profit": 2780.1,
+              "coupang_fee": 820,
+              "vat": 300.1666666666667,
+              "net_profit": 2701.5000000000005,
               "profit_rate": null,
-              "margin_rate": 0.3863933287004864,
+              "margin_rate": 0.3806716768435886,
               "sell_auto": true,
               "fee_auto": true
             }
