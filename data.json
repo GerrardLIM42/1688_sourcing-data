@@ -15872,7 +15872,7 @@
         }
       },
       "custom:custom-1795612724327-520": {
-        "t": 1795612856118,
+        "t": 1795612871633,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795612724327-520",
@@ -15890,9 +15890,9 @@
               "image": null
             },
             {
-              "name": "",
-              "sub": "",
-              "price": null,
+              "name": "코멧 양면 버블 스펀지 수세미 핑크",
+              "sub": "10개",
+              "price": 4290,
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
@@ -15920,38 +15920,38 @@
               "image": null
             }
           ],
-          "lowest_price": 10100,
-          "avg_price": 10100,
+          "lowest_price": 4290,
+          "avg_price": 7195,
           "pricing": [
             {
-              "sell_price": 10100,
+              "sell_price": 4290,
               "china_cost": null,
               "purchase_cost": null,
-              "growth_cost": 3275,
+              "growth_cost": 3250,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1167,
-              "vat": 565.8000000000001,
-              "net_profit": 5092.2,
+              "coupang_fee": 495,
+              "vat": 54.5,
+              "net_profit": 490.5,
               "profit_rate": null,
-              "margin_rate": 0.5041782178217822,
+              "margin_rate": 0.11433566433566433,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 10100,
+              "sell_price": 7195,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1167,
-              "vat": 565.8000000000001,
-              "net_profit": 5092.2,
+              "coupang_fee": 831,
+              "vat": 308.90000000000003,
+              "net_profit": 2780.1,
               "profit_rate": null,
-              "margin_rate": 0.5041782178217822,
+              "margin_rate": 0.3863933287004864,
               "sell_auto": true,
               "fee_auto": true
             }
