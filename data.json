@@ -15871,7 +15871,7 @@
         }
       },
       "custom:custom-1795612724327-520": {
-        "t": 1795612729999,
+        "t": 1795612753442,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795612724327-520",
@@ -15879,8 +15879,8 @@
           "monthly_search": null,
           "competitors": [
             {
-              "name": "",
-              "sub": "",
+              "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미",
+              "sub": "8r",
               "price": null,
               "views_28d": null,
               "buyers_28d": null,
@@ -15931,8 +15931,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
@@ -15947,8 +15947,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
