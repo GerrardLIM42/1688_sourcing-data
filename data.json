@@ -1164,7 +1164,7 @@
     {
       "id": "fbff4a1e-4ea9-4e29-9625-f14c6d9ef11b",
       "createdAt": 1795228052063,
-      "updatedAt": 1795228052063,
+      "updatedAt": 1795590262482,
       "name": "실리콘 양면 테이프",
       "link": "https://detail.1688.com/offer/597547488363.html?spm=a26352.b28411319/2508.0.0&cosite=-&tracelog=p4p&_p_isad=1&clickid=3fed6dcf7fd24ff29d5c6a93d62f1362&sessionid=6d6b0e758e72414d94f8886d4cc54b24&sourceId=V1-db2822bea24bf2a7a300003802f1a440-S04",
       "image": "https://cbu01.alicdn.com/img/ibank/O1CN01X3POGp1sJiwW8yz13_!!979905746-0-cib.jpg",
@@ -1175,8 +1175,8 @@
       "sellerYears": "17",
       "sellerRating": "5",
       "sellerGrade": "실력공장",
-      "isBundle": false,
-      "bundleQty": 2,
+      "isBundle": true,
+      "bundleQty": 3,
       "cny": 3.15,
       "rate": 300,
       "importMode": "simple",
@@ -1192,7 +1192,7 @@
       "wingFee": "",
       "rocketFeeManual": 2500,
       "marketShip": 0,
-      "sell": 5900,
+      "sell": 8616,
       "ad": 7,
       "ret": 3,
       "memo": "",
@@ -1203,9 +1203,18 @@
           "id": "e988ab69-ff4f-495e-a40c-79baaf65caa5",
           "name": "1mm, 30cm * 3m",
           "cny": 3.15,
-          "sell": 5900,
+          "sell": 8616,
           "image": "https://cbu01.alicdn.com/img/ibank/O1CN01X3POGp1sJiwW8yz13_!!979905746-0-cib.jpg",
-          "inputMode": "sell",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        },
+        {
+          "id": "0b42607c-51de-4fb5-a7d6-e08b4daeea5e",
+          "name": "1mm, 30cm * 5m",
+          "cny": 4.95,
+          "sell": 11248,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01tyL4Aw1sJidGe2Dxr_!!979905746-0-cib.jpg",
+          "inputMode": "margin",
           "savedMarginPct": 25
         }
       ]
