@@ -14465,7 +14465,7 @@
         }
       },
       "edits:지팡이": {
-        "t": 1795733432843,
+        "t": 1795733444226,
         "v": {
           "name": "지팡이",
           "monthly_search": 9780,
@@ -14511,7 +14511,7 @@
             {
               "sell_price": 14900,
               "china_cost": 20.59,
-              "purchase_cost": 5765,
+              "purchase_cost": 6177,
               "growth_cost": 3275,
               "growth_tier": "s",
               "fee_cat": "",
@@ -14522,7 +14522,7 @@
             },
             {
               "sell_price": 19775,
-              "china_cost": 30.98,
+              "china_cost": 28.91,
               "purchase_cost": 8673,
               "growth_cost": 3325,
               "growth_tier": "s",
