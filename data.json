@@ -16939,7 +16939,7 @@
         }
       },
       "custom:custom-1795700205981-850": {
-        "t": 1795700550534,
+        "t": 1795700554859,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795700205981-850",
@@ -16992,17 +16992,17 @@
           "pricing": [
             {
               "sell_price": 6900,
-              "china_cost": null,
-              "purchase_cost": null,
+              "china_cost": 4.49,
+              "purchase_cost": 1258,
               "growth_cost": 2105,
               "growth_tier": "xs",
               "fee_cat": "반려동물",
               "wing_fee": "반려/애완용품>고양이용품>장난감/낚싯대>자동장난감|애완용품 > 강아지 용품",
               "coupang_fee": 759,
-              "vat": 403.6,
-              "net_profit": 3632.4,
-              "profit_rate": null,
-              "margin_rate": 0.5264347826086957,
+              "vat": 277.8,
+              "net_profit": 2500.2,
+              "profit_rate": 1.9874403815580284,
+              "margin_rate": 0.3623478260869565,
               "sell_auto": true,
               "fee_auto": true
             },
