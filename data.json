@@ -16922,7 +16922,7 @@
         }
       },
       "notes:custom-1795700205981-850": {
-        "t": 1795700358247,
+        "t": 1795700428109,
         "v": {
           "status": "관심",
           "memo": "",
@@ -16930,7 +16930,8 @@
           "compImgUrls": {
             "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5db2/5ac87411e4c4e90aa66e5c27971b15b1024a7093da3ff5d90285e4cbd10d.png",
             "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b389/6665205f5660e5229ddc7f46be3edd1ec9164c0e5178193cffc4d3339b06.jpg",
-            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c382/95dc9af498067cbde5a34b588d62458988cebed95ca28cb6fa458437b288.png"
+            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c382/95dc9af498067cbde5a34b588d62458988cebed95ca28cb6fa458437b288.png",
+            "3": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/990360420187602-65d6c0ab-0480-4250-9ce1-97c6c18950dc.jpg"
           },
           "category": "PET",
           "starred": false,
@@ -16938,7 +16939,7 @@
         }
       },
       "custom:custom-1795700205981-850": {
-        "t": 1795700414571,
+        "t": 1795700428476,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795700205981-850",
@@ -16976,18 +16977,18 @@
               "image": null
             },
             {
-              "name": "",
+              "name": "도그아이 우드스틱 커피트리 츄 강아지 장난감",
               "sub": "",
-              "price": null,
+              "price": 9200,
               "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
+              "buyers_28d": 800,
+              "reviews": 3232,
               "url": "https://www.coupang.com/vp/products/8595619115?itemId=15206225584&vendorItemId=82427312925&q=%EA%B0%95%EC%95%84%EC%A7%80+%EC%9E%A5%EB%82%9C%EA%B0%90&searchId=84d8e2cb2923716&sourceType=search&rank=7&itemsCount=36&searchRank=7&traceId=mwxlnoib",
               "image": null
             }
           ],
           "lowest_price": 6900,
-          "avg_price": 7806.666666666667,
+          "avg_price": 8155,
           "pricing": [
             {
               "sell_price": 6900,
@@ -17006,18 +17007,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 7806.666666666667,
+              "sell_price": 8155,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 2300,
               "growth_tier": "s",
               "fee_cat": "반려동물",
               "wing_fee": "반려/애완용품>고양이용품>장난감/낚싯대>자동장난감|애완용품 > 강아지 용품",
-              "coupang_fee": 859,
-              "vat": 464.7666666666667,
-              "net_profit": 4182.900000000001,
+              "coupang_fee": 897,
+              "vat": 495.8,
+              "net_profit": 4462.2,
               "profit_rate": null,
-              "margin_rate": 0.5358112724167379,
+              "margin_rate": 0.5471735131820968,
               "sell_auto": true,
               "fee_auto": true
             }
