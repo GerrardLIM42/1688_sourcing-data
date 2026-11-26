@@ -13959,14 +13959,15 @@
         }
       },
       "notes:지팡이": {
-        "t": 1795733220502,
+        "t": 1795733248261,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
           "compImgUrls": {
             "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3093/594f267539f3bcdf629b3faa1aa95c4f15d2e37495e38ed0fd6d6233c2da.jpg",
-            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5c31/042e904763f5af2ed203cad9ee4ccd3760375dbe3f31ec8df91ebce3546e.jpg"
+            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5c31/042e904763f5af2ed203cad9ee4ccd3760375dbe3f31ec8df91ebce3546e.jpg",
+            "3": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a559/55ebc1e5337114fa2b7199006c6afab16c634d0cf149ae996021e769d41f.png"
           },
           "category": "HOME",
           "starred": false,
@@ -14463,7 +14464,7 @@
         }
       },
       "edits:지팡이": {
-        "t": 1795733226634,
+        "t": 1795733248631,
         "v": {
           "name": "지팡이",
           "monthly_search": 9780,
@@ -14494,33 +14495,35 @@
               "url": "https://www.coupang.com/vp/products/9154836029?itemId=26960728149&vendorItemId=93926021053&q=%EC%A7%80%ED%8C%A1%EC%9D%B4&searchId=04040eb066874315&sourceType=search&rank=1&itemsCount=36&searchRank=1&traceId=mwy56h0x"
             },
             {
-              "name": "보행연구소",
+              "name": "[백년지팡이] 초경량 네발 선물포장 어르신 지팡이, 브라운, 1개",
               "sub": "네발",
-              "price": 26800,
+              "price": 14900,
               "views_28d": 18100,
+              "buyers_28d": 900,
+              "reviews": 352,
               "url": "https://www.coupang.com/vp/products/9705555312?itemId=29035929630&vendorItemId=95963297693&q=%EC%A7%80%ED%8C%A1%EC%9D%B4&searchId=04040eb066874315&sourceType=search&rank=2&itemsCount=36&searchRank=2&traceId=mwy56vcn"
             }
           ],
           "pricing": [
             {
-              "sell_price": 17360,
+              "sell_price": 14900,
               "china_cost": 20.5,
               "purchase_cost": 6150,
               "growth_cost": 2365,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 2005,
+              "coupang_fee": 1721,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 20865,
+              "sell_price": 17890,
               "china_cost": 25,
               "purchase_cost": 7500,
               "growth_cost": 2585,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 2410,
+              "coupang_fee": 2066,
               "sell_auto": true,
               "fee_auto": true
             }
