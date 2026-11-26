@@ -13959,13 +13959,14 @@
         }
       },
       "notes:지팡이": {
-        "t": 1795733180435,
+        "t": 1795733220502,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
           "compImgUrls": {
-            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3093/594f267539f3bcdf629b3faa1aa95c4f15d2e37495e38ed0fd6d6233c2da.jpg"
+            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3093/594f267539f3bcdf629b3faa1aa95c4f15d2e37495e38ed0fd6d6233c2da.jpg",
+            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5c31/042e904763f5af2ed203cad9ee4ccd3760375dbe3f31ec8df91ebce3546e.jpg"
           },
           "category": "HOME",
           "starred": false,
@@ -14462,7 +14463,7 @@
         }
       },
       "edits:지팡이": {
-        "t": 1795733200441,
+        "t": 1795733220868,
         "v": {
           "name": "지팡이",
           "monthly_search": 9780,
@@ -14484,10 +14485,12 @@
               "url": "https://www.coupang.com/vp/products/6633322735?itemId=15132316920&vendorItemId=83898975293&pickType=COU_PICK&q=%EC%A7%80%ED%8C%A1%EC%9D%B4&searchId=04040eb066874315&sourceType=search&rank=0&itemsCount=36&searchRank=0&traceId=mwy55lcl"
             },
             {
-              "name": "코지젠",
+              "name": "[착지의 기술] 코지젠 고강도 알루미늄 어르신 기둥 지팡이 총경량 길이조절",
               "sub": "알루미늄",
               "price": 17800,
               "views_28d": 20680,
+              "buyers_28d": 1000,
+              "reviews": 1290,
               "url": "https://www.coupang.com/vp/products/9154836029?itemId=26960728149&vendorItemId=93926021053&q=%EC%A7%80%ED%8C%A1%EC%9D%B4&searchId=04040eb066874315&sourceType=search&rank=1&itemsCount=36&searchRank=1&traceId=mwy56h0x"
             },
             {
