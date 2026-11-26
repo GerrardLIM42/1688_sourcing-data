@@ -16921,12 +16921,24 @@
           "hidden": false
         }
       },
+      "notes:custom-1795700205981-850": {
+        "t": 1795700216199,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "PET",
+          "starred": false,
+          "hidden": false
+        }
+      },
       "custom:custom-1795700205981-850": {
-        "t": 1795700212385,
+        "t": 1795700215040,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795700205981-850",
-          "name": "강아지 장난ㄱ",
+          "name": "강아지 장난감",
           "monthly_search": null,
           "competitors": [
             {
