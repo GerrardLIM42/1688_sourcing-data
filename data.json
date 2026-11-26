@@ -16934,7 +16934,7 @@
         }
       },
       "custom:custom-1795700205981-850": {
-        "t": 1795700215040,
+        "t": 1795700226417,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795700205981-850",
@@ -16948,7 +16948,7 @@
               "views_28d": null,
               "buyers_28d": null,
               "reviews": null,
-              "url": "",
+              "url": "coupang.com/vp/products/9510219038?itemId=28339937198&vendorItemId=95292153458&pickType=COU_PICK&q=강아지%20장난감&searchId=84d8e2cb2923716&sourceType=search&rank=1&itemsCount=36&searchRank=1&traceId=mwxljpie",
               "image": null
             },
             {
@@ -16994,8 +16994,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
@@ -17010,8 +17010,8 @@
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": null,
-              "vat": null,
-              "net_profit": null,
+              "vat": 0,
+              "net_profit": 0,
               "profit_rate": null,
               "margin_rate": null,
               "sell_auto": true,
