@@ -13959,12 +13959,14 @@
         }
       },
       "notes:지팡이": {
-        "t": 1794810490156,
+        "t": 1795733180435,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
-          "compImgUrls": {},
+          "compImgUrls": {
+            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3093/594f267539f3bcdf629b3faa1aa95c4f15d2e37495e38ed0fd6d6233c2da.jpg"
+          },
           "category": "HOME",
           "starred": false,
           "hidden": false
@@ -14460,7 +14462,7 @@
         }
       },
       "edits:지팡이": {
-        "t": 1795733159626,
+        "t": 1795733181803,
         "v": {
           "name": "지팡이",
           "monthly_search": 9780,
@@ -14473,10 +14475,12 @@
               "url": ""
             },
             {
-              "name": "코끼리",
+              "name": "코끼리지팡이 초경량 네발 4발 노인 어르신 할머니 할아버지 가벼운 접이식 길이조절용 지팡이, 브라운, 1개",
               "sub": "네발",
               "price": 21500,
               "views_28d": 31331,
+              "buyers_28d": 1000,
+              "reviews": 5943,
               "url": "https://www.coupang.com/vp/products/6633322735?itemId=15132316920&vendorItemId=83898975293&pickType=COU_PICK&q=%EC%A7%80%ED%8C%A1%EC%9D%B4&searchId=04040eb066874315&sourceType=search&rank=0&itemsCount=36&searchRank=0&traceId=mwy55lcl"
             },
             {
