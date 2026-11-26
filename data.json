@@ -14465,7 +14465,7 @@
         }
       },
       "edits:지팡이": {
-        "t": 1795733425240,
+        "t": 1795733432843,
         "v": {
           "name": "지팡이",
           "monthly_search": 9780,
@@ -14522,9 +14522,10 @@
             },
             {
               "sell_price": 19775,
-              "china_cost": 25,
-              "purchase_cost": 7500,
-              "growth_cost": 2585,
+              "china_cost": 30.98,
+              "purchase_cost": 8673,
+              "growth_cost": 3325,
+              "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
               "coupang_fee": 2284,
