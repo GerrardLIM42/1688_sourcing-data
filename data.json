@@ -14079,14 +14079,15 @@
         }
       },
       "notes:옷걸이": {
-        "t": 1794910791315,
+        "t": 1795684221977,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
           "compImgUrls": {
             "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/61632347545112-f0d7f24d-0974-4d7b-86c9-88cb2ebaba59.jpg",
-            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/awl3sumg/67fd33a5a2a64e82855c1a8fe2af42cb.jpg"
+            "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/awl3sumg/67fd33a5a2a64e82855c1a8fe2af42cb.jpg",
+            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/44794560907105-6a19458a-6a74-4879-97bf-d7367caa016d.jpg"
           },
           "category": "HOME",
           "starred": true,
@@ -14620,7 +14621,7 @@
         }
       },
       "edits:옷걸이": {
-        "t": 1795684206371,
+        "t": 1795684222347,
         "v": {
           "name": "옷걸이",
           "monthly_search": 39130,
@@ -14644,12 +14645,12 @@
               "url": "https://www.coupang.com/vp/products/5449205688?itemId=14188504864&vendorItemId=89641635237&q=%EC%98%B7%EA%B1%B8%EC%9D%B4&searchId=1528783510490296&sourceType=search&rank=44&itemsCount=60&searchRank=44&traceId=mwkhsxkc"
             },
             {
-              "name": "진심감성 베이지",
+              "name": "진심감성 어깨뿔방지 논슬립 옷걸이, 베이지, 30개",
               "sub": "30",
-              "price": 16560,
+              "price": 15080,
               "views_28d": 205816,
               "buyers_28d": 5000,
-              "reviews": 22115,
+              "reviews": 22488,
               "url": "https://www.coupang.com/vp/products/7910710510?vendorItemId=87089302492&sourceType=SDP_ALSO_VIEWED"
             },
             {
@@ -14662,26 +14663,26 @@
           ],
           "pricing": [
             {
-              "sell_price": 15990,
+              "sell_price": 15080,
               "china_cost": 18.84,
               "purchase_cost": 5651,
               "growth_cost": 4050,
               "growth_tier": "m",
               "fee_cat": "생활/주방",
               "wing_fee": "가구/홈데코>커튼/침장|홈 > 침구/커튼/블라인드",
-              "coupang_fee": 1759,
+              "coupang_fee": 1659,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": 16520,
+              "sell_price": 16026.666666666666,
               "china_cost": 22.33,
               "purchase_cost": 6698,
               "growth_cost": 3325,
               "growth_tier": "s",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1908,
+              "coupang_fee": 1851,
               "sell_auto": true,
               "fee_auto": true
             }
