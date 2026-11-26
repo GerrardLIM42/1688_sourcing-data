@@ -16922,7 +16922,7 @@
         }
       },
       "notes:custom-1795700205981-850": {
-        "t": 1795700428109,
+        "t": 1795727246927,
         "v": {
           "status": "관심",
           "memo": "",
@@ -16934,7 +16934,7 @@
             "3": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/990360420187602-65d6c0ab-0480-4250-9ce1-97c6c18950dc.jpg"
           },
           "category": "PET",
-          "starred": false,
+          "starred": true,
           "hidden": false
         }
       },
