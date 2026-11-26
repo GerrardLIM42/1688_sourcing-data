@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "id": "7cae2b73-a48e-4f6b-94fd-048e5691f622",
-      "createdAt": 1795733020211,
-      "updatedAt": 1795733099955,
-      "name": "강아지 장난감",
-      "folder": "강아지 장난감",
-      "link": "https://detail.1688.com/offer/1027962664158.html?kj_agent_plugin=aliprice&fromkv=xytTrace:2132e00017957329659905130e0de1&token=ue3v83HRlAp6mJ8VD122UWaLXXvA0R4BkEy4Fs4Z6IzXNe1TcYW%2BqqwEHZm94gS%2F",
-      "yearlySales": "4500",
-      "sellerYears": "2",
-      "sellerRating": "3.5",
-      "sellerGrade": "",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01fRvaVk1DaIz1T4TJE_!!2220815400232-0-cib.jpg",
-      "category": "PET",
-      "status": "검토중",
-      "isBundle": false,
-      "bundleQty": 2,
-      "cny": 6.4,
-      "rate": 280,
-      "importMode": "simple",
-      "duty": 8,
-      "vatOn": true,
-      "forwarding": 0,
-      "clearance": 0,
-      "coupangCat": "W|반려/애완용품>고양이용품>장난감/낚싯대>자동장난감|애완용품 > 강아지 용품",
-      "feeManual": 11,
-      "channel": "rocket",
-      "promo": "none",
-      "rocketSize": "극소형 (50g 이하)",
-      "rocketFeeManual": 2500,
-      "marketShip": 0,
-      "sell": 6235,
-      "ad": 7,
-      "ret": 3,
-      "memo": "",
-      "options": [
-        {
-          "id": "10c614e2-2ea4-4cb5-a77e-03a4e5e84947",
-          "name": "5종",
-          "cny": 6.4,
-          "sell": 6235,
-          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01fRvaVk1DaIz1T4TJE_!!2220815400232-0-cib.jpg",
-          "inputMode": "margin",
-          "savedMarginPct": 25
-        }
-      ]
-    },
-    {
       "id": "d9c8727b-7ab8-4716-8920-c5dbd92a1f6f",
       "createdAt": 1795618560370,
       "updatedAt": 1795618560370,
@@ -14506,7 +14460,7 @@
         }
       },
       "edits:지팡이": {
-        "t": 1794810490156,
+        "t": 1795733159626,
         "v": {
           "name": "지팡이",
           "monthly_search": 9780,
@@ -14515,25 +14469,29 @@
               "name": "라온케인",
               "sub": "네발",
               "price": 17360,
-              "views_28d": 32741
+              "views_28d": 32741,
+              "url": ""
             },
             {
               "name": "코끼리",
               "sub": "네발",
               "price": 21500,
-              "views_28d": 31331
+              "views_28d": 31331,
+              "url": "https://www.coupang.com/vp/products/6633322735?itemId=15132316920&vendorItemId=83898975293&pickType=COU_PICK&q=%EC%A7%80%ED%8C%A1%EC%9D%B4&searchId=04040eb066874315&sourceType=search&rank=0&itemsCount=36&searchRank=0&traceId=mwy55lcl"
             },
             {
               "name": "코지젠",
               "sub": "알루미늄",
               "price": 17800,
-              "views_28d": 20680
+              "views_28d": 20680,
+              "url": ""
             },
             {
               "name": "보행연구소",
               "sub": "네발",
               "price": 26800,
-              "views_28d": 18100
+              "views_28d": 18100,
+              "url": ""
             }
           ],
           "pricing": [
@@ -14542,6 +14500,8 @@
               "china_cost": 20.5,
               "purchase_cost": 6150,
               "growth_cost": 2365,
+              "fee_cat": "",
+              "wing_fee": "",
               "coupang_fee": 2005,
               "sell_auto": true,
               "fee_auto": true
@@ -14551,6 +14511,8 @@
               "china_cost": 25,
               "purchase_cost": 7500,
               "growth_cost": 2585,
+              "fee_cat": "",
+              "wing_fee": "",
               "coupang_fee": 2410,
               "sell_auto": true,
               "fee_auto": true
