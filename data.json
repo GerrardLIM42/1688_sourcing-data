@@ -13959,12 +13959,13 @@
         }
       },
       "notes:지팡이": {
-        "t": 1795733248261,
+        "t": 1795733359925,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
           "compImgUrls": {
+            "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1e4a/11548508dbe15c954b57ecd9f7862cb5748b227c862a06e5a2baf8d903f6.png",
             "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3093/594f267539f3bcdf629b3faa1aa95c4f15d2e37495e38ed0fd6d6233c2da.jpg",
             "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5c31/042e904763f5af2ed203cad9ee4ccd3760375dbe3f31ec8df91ebce3546e.jpg",
             "3": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a559/55ebc1e5337114fa2b7199006c6afab16c634d0cf149ae996021e769d41f.png"
@@ -14464,16 +14465,18 @@
         }
       },
       "edits:지팡이": {
-        "t": 1795733345418,
+        "t": 1795733360304,
         "v": {
           "name": "지팡이",
           "monthly_search": 9780,
           "competitors": [
             {
-              "name": "라온케인",
+              "name": "[효도템] 라쿠니 어르신 지팡이 네발 초경량 미끄럼방지 지팡이, 레드 와인(Red ..., 1개",
               "sub": "네발",
-              "price": 17360,
+              "price": 24900,
               "views_28d": null,
+              "buyers_28d": 400,
+              "reviews": 1473,
               "url": "https://www.coupang.com/vp/products/9003604617?itemId=26520046086&vendorItemId=93361817677&q=%EC%A7%80%ED%8C%A1%EC%9D%B4&searchId=04040eb066874315&sourceType=search&rank=4&itemsCount=36&searchRank=4&traceId=mwy59gnv"
             },
             {
@@ -14517,13 +14520,13 @@
               "fee_auto": true
             },
             {
-              "sell_price": 17890,
+              "sell_price": 19775,
               "china_cost": 25,
               "purchase_cost": 7500,
               "growth_cost": 2585,
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 2066,
+              "coupang_fee": 2284,
               "sell_auto": true,
               "fee_auto": true
             }
