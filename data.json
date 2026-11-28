@@ -16896,7 +16896,7 @@
         }
       },
       "custom:custom-1795831311890-189": {
-        "t": 1795831421351,
+        "t": 1795831475646,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795831311890-189",
@@ -16953,13 +16953,13 @@
               "purchase_cost": null,
               "growth_cost": 2150,
               "growth_tier": "xs",
-              "fee_cat": "",
-              "wing_fee": "",
-              "coupang_fee": 705,
-              "vat": 324.5,
-              "net_profit": 2920.5,
+              "fee_cat": "생활/주방",
+              "wing_fee": "생활용품>욕실용품|홈 > 욕실용품",
+              "coupang_fee": 671,
+              "vat": 327.90000000000003,
+              "net_profit": 2951.1,
               "profit_rate": null,
-              "margin_rate": 0.4787704918032787,
+              "margin_rate": 0.48378688524590163,
               "sell_auto": true,
               "fee_auto": true
             },
@@ -16969,13 +16969,13 @@
               "purchase_cost": null,
               "growth_cost": 2150,
               "growth_tier": "xs",
-              "fee_cat": "",
-              "wing_fee": "",
-              "coupang_fee": 1065,
-              "vat": 600.5,
-              "net_profit": 5404.5,
+              "fee_cat": "생활/주방",
+              "wing_fee": "생활용품>욕실용품|홈 > 욕실용품",
+              "coupang_fee": 1014,
+              "vat": 605.6,
+              "net_profit": 5450.4,
               "profit_rate": null,
-              "margin_rate": 0.5861713665943601,
+              "margin_rate": 0.5911496746203904,
               "sell_auto": true,
               "fee_auto": true
             }
