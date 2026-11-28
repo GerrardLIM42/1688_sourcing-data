@@ -1,6 +1,61 @@
 {
   "items": [
     {
+      "id": "b9775267-6bfc-4b7a-9125-810029d27799",
+      "createdAt": 1795836790823,
+      "updatedAt": 1795836790823,
+      "name": "뽑아쓰는 키친타올",
+      "folder": "뽑아쓰는 키친타올",
+      "link": "https://detail.1688.com/offer/1090591423637.html?spm=a260k.home2025%2F2026c.homelist_footprints.time_offer",
+      "yearlySales": "30",
+      "sellerYears": "",
+      "sellerRating": "",
+      "sellerGrade": "",
+      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01hEHzSzUAA0C2b8G8_!!2222949501187-0-cib.jpg",
+      "category": "HOME",
+      "status": "검토중",
+      "isBundle": false,
+      "bundleQty": 2,
+      "cny": 8.6,
+      "rate": 300,
+      "importMode": "simple",
+      "duty": 8,
+      "vatOn": true,
+      "forwarding": 0,
+      "clearance": 0,
+      "coupangCat": "W|주방용품>주방일회용품>기타일회용품|주방 > 일회용품",
+      "feeManual": 11,
+      "channel": "rocket",
+      "promo": "none",
+      "rocketSize": "소형 (2kg 이하)",
+      "rocketFeeManual": 2500,
+      "marketShip": 0,
+      "sell": 9368,
+      "ad": 7,
+      "ret": 3,
+      "memo": "",
+      "options": [
+        {
+          "id": "21d9ec47-6983-4c36-8886-7325d44efc5c",
+          "name": "6팩",
+          "cny": 8.6,
+          "sell": 9368,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01hEHzSzUAA0C2b8G8_!!2222949501187-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        },
+        {
+          "id": "4eb376db-0d2b-46e3-9d43-ef502c480bf0",
+          "name": "18팩",
+          "cny": 19.9,
+          "sell": 15032,
+          "image": "https://cbu01.alicdn.com/img/ibank/O1CN01lLntZPTYgxE2b8G8_!!2222949501187-0-cib.jpg",
+          "inputMode": "margin",
+          "savedMarginPct": 25
+        }
+      ]
+    },
+    {
       "id": "485986e8-367f-42d6-86a2-7d9933e0952d",
       "createdAt": 1795836242779,
       "updatedAt": 1795836242779,
