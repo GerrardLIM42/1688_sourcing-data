@@ -16828,97 +16828,8 @@
         }
       },
       "custom:custom-1795683901995-569": {
-        "t": 1795700205982,
-        "v": {
-          "_isCustom": true,
-          "sheet": "custom-1795683901995-569",
-          "name": "새 상품",
-          "monthly_search": null,
-          "competitors": [
-            {
-              "name": "아임홈리빙 논슬립 회전형 지니 옷걸이, 화이트, 30개",
-              "sub": "",
-              "price": 12390,
-              "views_28d": null,
-              "buyers_28d": 2000,
-              "reviews": 24446,
-              "url": "https://www.coupang.com/vp/products/6638315318?itemId=916551246",
-              "image": null
-            },
-            {
-              "name": "",
-              "sub": "",
-              "price": null,
-              "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
-              "url": "",
-              "image": null
-            },
-            {
-              "name": "",
-              "sub": "",
-              "price": null,
-              "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
-              "url": "",
-              "image": null
-            },
-            {
-              "name": "",
-              "sub": "",
-              "price": null,
-              "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
-              "url": "",
-              "image": null
-            }
-          ],
-          "lowest_price": 12390,
-          "avg_price": 12390,
-          "pricing": [
-            {
-              "sell_price": 12390,
-              "china_cost": null,
-              "purchase_cost": null,
-              "growth_cost": 3350,
-              "growth_tier": "s",
-              "fee_cat": "생활/주방",
-              "wing_fee": "생활용품>수납/정리>옷걸이/다용도걸이|홈 > 가구/수납/정리",
-              "coupang_fee": 1363,
-              "vat": 767.7,
-              "net_profit": 6909.3,
-              "profit_rate": null,
-              "margin_rate": 0.5576513317191284,
-              "sell_auto": true,
-              "fee_auto": true
-            },
-            {
-              "sell_price": 12390,
-              "china_cost": null,
-              "purchase_cost": null,
-              "growth_cost": 3350,
-              "growth_tier": "s",
-              "fee_cat": "생활/주방",
-              "wing_fee": "생활용품>수납/정리>옷걸이/다용도걸이|홈 > 가구/수납/정리",
-              "coupang_fee": 1363,
-              "vat": 767.7,
-              "net_profit": 6909.3,
-              "profit_rate": null,
-              "margin_rate": 0.5576513317191284,
-              "sell_auto": true,
-              "fee_auto": true
-            }
-          ],
-          "target_sourcing_price": null,
-          "sourcing_1688": [],
-          "related_keywords": [],
-          "sourcing_note": null,
-          "extra_images": [],
-          "_id": 38
-        }
+        "t": 1795831220737,
+        "v": null
       },
       "notes:custom-1795683888468-246": {
         "t": 1795684205168,
@@ -16933,7 +16844,7 @@
         }
       },
       "notes:custom-1795683901995-569": {
-        "t": 1795684205168,
+        "t": 1795831220734,
         "v": {
           "status": "관심",
           "memo": "",
@@ -16941,7 +16852,8 @@
           "compImgUrls": {},
           "category": null,
           "starred": false,
-          "hidden": false
+          "hidden": true,
+          "deleted": true
         }
       },
       "notes:custom-1795700205981-850": {
@@ -16962,7 +16874,7 @@
         }
       },
       "custom:custom-1795700205981-850": {
-        "t": 1795700556053,
+        "t": 1795831220737,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795700205981-850",
@@ -17050,7 +16962,8 @@
           "sourcing_1688": [],
           "related_keywords": [],
           "sourcing_note": null,
-          "extra_images": []
+          "extra_images": [],
+          "_id": 39
         }
       }
     },
