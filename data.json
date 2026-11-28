@@ -16879,19 +16879,21 @@
         }
       },
       "notes:custom-1795831311890-189": {
-        "t": 1795831317485,
+        "t": 1795831327674,
         "v": {
           "status": "관심",
           "memo": "",
           "imgUrls": {},
-          "compImgUrls": {},
+          "compImgUrls": {
+            "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2700/846acac496949d819710c3243a787c45a1e29e042c96804f36148a115077.jpg"
+          },
           "category": "HOME",
           "starred": false,
           "hidden": false
         }
       },
       "custom:custom-1795831311890-189": {
-        "t": 1795831322495,
+        "t": 1795831328041,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795831311890-189",
@@ -16899,12 +16901,12 @@
           "monthly_search": null,
           "competitors": [
             {
-              "name": "",
+              "name": "생활미소 솔리드 샤워타월",
               "sub": "",
-              "price": null,
+              "price": 6100,
               "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
+              "buyers_28d": 7000,
+              "reviews": 10709,
               "url": "https://www.coupang.com/vp/products/7956029531?itemId=24765424610&vendorItemId=89029168726&q=%EC%83%A4%EC%9B%8C+%ED%83%80%EC%98%AC&searchId=f0f27b302251897&sourceType=search&rank=0&itemsCount=60&searchRank=0&traceId=mwzrl7j3",
               "image": null
             },
@@ -16939,38 +16941,38 @@
               "image": null
             }
           ],
-          "lowest_price": null,
-          "avg_price": null,
+          "lowest_price": 6100,
+          "avg_price": 6100,
           "pricing": [
             {
-              "sell_price": null,
+              "sell_price": 6100,
               "china_cost": null,
               "purchase_cost": null,
-              "growth_cost": null,
-              "growth_tier": null,
+              "growth_cost": 2150,
+              "growth_tier": "xs",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 705,
+              "vat": 324.5,
+              "net_profit": 2920.5,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.4787704918032787,
               "sell_auto": true,
               "fee_auto": true
             },
             {
-              "sell_price": null,
+              "sell_price": 6100,
               "china_cost": null,
               "purchase_cost": null,
-              "growth_cost": null,
-              "growth_tier": null,
+              "growth_cost": 2150,
+              "growth_tier": "xs",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": null,
-              "vat": 0,
-              "net_profit": 0,
+              "coupang_fee": 705,
+              "vat": 324.5,
+              "net_profit": 2920.5,
               "profit_rate": null,
-              "margin_rate": null,
+              "margin_rate": 0.4787704918032787,
               "sell_auto": true,
               "fee_auto": true
             }
