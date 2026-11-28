@@ -16878,12 +16878,24 @@
           "_id": 37
         }
       },
+      "notes:custom-1795831311890-189": {
+        "t": 1795831317485,
+        "v": {
+          "status": "관심",
+          "memo": "",
+          "imgUrls": {},
+          "compImgUrls": {},
+          "category": "HOME",
+          "starred": false,
+          "hidden": false
+        }
+      },
       "custom:custom-1795831311890-189": {
-        "t": 1795831315274,
+        "t": 1795831317065,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795831311890-189",
-          "name": "샤워타오",
+          "name": "샤워타올",
           "monthly_search": null,
           "competitors": [
             {
