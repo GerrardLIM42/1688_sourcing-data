@@ -16879,7 +16879,7 @@
         }
       },
       "notes:custom-1795831311890-189": {
-        "t": 1795831381506,
+        "t": 1795831420995,
         "v": {
           "status": "관심",
           "memo": "",
@@ -16887,7 +16887,8 @@
           "compImgUrls": {
             "0": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2700/846acac496949d819710c3243a787c45a1e29e042c96804f36148a115077.jpg",
             "1": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/6yhw1vxt/9c3d47d2e52247c09ce777d363212e29.jpg",
-            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/193f/a4e58263acb3ae105273dd156240ed25d4652627c60a0b827f5a52cfa422.png"
+            "2": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/193f/a4e58263acb3ae105273dd156240ed25d4652627c60a0b827f5a52cfa422.png",
+            "3": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/161396789988682-9b3aea72-90ef-4492-b3b2-36c8dbf927f0.jpg"
           },
           "category": "HOME",
           "starred": false,
@@ -16895,7 +16896,7 @@
         }
       },
       "custom:custom-1795831311890-189": {
-        "t": 1795831408139,
+        "t": 1795831421351,
         "v": {
           "_isCustom": true,
           "sheet": "custom-1795831311890-189",
@@ -16933,18 +16934,18 @@
               "image": null
             },
             {
-              "name": "",
+              "name": "샤바스 샤워타월 파스텔",
               "sub": "",
-              "price": null,
+              "price": 7980,
               "views_28d": null,
-              "buyers_28d": null,
-              "reviews": null,
+              "buyers_28d": 3000,
+              "reviews": 20393,
               "url": "https://www.coupang.com/vp/products/237181715?itemId=751734893&vendorItemId=4898821289&q=%EC%83%A4%EC%9B%8C+%ED%83%80%EC%98%AC&searchId=f0f27b302251897&sourceType=search&rank=5&itemsCount=60&searchRank=5&traceId=mwzrnav6",
               "image": null
             }
           ],
           "lowest_price": 6100,
-          "avg_price": 9633.333333333334,
+          "avg_price": 9220,
           "pricing": [
             {
               "sell_price": 6100,
@@ -16963,18 +16964,18 @@
               "fee_auto": true
             },
             {
-              "sell_price": 9633.333333333334,
+              "sell_price": 9220,
               "china_cost": null,
               "purchase_cost": null,
               "growth_cost": 2150,
               "growth_tier": "xs",
               "fee_cat": "",
               "wing_fee": "",
-              "coupang_fee": 1113,
-              "vat": 637.0333333333334,
-              "net_profit": 5733.3,
+              "coupang_fee": 1065,
+              "vat": 600.5,
+              "net_profit": 5404.5,
               "profit_rate": null,
-              "margin_rate": 0.5951522491349481,
+              "margin_rate": 0.5861713665943601,
               "sell_auto": true,
               "fee_auto": true
             }
