@@ -14728,7 +14728,7 @@
         }
       },
       "edits:옷걸이": {
-        "t": 1795832540555,
+        "t": 1795832548229,
         "v": {
           "name": "옷걸이",
           "monthly_search": 39130,
@@ -14771,8 +14771,8 @@
           "pricing": [
             {
               "sell_price": 15080,
-              "china_cost": 18.84,
-              "purchase_cost": 5651,
+              "china_cost": 18.51,
+              "purchase_cost": 5182,
               "growth_cost": 4050,
               "growth_tier": "m",
               "fee_cat": "생활/주방",
@@ -14783,8 +14783,8 @@
             },
             {
               "sell_price": 16026,
-              "china_cost": 22.33,
-              "purchase_cost": 6698,
+              "china_cost": 22.85,
+              "purchase_cost": 6398,
               "growth_cost": 3325,
               "growth_tier": "s",
               "fee_cat": "",
